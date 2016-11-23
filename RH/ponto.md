@@ -1,7 +1,5 @@
 # Ponto
 
-![Ponto001](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto001.png)
-
 ## Geral
 
 ## Fechamento
@@ -10,6 +8,7 @@
 
 ## Déc.Terceiro e Férias
 
+![Ponto001](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto001.png)
 ![Ponto002](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto002.png)
 
 ## Geral
