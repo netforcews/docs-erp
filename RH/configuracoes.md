@@ -1,6 +1,6 @@
 # Configurações
 
-![SettingsPlugins](https://raw.githubusercontent.com/brunogoncalves/docs/master/phpstorm/imgs/print-settings-plugins.jpg)
+![Configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Configuracoes.png)
 
 ## Geral
 
