@@ -25,6 +25,7 @@
 - Descontos
 - Sub Total (3):
 
+
 - Total (2+3):
 
 ### Contas
@@ -34,5 +35,6 @@
 - Valor
 - Conta3
 - Valor
+
 
 - Observação
