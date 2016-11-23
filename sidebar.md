@@ -113,7 +113,7 @@
 
 #### RH
 - [Recrutamento](/)
-- [Ponto](/RH/Ponto.md)
+- [Ponto](/RH/ponto.md)
 - [Configurações](/RH/configuracoes.md)
 - [Funcionários](/)
 - [Equipamentos](/)
