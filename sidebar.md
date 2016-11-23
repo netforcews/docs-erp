@@ -96,10 +96,10 @@
 - [Relatório de Extrato plano de contas mensal](/)
 - [Relatório de Extrato de lançamentos do plano de contas](/)
 - [Relatório de Controle de comissões](/)
-- [Relatório de Listagem de Pagamento](/)
-- [Relatório de Relação de Pagamentos](/)
+- [Listagem de Pagamento](/)
+- [Relação de Pagamentos](/)
 - [Relatório de Cobrança](/)
-- [Relatório de Relatório de Comissões por Desempenho](/)
+- [Relatório de Comissões por Desempenho](/)
 
 #### PROJETOS
 - [Projetos](/)
@@ -118,9 +118,9 @@
 - [Funcionários](/)
 - [Equipamentos](/)
 - [Relatório de Fechamento do mês (RH)](/)
-- [Relatório de Relatório de Frequência](/)
-- [Relatório de Relação de pagamento](/)
-- [Relatório de Relação de Déc.Terceiro e Férias](/)
+- [Relatório de Frequência](/)
+- [Relação de pagamento](/)
+- [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
 
 #### ATENDIMENTO
 - [Chamados](/)
