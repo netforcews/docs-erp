@@ -113,8 +113,8 @@
 
 #### RH
 - [Recrutamento](/)
-- [Ponto](/)
-- [Configurações](/)
+- [Ponto](/RH/Ponto.md)
+- [Configurações](/RH/configuracoes.md)
 - [Funcionários](/)
 - [Equipamentos](/)
 - [Relatório de Fechamento do mês (RH)](/)
