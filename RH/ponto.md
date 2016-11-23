@@ -14,8 +14,8 @@
 ## Geral
 - Data: Informe a data do pagamento.
 - Tipo: Informe o tipo do pagamento.
-  -- Déc.Terceiro
-  -- Férias
+  * Déc.Terceiro
+  * Férias
 
 ### Totais
 - Acréscimos: Informe o valor total dos acréscimos.
