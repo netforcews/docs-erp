@@ -13,10 +13,14 @@ Este processo fará o lançamento automático para o contas a pagar.
 - Tipo: Informe "Pagamentos" para gerar lançamento de informações da aba "Pagamentos"; Informe "Déc.Terceiro e Férias" para gerar lancamento de informações da aba "Déc.Terceiro e Férias."
 
 ## Geral
+![Ponto005](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto005.png)
+![Ponto006](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto006.png)
 
 ## Fechamento
+![Ponto009](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto009.png)
 
 ## Pagamentos
+![Ponto010](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto010.png)
 
 ## Déc.Terceiro e Férias
 ![Ponto001](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto001.png)
@@ -51,3 +55,10 @@ Este processo fará o lançamento automático para o contas a pagar.
 
 - Observação: Informe uma observação.
 - Lançamento: Número do lançamento no contas a pagar. Esta informação é gerada automaticamente quando utilizado o comando "Lançar contas a pagar" na grade de ponto.
+
+## Atestados
+![Ponto007](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto007.png)
+![Ponto008](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto008.png)
+
+## Marcações (Relatório de Frequência)
+![relatoriodefrequencia](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/relatoriodefrequencia.png)
