@@ -1,4 +1,13 @@
 # Ponto
+![Ponto003](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto003.png)
+
+## Comandos
+### Lançar contas a pagar
+Este processo fará o lançamento automático para o contas a pagar.
+![Ponto004](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto004.png)
+- Competência: Informe a competência.
+- Dia pagamento: Informe o dia do pagamento.
+- Tipo: Informe "Pagamentos" para gerar lançamento de informações da aba "Pagamentos"; Informe "Déc.Terceiro e Férias" para gerar lancamento de informações da aba "Déc.Terceiro e Férias."
 
 ## Geral
 
@@ -7,7 +16,6 @@
 ## Pagamentos
 
 ## Déc.Terceiro e Férias
-
 ![Ponto001](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto001.png)
 ![Ponto002](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto002.png)
 
@@ -38,5 +46,5 @@
 - Conta3: Resultado da conta3 configurada em configurações para distribuição entre contas do déc.terceiro e férias.
 - Valor: Informe o valor da conta3.
 
-
 - Observação: Informe uma observação.
+- Lançamento: Número do lançamento no contas a pagar. Esta informação é gerada automaticamente quando utilizado o comando "Lançar contas a pagar" na grade de ponto.
