@@ -1,6 +1,7 @@
 # Ponto
 ![Ponto003](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto003.png)
 
+## Teste
 ## Comandos
 ### Lançar contas a pagar
 Este processo fará o lançamento automático para o contas a pagar.
