@@ -3,7 +3,7 @@
     "branch_name": "Beta",
     "sidebar"    : "/sidebar.md",
 
-    "logo": "https://rawgit.com/netforcews/assets/master/imgs/logo_docs.png?up=1",
+    "logo": "https://cdn.rawgit.com/netforcews/assets/master/imgs/logo_docs.png?up=2",
     "favicon": "http://cdn.rawgit.com/brunogoncalves/docs/master/theme/favicon.png",
 
     "modules": [
