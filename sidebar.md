@@ -4,7 +4,7 @@
 - [Vendedores](/)
 - [Bancos](/)
 - [Usuários](/)
-- [Empresa usuária](/cadastro/empresa_usuaria.md)
+- [Empresa usuária](/cadastro/empresa-usuaria.md)
 - [Equipamentos](/)
 - [Configurações](/)
 
