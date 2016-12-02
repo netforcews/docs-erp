@@ -10,7 +10,7 @@ Para realizar a atualização do seu certificado siga os seguintes passos:
 
 ![empresa_usuaria](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/empresa_usuaria.png)
 
-3. Dentro da opção ```Empresas Usuárias```selecione a empresa que você deseja atualizar o certificado:
+3. Dentro da opção ```Empresas Usuárias``` selecione a empresa que você deseja atualizar o certificado:
 
 ![escolher-empresa](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/escolher-empresa.png)
 
