@@ -1,5 +1,3 @@
-# [EM CONSTRUÇÃO]
-
 # Devolução - Nota Fiscal
 
 Para realizar a devolução de uma nota fiscal, siga os seguintes passos:
@@ -14,7 +12,7 @@ Para realizar a devolução de uma nota fiscal, siga os seguintes passos:
 
 3. Para efetuar a devolução da nota fiscal, você precisará criar um novo pedido com as mesmas informações do pedido que você quer fazer a devolução, a diferença será nos campos a seguir:
 
-  #### Aba Geral
+  ### Aba Geral
   1. ```Natureza de Operação```, terá que ser uma de devolução:
   
   ![natOp](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/natOp.png)
@@ -27,7 +25,7 @@ Para realizar a devolução de uma nota fiscal, siga os seguintes passos:
   
   ![forma-pag](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/forma-pag.png)
   
-  #### Aba NotaFiscal
+  ### Aba NotaFiscal
   ![notaFiscal](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/notaFiscal.png)
   
   1. ```Finalidade```, necessita ter o conteúdo **Devolução**:
