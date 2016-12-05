@@ -37,7 +37,7 @@ Para realizar a devolução de uma nota fiscal, siga os seguintes passos:
   
   ![nota-referente](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/nota-referente.png)
   
-> Lembrando que nos itens do pedido a **CFOP** terá que ser a mesma do pedido que você está fazendo a devolução.
+> Lembrando que nos itens do pedido a **CFOP** terá que ser a mesma dos itens do pedido que você está fazendo a devolução.
 
 Depois de ter concluído todos os passos basta salvar o pedido e lançar o mesmo como qualquer outro pedido:
 
