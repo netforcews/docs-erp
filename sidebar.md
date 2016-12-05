@@ -117,7 +117,7 @@
 - [Configurações](/RH/configuracoes.md)
 - Funcionários
 - Equipamentos
-- [Relatório de Fechamento do mês] (RH)
+- Relatório de Fechamento do mês (RH)
 - Relatório de Frequência
 - Relação de pagamento
 - [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
