@@ -58,7 +58,7 @@
 - [Pré-pedido](/)
 - [Orçamentos](/)
 - [Pedidos](/)
-- [Notas Fiscais](/)
+- [Notas Fiscais](/vendas/notas-fiscais.md)
 - [Histórico de Vendas](/)
 - [Gerar pacote de notas](/)
 - [Consulta Valor](/)
