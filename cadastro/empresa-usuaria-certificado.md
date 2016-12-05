@@ -23,6 +23,6 @@ certificado atualizado e clique em ```Salvar``` logo abaixo de ```Escolher Arqui
 
 ![certificado](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/certificado.png)
 
-6. Por final coloque uma nova senha no campo ```Senha``` e clique em **Salvar** no topo da página. Quando tudo for processado você verá que o nome do certificado foi atualizado para as datas corretas:
+6. Por final coloque uma nova senha no campo ```Senha``` e clique em **Salvar** no topo da página. Quando tudo for processado você verá que o campo da validade do certificado foi atualizado para as datas corretas:
 
 ![certificado-atualizado](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/certificado-atualizado.png)
