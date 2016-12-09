@@ -1,5 +1,5 @@
 #### CADASTROS
-- Produtos
+- [Produtos](/cadastro/Produtos.md)
 - Pessoas
 - Vendedores
 - Bancos
