@@ -16,7 +16,7 @@ Pela grade de grupos de produtos, podemos visualizar suas principais informaçõ
 
 As informações abaixo definirão ao sistema que os produtos pertencentes a este grupo pertencem a este conjunto de regras/definições.
 
-'''Código:''' Informe o código;
+***Código:*** Informe o código;
 - Tipo: Informe o tipo. D=Despesa; F=Fixo; I=Industrial; R=Revenda; S=Serviço;
 - Descrição: Informe a descrição;
 - Unidade: Informe a unidade de medida;
