@@ -37,6 +37,8 @@ Campo | Descrição
 ##Estoque
 ![Produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos04.png)
 
+Campo | Descrição
+------|----------
 **Est.mínimo** | 
 **Est.máximo** | 
 **Ponto ped.** | 
@@ -54,38 +56,46 @@ Campo | Descrição
 ##Compra/Venda
 ![Produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos05.png)
 
-- % IPI Venda:
-- % IPI Compra:
-- % ISQN:
-- Vlr.Compra/Produção:
-- Usar ficha do produto:
-- Vlr.produção (ficha):
-- Cálc.vlr.venda:
-- Valor venda 1:
-- Valor venda 2:
-- Valor venda 3:
-- Valor venda 4:
-- Valor venda 5:
-- Valor venda 6:
-- Vlr.méd.compra:
-- Vlr.méd.venda:
+Campo | Descrição
+------|----------
+**% IPI Venda** | 
+**% IPI Compra** | 
+**% ISQN** | 
+**Vlr.Compra/Produção** | 
+**Usar ficha do produto** | 
+**Vlr.produção (ficha)** | 
+**Cálc.vlr.venda** | 
+**Valor venda 1** | 
+**Valor venda 2** | 
+**Valor venda 3** | 
+**Valor venda 4** | 
+**Valor venda 5** | 
+**Valor venda 6** | 
+**Vlr.méd.compra** | 
+**Vlr.méd.venda** | 
 
 - Demostrativo dos últimos 12 meses
 
-- Receita:
-- Despesa:
-- Fora de linha:
-- Motivo:
+Campo | Descrição
+------|----------
+**Receita** | 
+**Despesa** | 
+**Fora de linha** | 
+**Motivo** | 
 
 ##Observação
 ![Produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos06.png)
 
-- Observação:
+Campo | Descrição
+------|----------
+**Observação** | 
 
 ##Termos
 ![Produtos07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos07.png)
 
-- Termos:
+Campo | Descrição
+------|----------
+**Termos** | 
 
 
 ##Histórico de vendas
@@ -95,14 +105,16 @@ Campo | Descrição
 ##Geral
 ![Produtos-HistoricoDeVendas02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-HistoricoDeVendas02.png)
 
-- Nota
-- Emissão:
-- Pedido:
-- Nome:
-- CNPJ/CPF:
-- Marca:
-- Quantidade:
-- Valor:
+Campo | Descrição
+------|----------
+**Nota** | 
+**Emissão** | 
+**Pedido** | 
+**Nome** | 
+**CNPJ/CPF** | 
+**Marca** | 
+**Quantidade** | 
+**Valor** | 
 
 ##Dependentes
 ##Grade
@@ -111,9 +123,11 @@ Campo | Descrição
 ##Geral
 ![Produtos-Dependentes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Dependentes02.png)
 
-- Produto:
-- % IPI
-- Valor custo:
-- Quantidade:
-- Valor:
-- Valor total:
+Campo | Descrição
+------|----------
+**Produto** | 
+**% IPI** | 
+**Valor custo** | 
+**Quantidade** | 
+**Valor** | 
+**Valor total** | 
