@@ -108,3 +108,10 @@ As informações abaixo definirão ao sistema as principais características do 
 
 ##Geral
 ![Produtos-Dependentes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Dependentes02.png)
+
+- Produto:
+- % IPI
+- Valor custo:
+- Quantidade:
+- Valor:
+- Valor total:
