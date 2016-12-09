@@ -87,15 +87,13 @@ As informações abaixo definirão ao sistema as principais características do 
 
 
 ##Histórico de vendas
-
 ##Grade
 ![Produtos-HistoricoDeVendas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-HistoricoDeVendas01.png)
 
 ##Geral
+![Produtos-HistoricoDeVendas02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-HistoricoDeVendas02.png)
 
 ##Dependentes
-![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes01.png)
-
 ##Grade
 ![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes01.png)
 
