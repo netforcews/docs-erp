@@ -12,8 +12,6 @@ Este processo fará o lançamento automático para o contas a pagar.
 - Dia pagamento: Informe o dia do pagamento.
 - Tipo: Informe "Pagamentos" para gerar lançamento de informações da aba "Pagamentos"; Informe "Déc.Terceiro e Férias" para gerar lancamento de informações da aba "Déc.Terceiro e Férias."
 
-----
-
 ## Geral
 ![Ponto005](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto005.png)
 ![Ponto006](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto006.png)
