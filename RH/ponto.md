@@ -9,11 +9,11 @@
 Este processo fará o lançamento automático para o contas a pagar.
 ![Ponto004](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto004.png)
 - Competência: 
-Informe a competência.
+-- Informe a competência.
 - Dia pagamento: 
-Informe o dia do pagamento.
+-- Informe o dia do pagamento.
 - Tipo: 
-Informe "Pagamentos" para gerar lançamento de informações da aba "Pagamentos"; Informe "Déc.Terceiro e Férias" para gerar lancamento de informações da aba "Déc.Terceiro e Férias."
+-- Informe "Pagamentos" para gerar lançamento de informações da aba "Pagamentos"; Informe "Déc.Terceiro e Férias" para gerar lancamento de informações da aba "Déc.Terceiro e Férias."
 
 ## Geral
 ![Ponto005](https://raw.githubusercontent.com/netforcews/docs-erp/master/RH/imagens/Ponto005.png)
