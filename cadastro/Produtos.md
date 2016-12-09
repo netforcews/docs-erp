@@ -14,40 +14,42 @@ As informações abaixo definirão ao sistema as principais características do 
 ##Geral
 ![Produtos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos03.png)
 
-- Código:
-- Descrição:
-- Grupo:
-- Tipo:
-- Unidade:
-- Tamanho:
-- Peso:
-- Complemento:
-- Fornecedor:
-- Cód.fornecedor:
-- Código barras:
-- Código ANP:
-- Cód.CEST:
-- C.tributária:
-- Origem:
-- C.fiscal (NCM):
-- Cód.serviço:
+Campo | Descrição
+------|----------
+**Código** | 
+**Descrição** | 
+**Grupo** | 
+**Tipo** | 
+**Unidade** | 
+**Tamanho** | 
+**Peso** | 
+**Complemento** | 
+**Fornecedor** | 
+**Cód.fornecedor** | 
+**Código barras** | 
+**Código ANP** | 
+**Cód.CEST** | 
+**C.tributária** | 
+**Origem** | 
+**C.fiscal (NCM)** | 
+**Cód.serviço** | 
 
 ##Estoque
 ![Produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos04.png)
 
-- Est.mínimo:
-- Est.máximo:
-- Ponto ped.:
-- Lote econômico:
-- Quantidade:
-- Valor méd.estoque:
-- Qtde.alocado:
-- Valor méd.alocado:
-- Qtde.saldo:
-- Valor méd.saldo:
-- Qtde em compra:
-- Prev.compra:
-- Último movimento:
+**Est.mínimo** | 
+**Est.máximo** | 
+**Ponto ped.** | 
+**Lote econômico** | 
+**Quantidade** | 
+**Valor méd.estoque** | 
+**Qtde.alocado** | 
+**Valor méd.alocado** | 
+**Qtde.saldo** | 
+**Valor méd.saldo** | 
+**Qtde em compra** | 
+**Prev.compra** | 
+**Último movimento** | 
 
 ##Compra/Venda
 ![Produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos05.png)
