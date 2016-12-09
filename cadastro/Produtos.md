@@ -95,7 +95,7 @@ As informações abaixo definirão ao sistema as principais características do 
 
 ##Dependentes
 ##Grade
-![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes01.png)
+![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Dependentes01.png)
 
 ##Geral
-![Produtos-Dependentes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes02.png)
+![Produtos-Dependentes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Dependentes02.png)
