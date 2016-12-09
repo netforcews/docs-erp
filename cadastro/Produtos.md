@@ -84,3 +84,20 @@ As informações abaixo definirão ao sistema as principais características do 
 ![Produtos07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos07.png)
 
 - Termos:
+
+
+##Histórico de vendas
+
+##Grade
+![Produtos-HistoricoDeVendas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-HistoricoDeVendas01.png)
+
+##Geral
+
+##Dependentes
+![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes01.png)
+
+##Grade
+![Produtos-Dependentes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes01.png)
+
+##Geral
+![Produtos-Dependentes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos-Produtos-Dependentes02.png)
