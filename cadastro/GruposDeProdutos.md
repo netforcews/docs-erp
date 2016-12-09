@@ -47,3 +47,5 @@ As informações abaixo definirão ao sistema que os produtos pertencentes a est
 - % Comissão: Informe o percentual de comissão;
 - Prazo de garantia: Informe o prazo de garantia. 1 ANO; 6 MESES;
 
+##Cadastro de Produtos
+![GruposDeProdutos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos06.png)
