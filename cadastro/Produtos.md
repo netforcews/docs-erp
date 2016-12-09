@@ -73,11 +73,7 @@ Campo | Descrição
 **Valor venda 6** | 
 **Vlr.méd.compra** | 
 **Vlr.méd.venda** | 
-
-- Demostrativo dos últimos 12 meses
-
-Campo | Descrição
-------|----------
+**Demostrativo dos últimos 12 meses** | 
 **Receita** | 
 **Despesa** | 
 **Fora de linha** | 
