@@ -8,10 +8,12 @@ Os grupos de produtos definem certas características que geram através de regr
 
 ## Grade
 ![GruposDeProdutos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos03.png)
+
 Pela grade de grupos de produtos, podemos visualizar suas principais informações e fazer a manutenção de suas informações.
 
 ##Geral
 ![GruposDeProdutos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos04.png)
+
 As informações abaixo definirão ao sistema que os produtos pertencentes a este grupo pertencem a este conjunto de regras/definições.
 
 - Código: Informe o código;
