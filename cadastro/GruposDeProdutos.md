@@ -6,7 +6,7 @@ Para acessar esta opção, deve-se selecionar a guia Cadastros, opção de menu 
 
 Os grupos de produtos definem certas características que geram através de regras o comportamento do sistema para os produtos pertencentes ao grupo.
 
-## Grade
+##Grade
 ![GruposDeProdutos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos03.png)
 
 Pela grade de grupos de produtos, podemos visualizar suas principais informações e fazer a manutenção de suas informações.
@@ -47,9 +47,8 @@ As informações abaixo definirão ao sistema que os produtos pertencentes a est
 - % Comissão: Informe o percentual de comissão;
 - Prazo de garantia: Informe o prazo de garantia. 1 ANO; 6 MESES;
 
-##Cadastro de Produtos
-![GruposDeProdutos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos06.png)
 
+##Cadastro de Produtos
 ![GruposDeProdutos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos06.png)
 
 
