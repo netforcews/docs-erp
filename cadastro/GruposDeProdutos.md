@@ -16,19 +16,16 @@ Pela grade de grupos de produtos, podemos visualizar suas principais informaçõ
 
 As informações abaixo definirão ao sistema que os produtos pertencentes a este grupo pertencem a este conjunto de regras/definições.
 
-**Código:** 
-Informe o código;
+**Código:** Informe o código;
 
-**Tipo:** 
-Informe o tipo. D=Despesa; F=Fixo; I=Industrial; R=Revenda; S=Serviço;
+**Tipo:** Informe o tipo. D=Despesa; F=Fixo; I=Industrial; R=Revenda; S=Serviço;
 
-**Descrição:**
-Informe a descrição;
+**Descrição:** Informe a descrição;
 
-**Unidade:**
-Informe a unidade de medida;
-**% Lucro adic.:**
-Informe o percentual de lucro;
+**Unidade:** Informe a unidade de medida;
+
+**% Lucro adic.:** Informe o percentual de lucro;
+
 **C.fiscal (NCM):** Informe o código NCM;
 **Tipo.Cálc.V.Venda:** Informe o tipo de cálculo. Fórmula; Manual;
 **C.tributária:** Informe a conta tributária;
