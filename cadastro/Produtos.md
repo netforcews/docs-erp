@@ -81,6 +81,6 @@ As informações abaixo definirão ao sistema as principais características do 
 - Observação:
 
 ##Termos
-![Produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos06.png)
+![Produtos07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos07.png)
 
 - Termos:
