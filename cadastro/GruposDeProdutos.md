@@ -50,4 +50,6 @@ As informações abaixo definirão ao sistema que os produtos pertencentes a est
 ##Cadastro de Produtos
 ![GruposDeProdutos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos06.png)
 
+![GruposDeProdutos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/GruposDeProdutos06.png)
+
 
