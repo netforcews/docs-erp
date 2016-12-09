@@ -26,9 +26,9 @@ As informações abaixo definirão ao sistema que os produtos pertencentes a est
 
 **% Lucro adic.:** Informe o percentual de lucro;
 
-**C.fiscal (NCM):**|Informe o código NCM;
-**Tipo.Cálc.V.Venda:**|Informe o tipo de cálculo. Fórmula; Manual;
-**C.tributária:**|Informe a conta tributária;
+**C.fiscal (NCM):** | Informe o código NCM;
+**Tipo.Cálc.V.Venda:** | Informe o tipo de cálculo. Fórmula; Manual;
+**C.tributária:** | Informe a conta tributária;
 
 **Origem:** Informe a origem. Nacional; Estrangeira - Importação Interna; Extrangeira - Adq.Mercdo Interno;
 **Cód.serviço:** Informe o código do serviço.
