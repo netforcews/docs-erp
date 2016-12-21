@@ -39,6 +39,7 @@
 #### ESTOQUES
 - Estoques
 - Movimento de estoque
+- Transferências
 - Configurações
 
 #### PCP
@@ -102,6 +103,9 @@
 - Relatório de Comissões por Desempenho
 
 #### PROJETOS
+- Entrada de produtos
+- Transferência de produtos
+- Ordem de produção
 - Projetos
 - Logística
 - Definição de cargas
