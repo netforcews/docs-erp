@@ -42,7 +42,7 @@
 - [Transferências](/Estoques/Transferencias.md)
 - Configurações
 
-#### PCP
+#### [PCP]
 + Apontamento de produção
 - Itens a produzir
 - Ordens de produção
