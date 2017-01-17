@@ -2,5 +2,11 @@
 
 O módulo de PCP é quem cria e gerencia todos os processos de produção do sistema.
 
-Para acessar esta opção, deve-se selecionar o módulo de PCP.
-![Produtos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/Produtos01.png)
+Para acessar este módulo, deve-se selecionar a guia PCP.
+
+![PCP01](https://raw.githubusercontent.com/netforcews/docs-erp/master/PCP/imagens/ModuloPCP01.png)
+
+
+Ao selecionar o módulo PCP, o sistema dará acesso as principais opções do módulo.
+
+![PCP02](https://raw.githubusercontent.com/netforcews/docs-erp/master/PCP/imagens/MenuPCP01.png)
