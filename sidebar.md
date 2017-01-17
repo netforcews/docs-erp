@@ -48,8 +48,8 @@
 - [Ordens de produção](/PCP/OrdensDeProducao.md)
 - [Configurações](/PCP/Configuracoes.md)
 
-#### WHS
-- Coleta
+#### [WHS](/WHS/WHS.md)
+- [Coleta](/WHS/Coleta.md)
 
 #### CRM
 - Interações
