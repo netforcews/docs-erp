@@ -1,6 +1,6 @@
 #Configurações
 
-Para acessar esta opção, deve-se selecionar a opção de menu Configurações.
+Para acessar esta opção, deve-se selecionar a opção de menu **Configurações**.
 
 ##Geral
 ![C01](https://raw.githubusercontent.com/netforcews/docs-erp/master/PCP/imagens/Configuracoes01.png)
