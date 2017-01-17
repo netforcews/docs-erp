@@ -44,9 +44,9 @@
 
 #### [PCP](/PCP/pcp.md)
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
-- Itens a produzir
-- Ordens de produção
-- Configurações
+- [Itens a produzir](/PCP/ItensAProduzir.md)
+- [Ordens de produção](/PCP/OrdensDeProducao.md)
+- [Configurações](/PCP/Configuracoes.md)
 
 #### WHS
 - Coleta
