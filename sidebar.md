@@ -43,7 +43,7 @@
 - Configurações
 
 #### [PCP](/PCP/pcp.md)
-+ Apontamento de produção
+- [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
 - Itens a produzir
 - Ordens de produção
 - Configurações
