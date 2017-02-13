@@ -121,6 +121,7 @@
 - [Configurações](/RH/configuracoes.md)
 - Funcionários
 - Equipamentos
+- [Contas](/RH/contas.md)
 - Relatório de Fechamento do mês (RH)
 - Relatório de Frequência
 - Relação de pagamento
