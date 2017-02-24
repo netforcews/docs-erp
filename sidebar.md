@@ -35,6 +35,7 @@
 - ICMSs
 - Exportar e-mails
 - Classificações
+- [Transferir Responsável](/cadastro/transferir-responsavel.md)
 
 #### ESTOQUES
 - Estoques
