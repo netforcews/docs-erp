@@ -102,7 +102,10 @@
 - Relação de Pagamentos
 - Relatório de Cobrança
 - Relatório de Comissões por Desempenho
-
+#### Problemas
+##### Títulos
+- [Liquidação Dupla](/financeiro/problemas/titulos/liquidado-duas-vezes.md)
+  
 #### PROJETOS
 - Entrada de produtos
 - Transferência de produtos
