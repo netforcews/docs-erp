@@ -5,7 +5,7 @@ Você emitiou um boleto de cobrança para seu cliente e depois de uns dias quand
 duas ocorrências de liquidação quando na verdade deveria existir somente uma:
 
 ![ocorrencias](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/ocorrencias.png)
-> Nota que a primeira ocorrência é a "06" e a segunda "17"
+> Note que a primeira ocorrência é a "06" e a segunda "17"
 
 ## Causas
 
