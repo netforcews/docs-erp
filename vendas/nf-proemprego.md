@@ -52,10 +52,10 @@ As variáveis vão possuir os valores mencionados de cada item, a utilização d
 **infCpl - Parcial** e **infCpl - Total**. Em qualquer campo que contiver alguma das 4 variáveis, o lugar que ela está vai ser
 substituído pelo valor do item ou a soma dos itens dependendo do preenchimento da opção **Agrupar Itens**.
 
-### Exemplos
+## Exemplos
 
 
-#### Exemplo de preenchimento do campo **infCpl** e resultado no xml:
+### Exemplo de preenchimento do campo **infCpl** e resultado no xml:
 
 - Com **Agrupar Itens** habilitado (variáveis {{pDif}} e {{nItem}} não consideradas nesse caso):
 
@@ -82,7 +82,7 @@ PED: 00003673. TOTAL APROXIMADO DOS TRIBUTOS: FEDERAIS R$ 2,57 (12,42%) ESTADUAI
 > Todos os valores e números são exemplos
 
 
-#### Exemplo de preenchimento do campo **infAdFisco** e resultado no xml:
+### Exemplo de preenchimento do campo **infAdFisco** e resultado no xml:
 
 - **infAdFisco:** ICMS DIFERIDO PRO-EMPREGO, CONFORME DECRETO 104 DE 14/03/07 E RESOLUÇÃO 210/2010-SEF-TTD TTD 105000001716264.
 
