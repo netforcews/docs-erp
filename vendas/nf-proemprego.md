@@ -54,11 +54,11 @@ substituído pelo valor do item ou a soma dos itens dependendo do preenchimento 
 
 ### Exemplos
 
-Exemplo de preenchimento do campo **infCpl** e resultado no xml:
+#### Exemplo de preenchimento do campo **infCpl** e resultado no xml:
 
 - Com **Agrupar Itens** habilitado (variável {{pDif}} não considerada nesse caso):
 
-  - **infCpl:** ITENS COM VALOR ICMS DIFERIDO DE {{vICMSDif}} E PERCENTUAL {{pDif}} E VALOR ICMS DA OPERACAO DE {{vICMSOp}}
+  - **infCpl:** ITENS COM VALOR ICMS DIFERIDO DE {{vICMSDif}} E VALOR ICMS DA OPERACAO DE {{vICMSOp}}
 
   - **XML**:
 ```xml
@@ -66,4 +66,16 @@ Exemplo de preenchimento do campo **infCpl** e resultado no xml:
             PED: 00003670. TOTAL APROXIMADO DOS TRIBUTOS: FEDERAIS R$ 2,57 (12,42%) ESTADUAIS R$ 2,38 (11,50%) FONTE IBPT. ITENS COM VALOR ICMS DIFERIDO DE 1,14 E VALOR ICMS DA OPERACAO DE 1,14
   </infCpl>
 ```
-> Todos os valores e números ali são exemplos
+> Todos os valores e números são exemplos
+
+- Com **Agrupar Itens** desabilitado:
+
+  - **infCpl:** ITEM COM VALOR ICMS DIFERIDO DE {{vICMSDif}}, PERCENTUAL {{pDif}} E VALOR ICMS DA OPERACAO DE {{vICMSOp}}
+
+  - **XML**:
+```xml
+<infCpl>
+PED: 00003673. TOTAL APROXIMADO DOS TRIBUTOS: FEDERAIS R$ 2,57 (12,42%) ESTADUAIS R$ 2,38 (11,50%) FONTE IBPT. ITEM COM VALOR ICMS DIFERIDO DE 1,14, PERCENTUAL 100 E VALOR ICMS DA OPERACAO DE 1,14. ITEM COM VALOR ICMS DIFERIDO DE 1,78, PERCENTUAL 100 E VALOR ICMS DA OPERACAO DE 1,78.
+</infCpl>
+```
+> Todos os valores e números são exemplos
