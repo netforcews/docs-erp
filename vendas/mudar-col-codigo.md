@@ -10,7 +10,7 @@ Esse passo-a-passo vai mostrar para você como fazer a escolha dessas duas opç�
 
 ![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/vendas-configuracoes.png)
 
-2. Já na tela de configurações, localize o campo *Col. Código* e escolha entre *Código Interno* ou **Código do Fornecedor**. Por fim
+2. Já na tela de configurações, localize o campo **Col. Código** e escolha entre **Código Interno** ou **Código do Fornecedor**. Por fim
 clique em ```Executar```:
 
 ![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/coluna-executar.png)
