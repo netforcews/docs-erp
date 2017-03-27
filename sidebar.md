@@ -66,6 +66,7 @@
 - Consulta Valor
 - Processar Contratos
 - Configurações
+  - [Mudar Coluna Código](/vendas/mudar-col-codigo.md)
 - Relatório de Pedidos
 - Relatório de Notas Fiscais
 - Relatório de Resumo de vendas por produtos
