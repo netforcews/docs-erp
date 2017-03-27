@@ -1,6 +1,6 @@
 # Mudar Coluna Código para Pedidos/Orçamentos
 
-Quando você emite o pdf de pedido/orçamento para mandar para o cliente existe uma coluna chamada *Código*, nela você se baseia 
+Quando você emite o pdf de pedido/orçamento para mandar para o cliente existe uma coluna chamada **Código**, nela você se baseia 
 para saber a ordem dos itens.
 Para fazer essa ordenação você tem duas opções, ordenar pelo código do fornecedor ou ordenar pelo código interno do produto.
 
@@ -10,7 +10,7 @@ Esse passo-a-passo vai mostrar para você como fazer a escolha dessas duas opç�
 
 ![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/vendas-configuracoes.png)
 
-2. Já na tela de configurações, localize o campo *Col. Código* e escolha entre *Código Interno* ou *Código do Fornecedor*. Por fim
+2. Já na tela de configurações, localize o campo *Col. Código* e escolha entre *Código Interno* ou **Código do Fornecedor**. Por fim
 clique em ```Executar```:
 
 ![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/coluna-executar.png)
