@@ -35,6 +35,14 @@ No seu XML a tag **tpAmb** vai estar com o valor 2, para importar uma CT-e essa 
 #### Solução
 Nesse caso o seu XML não está apto para a importação, verifique com a transportadora e solicite um novo XML CT-e autorizado.
 
+### O XML selecionado não é uma CT-e autorizada ou não é uma CT-e
+
+#### Problema
+Você escolheu seu arquivo e clicou no botão anexar e em seguida obteve esse erro retornando para o grid.
+
+#### Solução
+Como a mensagem diz, o XML selecionado não é uma CT-e ou é uma CT-e autorizada. Verifique o seu XML e tenha certeza se você está
+selecionando o arquivo certo para realizar o anexo.
 
 ### Arquivo não foi transferido corretamente 
 
