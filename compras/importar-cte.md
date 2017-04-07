@@ -26,7 +26,33 @@ Caso der algum erro, procure por ele na sessão de **Erros** nesse mesmo manual 
 
 ## Erros
 
+### Notas de homologação não devem ser importadas
 
+#### Problema
+Caso você obtenha esse erro você está tentando importar um XML com o tipo de ambiente 2, referente a homologação.
+No seu XML a tag **tpAmb** vai estar com o valor 2, para importar uma CT-e essa tag precisa ter o valor 1, referente a produção.
+
+#### Solução
+Nesse caso o seu XML não está apto para a importação, verifique com a transportadora e solicite um novo XML CT-e autorizado.
+
+
+### Arquivo não foi transferido corretamente 
+
+#### Problema
+Você escolheu seu arquivo e clicou no botão anexar e em seguida obtém esse erro na mesma tela em que está.
+
+#### Solução
+Provavelmente você selecionou um arquivo que não se encaixa na importação do xml, ou seja, selecionou um arquivo que não possui
+a extensão **.xml**. Tenha certeza que o seu arquivo possui a extensão **.xml**, verifique se você está pegando o arquivo correto e 
+tente importar novamente.
+
+### Arquivo "nomedoseuarquivo" do XML-CTe não foi encontrado
+
+#### Problema
+Esse erro pode ocorrer depois que você clicar no botão **Anexar** logo depois de ter escolhido o seu arquivo para importação.
+
+#### Solução
+Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar o arquivo novamente, caso ainda não obter sucesso contate o *Suporte NetForce*.
 
 ## Visualizando a CT-e
 
@@ -47,7 +73,7 @@ CT-e XML
 **Remetente** |
 Município Início
 Estado Início
-** Destinatário ** |
+**Destinatário** |
 Município Fim
 Estado Fim
 **Componentes do Frete** |
