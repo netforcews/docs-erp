@@ -50,13 +50,53 @@ Campo |
 **Valor do Frete**
 **Modal**
 ```Mercadoria``` |
-**Info.Adicional**
-**Log**
-**Modelo**
 **Outras características da carga**
 **Produto Predominante**
-**Tipo de Impressão**
+**Valor Total de Tributos**
 **Valor a Receber**
 **Valor Total de Carga**
-**Valor Total de Tributos**
-**Verificador das Abas**
+```Fisco``` |
+**Info.Adicional**
+
+### Componentes
+
+Campo |
+------|
+**Nome**
+**Valor**
+
+### Mercadorias
+
+Campo |
+------|
+**Unidade**
+**Tipo de Medida**
+**Quantidade de Carga**
+**Valor da Carga para Averbação**
+
+### Documentos
+
+Campo |
+------|
+**Chave**
+**NF-e ou Doc. Anterior**
+
+### Impostos
+
+Campo |
+------|
+**Tipo CST**
+**Número CST**
+**Descrição CST**
+**Valor BC**
+**% ICMS**
+**Valor ICMS**
+**% Redução BC**
+**Valor BC do ICMS ST retido**
+**Valor ICMS ST Retido**
+**% ICMS ST Retido**
+**Valor Crédito**
+**Simples Nacional**
+**% ICMS FCP**
+**Valor ICMS FCP**
+**% ICMS Interestadual**
