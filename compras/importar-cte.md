@@ -68,7 +68,7 @@ Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar
 
 ### Geral
 
-**Campo** | **Descrição**
+**Campo**
 -------------------------------|
 Tipo de CTe
 Tipo de Serviço
@@ -98,14 +98,14 @@ Info.Adicional
 
 ### Componentes
 
-**Campo** | **Descrição**
+**Campo**
 ------|
 Nome
 Valor
 
 ### Mercadorias
 
-**Campo** | **Descrição**
+**Campo**
 -----------------------------|
 Unidade
 Tipo de Medida
@@ -114,14 +114,14 @@ Valor da Carga para Averbação
 
 ### Documentos
 
-**Campo** | **Descrição**
+**Campo**
 ---------------------|
 Chave
 NF-e ou Doc. Anterior
 
 ### Impostos
 
-**Campo** | **Descrição**
+**Campo**
 --------------------------|
 Tipo CST
 Número CST
@@ -141,7 +141,7 @@ Valor ICMS FCP
 
 ### Emitente/Remetente/Expedidor/Recebedor/Destinatário
 
-**Campo** | **Descrição**
+**Campo**
 ----------------|
 Identificador
 Nome
@@ -162,7 +162,7 @@ Email
 
 ### Seguro
 
-**Campo** | **Descrição**
+**Campo**
 ------------|
 Responsável
 Seguradora
