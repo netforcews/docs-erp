@@ -24,79 +24,112 @@ Caso der algum erro, procure por ele na sessão de **Erros** nesse mesmo manual 
 
 ![sucesso](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/sucesso.png)
 
+## Erros
+
+
+
 ## Visualizando a CT-e
 
 ![interface](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/interface.png)
 
 ### Geral
 
-Campo |
+**Campo** |
 ------|
-**Tipo de CTe**
-**Tipo de Serviço**
-**Emissão**
-**Munícipio de Origem**
-**Número**
-**Série**
-**CFOP**
-**CT-e XML**
-```Remetente``` |
-**Município Início**
-**Estado Início**
-```Destinatário``` |
-**Município Fim**
-**Estado Fim**
-```Componentes do Frete``` |
-**Valor do Frete**
-**Modal**
-```Mercadoria``` |
-**Outras características da carga**
-**Produto Predominante**
-**Valor Total de Tributos**
-**Valor a Receber**
-**Valor Total de Carga**
-```Fisco``` |
-**Info.Adicional**
+Tipo de CTe
+Tipo de Serviço
+Emissão
+Munícipio de Origem
+Número
+Série
+CFOP
+CT-e XML
+**Remetente** |
+Município Início
+Estado Início
+** Destinatário ** |
+Município Fim
+Estado Fim
+**Componentes do Frete** |
+Valor do Frete
+Modal
+**Mercadoria** |
+Outras características da carga
+Produto Predominante
+Valor Total de Tributos
+Valor a Receber
+Valor Total de Carga
+**Fisco** |
+Info.Adicional
 
 ### Componentes
 
-Campo |
+**Campo** |
 ------|
-**Nome**
-**Valor**
+Nome
+Valor
 
 ### Mercadorias
 
-Campo |
+**Campo** |
 ------|
-**Unidade**
-**Tipo de Medida**
-**Quantidade de Carga**
-**Valor da Carga para Averbação**
+Unidade
+Tipo de Medida
+Quantidade de Carga
+Valor da Carga para Averbação
 
 ### Documentos
 
-Campo |
+**Campo** |
 ------|
-**Chave**
-**NF-e ou Doc. Anterior**
+Chave
+NF-e ou Doc. Anterior
 
 ### Impostos
 
-Campo |
+**Campo** |
 ------|
-**Tipo CST**
-**Número CST**
-**Descrição CST**
-**Valor BC**
-**% ICMS**
-**Valor ICMS**
-**% Redução BC**
-**Valor BC do ICMS ST retido**
-**Valor ICMS ST Retido**
-**% ICMS ST Retido**
-**Valor Crédito**
-**Simples Nacional**
-**% ICMS FCP**
-**Valor ICMS FCP**
-**% ICMS Interestadual**
+Tipo CST
+Número CST
+Descrição CST
+Valor BC
+% ICMS
+Valor ICMS
+% Redução BC
+Valor BC do ICMS ST retido
+Valor ICMS ST Retido
+% ICMS ST Retido
+Valor Crédito
+Simples Nacional
+% ICMS FCP
+Valor ICMS FCP
+% ICMS Interestadual
+
+### Emitente/Remetente/Expedidor/Recebedor/Destinatário
+
+**Campo** |
+------|
+Identificador
+Nome
+Marca
+CNPJCPF
+IE
+IEST
+Logradouro
+Número
+Complemento
+Bairro
+Município
+CEP
+Estado
+DDD
+Telefone
+Email
+
+### Seguro
+
+**Campo** |
+------|
+Responsável
+Seguradora
+Apólice
