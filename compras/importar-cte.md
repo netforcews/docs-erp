@@ -26,6 +26,15 @@ Caso der algum erro, procure por ele na sessão de **Erros** nesse mesmo manual 
 
 ## Erros
 
+### CT-e já foi importada
+
+#### Problema
+Você foi importar uma CT-e normalmente e recebeu esse erro.
+
+#### Solução
+Isso quer dizer que já existe a CT-e que você está tentando importar no sistema. Verifique se você selecionou o arquivo certo na hora
+de anexar o mesmo.
+
 ### Notas de homologação não devem ser importadas
 
 #### Problema
