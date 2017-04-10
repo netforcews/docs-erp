@@ -69,7 +69,6 @@ Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar
 ### Geral
 
 **Campo**
--------------------------------|
 Tipo de CTe
 Tipo de Serviço
 Emissão
@@ -167,3 +166,6 @@ Email
 Responsável
 Seguradora
 Apólice
+
+
+Até a próxima :smile:
