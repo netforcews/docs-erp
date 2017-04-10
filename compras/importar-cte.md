@@ -80,7 +80,7 @@ Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar
 **Campo** | **Descrição**
 ----------|--------------
 Tipo de CTe | Tipo do CT-e
-Tipo de Serviço | 0-Normal; 1-Subcontratação; 2-Redespacho; 3-Redespacho Intermediário; 4-Serviço Vinculado a Multimodal
+Tipo de Serviço | Tipo do Serviço
 Emissão | Data e hora de emissão do CT-e
 Munícipio de Origem | Código do Município de envio do CT-e (de onde o documento foi transmitido) 
 Número | Número do CT-e
@@ -88,96 +88,101 @@ Série | Série do CT-e
 CFOP | Código Fiscal de Operações e Prestações 
 CT-e XML | XML do CT-e
 
-**Remetente** |
-Município Início
-Estado Início
+**Remetente** | **Descrição**
+--------------|--------------
+Município Início | Município de início da prestação
+Estado Início | Estado do início da prestação
 
-**Destinatário** |
-Município Fim
-Estado Fim
+**Destinatário** | **Descrição**
+-----------------|--------------
+Município Fim | Município de término da prestação 
+Estado Fim | Estado do término da prestação
 
-**Componentes do Frete** |
-Valor do Frete
-Modal
+**Componentes do Frete** | **Descrição**
+-------------------------|--------------
+Valor do Frete | Valor Total da Prestação do Serviço 
+Modal | Modal 
 
-**Mercadoria** |
-Outras características da carga
-Produto Predominante
-Valor Total de Tributos
-Valor a Receber
-Valor Total de Carga
+**Mercadoria** | **Descrição**
+---------------|--------------
+Outras características da carga | Outras características da carga 
+Produto Predominante | Produto predominante 
+Valor Total de Tributos | Valor Total dos Tributos 
+Valor a Receber | Valor a Receber 
+Valor Total de Carga | Valor total da carga 
 
-**Fisco** |
-Info.Adicional
+**Fisco** | **Descrição**
+----------|--------------
+Info.Adicional | Informações adicionais de interesse do Fisco
 
 ### Componentes
 
-**Campo**
-------|
-Nome
-Valor
+**Campo** | **Descrição**
+----------|---------
+Nome | Nome do componente
+Valor | Valor do componente 
 
 ### Mercadorias
 
-**Campo**
------------------------------|
-Unidade
-Tipo de Medida
-Quantidade de Carga
-Valor da Carga para Averbação
+**Campo** | **Descrição**
+----------|-------------
+Unidade | Código da Unidade de Medida
+Tipo de Medida | Tipo da Medida 
+Quantidade de Carga | Quantidade 
+Valor da Carga para Averbação | Valor da Carga para efeito de averbação 
 
 ### Documentos
 
-**Campo**
----------------------|
-Chave
-NF-e ou Doc. Anterior
+**Campo** | **Descrição**
+----------|--------------
+Chave | Chave de acesso da NF-e ou Chave de acesso do CT-e 
+NF-e ou Doc. Anterior | NF-e ou Documento Anterior
 
 ### Impostos
 
-**Campo**
---------------------------|
-Tipo CST
-Número CST
-Descrição CST
-Valor BC
-% ICMS
-Valor ICMS
-% Redução BC
-Valor BC do ICMS ST retido
-Valor ICMS ST Retido
-% ICMS ST Retido
-Valor Crédito
-Simples Nacional
-% ICMS FCP
-Valor ICMS FCP
-% ICMS Interestadual
+**Campo** | **Descrição**
+----------|---------------
+Tipo CST | Tipo do CST
+Número CST | Classificação Tributária do Serviço 
+Descrição CST | Descrição do CST
+Valor BC | Valor da BC do ICMS 
+% ICMS | Alíquota do ICMS 
+Valor ICMS | Valor do ICMS 
+% Redução BC | Percentual de redução da BC 
+Valor BC do ICMS ST retido | Valor da BC do ICMS ST retido 
+Valor ICMS ST Retido | Valor do ICMS ST retido
+% ICMS ST Retido | 
+Valor Crédito |
+Simples Nacional |
+% ICMS FCP |
+Valor ICMS FCP |
+% ICMS Interestadual |
 
 ### Emitente/Remetente/Expedidor/Recebedor/Destinatário
 
-**Campo**
-----------------|
-Identificador
-Nome
-Marca
-CNPJCPF
-IE
-IEST
-Logradouro
-Número
-Complemento
-Bairro
-Município
-CEP
-Estado
-DDD
-Telefone
-Email
+**Campo** | **Descrição**
+----------|--------------
+Identificador |
+Nome |
+Marca |
+CNPJCPF |
+IE |
+IEST |
+Logradouro |
+Número |
+Complemento |
+Bairro |
+Município |
+CEP | 
+Estado | 
+DDD |
+Telefone |
+Email |
 
 ### Seguro
 
-**Campo**
-------------|
-Responsável
-Seguradora
-Apólice
+**Campo** | **Descrição**
+----------|--------------
+Responsável |
+Seguradora |
+Apólice |
