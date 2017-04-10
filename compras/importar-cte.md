@@ -68,30 +68,36 @@ Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar
 
 ### Geral
 
-**Campo**
-Tipo de CTe
-Tipo de Serviço
-Emissão
-Munícipio de Origem
-Número
-Série
-CFOP
-CT-e XML
+**Campo** | **Descrição**
+----------|--------------
+Tipo de CTe | Tipo do CT-e
+Tipo de Serviço | 0-Normal; 1-Subcontratação; 2-Redespacho; 3-Redespacho Intermediário; 4-Serviço Vinculado a Multimodal
+Emissão | Data e hora de emissão do CT-e
+Munícipio de Origem | Código do Município de envio do CT-e (de onde o documento foi transmitido) 
+Número | Número do CT-e
+Série | Série do CT-e 
+CFOP | Código Fiscal de Operações e Prestações 
+CT-e XML | XML do CT-e
+
 **Remetente** |
 Município Início
 Estado Início
+
 **Destinatário** |
 Município Fim
 Estado Fim
+
 **Componentes do Frete** |
 Valor do Frete
 Modal
+
 **Mercadoria** |
 Outras características da carga
 Produto Predominante
 Valor Total de Tributos
 Valor a Receber
 Valor Total de Carga
+
 **Fisco** |
 Info.Adicional
 
@@ -166,6 +172,3 @@ Email
 Responsável
 Seguradora
 Apólice
-
-
-Até a próxima :smile:
