@@ -107,6 +107,7 @@
 #### Problemas
 ##### Títulos
 - [Liquidação Dupla](/financeiro/problemas/titulos/liquidado-duas-vezes.md)
+- [Reenviar para cobrança](/financeiro/problemas/titulos/reenviar-titulo-para-cobranca.md)
   
 #### PROJETOS
 - Entrada de produtos
