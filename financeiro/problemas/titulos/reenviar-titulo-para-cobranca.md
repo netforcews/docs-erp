@@ -14,11 +14,11 @@ Em seguida, você deve gerar o arquivo de remessa de cobrança para que este tí
 
 Com o retorno de cobrança, você poderá ver os detalhes do novo boleto na parcela.
 
-(Sempre confira se o flag "em cobrança está marcado, pois se estiver, o processo é realizado de outra meneira).
+(Sempre confira se o flag "Em Cobrança" está marcado, pois se estiver, o processo é realizado de outra meneira).
 
 ![flag](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/flag.jpg)
 
-Se o mesmo estiver em cobrança, é nessário pedir a baixado boleto junto ao banco e para o processo imediato, é necessário executar o comando de forçar retirada de cobrança.
+Se o mesmo estiver em cobrança, é nessário pedir a baixa do boleto junto ao banco e para o processo imediato, é necessário executar o comando de forçar retirada de cobrança.
 
 ![retirada](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/retirada.jpg)
 
