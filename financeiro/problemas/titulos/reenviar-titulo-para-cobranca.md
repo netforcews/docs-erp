@@ -1,4 +1,4 @@
-# Reenviar Títulos para cobrança 
+# Reenviar títulos para cobrança 
 
 Caso seja necessário reenviar um título para a cobrança, você deverá seguir os seguintes passos:
 
