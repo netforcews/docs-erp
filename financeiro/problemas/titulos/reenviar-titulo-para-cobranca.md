@@ -14,8 +14,6 @@ Em seguida, você deve gerar o arquivo de remessa de cobrança para que este tí
 
 Com o retorno de cobrança, você poderá ver os detalhes do novo boleto na parcela.
 
-![boleto](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/boleto.jpg)
-
 (Sempre confira se o flag "em cobrança está marcado, pois se estiver, o processo é realizado de outra meneira).
 
 ![flag](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/flag.jpg)
