@@ -24,6 +24,6 @@ Se o mesmo estiver em cobrança, é nessário pedir a baixado boleto junto ao ba
 
 A partir desse momento, o processo é igual. Você limpa e/ou altera os dados desejados e emite os aquivos de remessa e retorno.
 
-Para conferir se o boleto está de acordo, você pode visualizar o mesmo em:
+Para conferir se o boleto está de acordo, você pode visualizar o mesmo em: 
 
 ![boleto](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/boleto.jpg)
