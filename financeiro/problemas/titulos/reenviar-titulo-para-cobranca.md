@@ -5,6 +5,9 @@ Caso seja necessário reenviar um título para a cobrança, você deverá seguir
 Em financeiro, contas a receber, você irá escolher a parcela desejada e será na parte onde constam os dados do boleto que você irá realizar as alterações.
 Primeiramente, deve-se limpar os campos de Linha Digitável, Código de Barras e Nosso Número.
 Se necessário também alterar data de vencimento na parcela, este é o momento. 
+
+![campos boleto](https://raw.githubusercontent.com/netforcews/docs-erp/master/financeiro/imagens/campos%20boleto.jpg)
+
 Em seguida, você deve gerar o arquivo de cobrança para que este título já esteja no banco.
 Com o retorno de cobrança, você poderá ver os detalhes do novo boleto na parcela.
 
