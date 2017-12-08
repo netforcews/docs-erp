@@ -37,7 +37,6 @@
 - Classificações
 - [Transferir Responsável](/cadastro/transferir-responsavel.md)
 - [Promoções](/cadastro/promocoes.md)
-- [Promoções](/cadastro/promocoes.md)
 
 #### ESTOQUES
 - Estoques
