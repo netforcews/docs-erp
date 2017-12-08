@@ -1,5 +1,4 @@
 # Promoções
-
 Para acessar esta opção, deve-se selecionar a guia Cadastros, opção de menu Tabelas, opção de menu Promoções.
 ![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes00.png)
 
