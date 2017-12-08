@@ -18,5 +18,6 @@ Campo | Descrição
 **Até** | Informe o fim da validade da promoção.
 **Situação** | Informação do sistema sobre a validade da promoção.
 
+## Veja
 - [Itens da promoção](/cadastro/promocaoitens.md)
 
