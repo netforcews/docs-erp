@@ -1,14 +1,11 @@
-#Itens a Produzir
-
+# Itens a Produzir
 Para acessar esta opção, deve-se selecionar a opção de menu **Itens a Produzir**.
 
-##Grade
+## Grade
 ![IAP01](https://raw.githubusercontent.com/netforcews/docs-erp/master/PCP/imagens/ItensAProduzir01.png)
 
-##Geral
+## Geral
 ![IAP02](https://raw.githubusercontent.com/netforcews/docs-erp/master/PCP/imagens/ItensAProduzir02.png)
-
-
 Campo | Descrição
 ------|----------
 **OP Número** | 
