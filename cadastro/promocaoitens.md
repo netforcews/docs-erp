@@ -13,6 +13,6 @@ Campo | Descrição
 **Produto** | Informe o item da Promoção.
 **Valor** | Informe o valor do item da promoção.
 
-## Veja
-- [Promoções](/cadastro/promocoes.md)
+
+## [Promoções](/cadastro/promocoes.md)
 
