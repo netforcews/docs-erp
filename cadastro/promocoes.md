@@ -1,11 +1,9 @@
 # Promoções
-Para acessar esta opção, deve-se selecionar a guia Cadastros, opção de menu Tabelas, opção de menu Promoções.
-![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes00.png)
+Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
 
 ## Grade
-![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes01.png)
-
 Pela grade de promoções, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes01.png)
 
 ## Geral
 ![promocoes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes02.png)
