@@ -12,7 +12,7 @@ Pela grade de entrada de produtos, podemos visualizar suas principais informaç�
 As informações abaixo definirão ao sistema como será a transferência.
 
 ## Geral
-![Transferencia03](https://raw.githubusercontent.com/netforcews/docs-erp/master/Estoques/Imagens/Transferencias03.png)
+![EntradaDeProdutos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/Projetos/Imagens/EntradaDeProdutos03.png)
 
 Campo | Descrição
 ------|----------
