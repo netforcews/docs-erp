@@ -39,4 +39,4 @@ Campo | Descrição
 **Valor** | Informe o valor do item da promoção.
 
 
-
+- [Itens da promção](/cadastro/promocaoitens.md)
