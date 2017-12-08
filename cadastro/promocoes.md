@@ -3,14 +3,14 @@
 Para acessar esta opção, deve-se selecionar a guia Cadastros, opção de menu Tabelas, opção de menu Promoções.
 ![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes00.png)
 
-## Grade
+## Grade da promoção
 ![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes01.png)
 
 Pela grade de promoções, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 
 As informações abaixo definirão ao sistema as principais características da promoção.
 
-## Geral
+## Guia Geral da promoção
 ![promocoes02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes02.png)
 
 Campo | Descrição
@@ -24,14 +24,14 @@ Campo | Descrição
 # Itens da promoção
 Note que logo abaixo da tela de dados da promoção há um link que dá acesso à grade de itens da promoção.
 
-## Grade
+## Grade dos itens da promoção
 ![promocoes03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes03.png)
 
 Pela grade de itens da promoções, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 
 As informações abaixo definirão ao sistema as principais características do item da promoção.
 
-## Geral
+## Guia Geral dos itens da promoção
 ![promocoes04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastro/imgs/promocoes04.png)
 
 Campo | Descrição
