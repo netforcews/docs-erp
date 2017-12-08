@@ -16,18 +16,5 @@ As informações abaixo definirão ao sistema como será a transferência.
 
 Campo | Descrição
 ------|----------
-**Número** | Informe o número.
-**Data** | Informe a data.
-**Empresa origem** | Informe a empresa de origem.
-**Empresa destino** | Informe a empresa de destino.
-**Produto** | Informe o produto. 
-**Lote** | Informe o lote.
-**Número de série** | Informe o número de série.
-**Data de validade** | Informe a data de validade.
-**Funcionário** | Informe o funcionário.
-**Tipo** | Informe o tipo.
-**Origem** | Informe a origem.
-**Documento** | Informe o documento.
-**Quantidade** | Informe a quantidade.
-**Valor origem** | Informe o valor de origem.
-**Valor destino** | Informe o valor de destino.
+**x** | Informe o número.
+
