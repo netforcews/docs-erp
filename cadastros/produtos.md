@@ -47,7 +47,6 @@ Campo | Descrição
 Campo | Descrição
 ------|----------
 **Pró emprego** | 
-**** | 
 **% Redução BC** | 
 **% Diferimento** | 
 ## Estoque
@@ -83,7 +82,6 @@ Campo | Descrição
 **Usar ficha do produto** | 
 **V.produção (ficha)** | Valor de produção com base na ficha do produto
 **Cálc.V.Venda** | Tipo da formação do valor de venda, pela Fórmula ou Manual
-**** | 
 **Valor Venda 1** | Valor de venda do produto com a margen de venda zero
 **Valor Venda 2** | Valor de venda do produto com a margen de venda especialmente competitiva
 **Valor Venda 3** | Valor de venda do produto com a margen de venda competitiva
