@@ -19,3 +19,8 @@ Campo | Descrição
 
 ## [Itens da promoção](/cadastro/promocaoitens.md)
 
+## Links
+### [Itens da promoção](/cadastro/promocaoitens.md)
+
+
+
