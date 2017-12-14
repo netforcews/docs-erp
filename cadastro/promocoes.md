@@ -19,9 +19,8 @@ Campo | Descrição
 **Situação** | Informação do sistema sobre a validade da promoção.
 
 ## Comandos
-### **Copiar produto** |
-### **Trocar produto** |
-
+### Copiar produto
+### Trocar produto
 ## Links
 ### [Histórico de Vendas](/cadastros/historicovendas_produto.md)
 ### [Ficha do Produto](/cadastros/produtoficha.md)
