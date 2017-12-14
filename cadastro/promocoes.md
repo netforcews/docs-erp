@@ -24,5 +24,7 @@ Campo | Descrição
 ## Links
 ### [Itens da promoção](/cadastro/promocaoitens.md)
 
-
+## Comandos
+### [Copiar produto]
+### [Trocar produto]
 
