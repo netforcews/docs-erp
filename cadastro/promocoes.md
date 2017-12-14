@@ -1,7 +1,5 @@
 # Promoções
 
-
-
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
 
 ## Grade
