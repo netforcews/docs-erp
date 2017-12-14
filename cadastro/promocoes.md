@@ -18,13 +18,14 @@ Campo | Descrição
 **Até** | Informe o fim da validade da promoção.
 **Situação** | Informação do sistema sobre a validade da promoção.
 
+## Comandos
+### **Copiar produto** |
+### **Trocar produto** |
 
 ## Links
 ### [Histórico de Vendas](/cadastros/historicovendas_produto.md)
 ### [Ficha do Produto](/cadastros/produtoficha.md)
 ### [Dependentes](/cadastros/materiaficha.md)
 
-## Comandos
-### Copiar produto
-### Trocar produto
+
 
