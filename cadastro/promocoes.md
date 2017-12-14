@@ -19,12 +19,12 @@ Campo | Descrição
 **Situação** | Informação do sistema sobre a validade da promoção.
 
 
-## [Itens da promoção](/cadastro/promocaoitens.md)
-
 ## Links
-### [Itens da promoção](/cadastro/promocaoitens.md)
+### [Histórico de Vendas](/cadastros/historicovendas_produto.md)
+### [Ficha do Produto](/cadastros/produtoficha.md)
+### [Dependentes](/cadastros/materiaficha.md)
 
 ## Comandos
-### [Copiar produto]
-### [Trocar produto]
+### Copiar produto
+### Trocar produto
 
