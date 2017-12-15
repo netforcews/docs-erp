@@ -1,4 +1,4 @@
-#### [FAQ](/faq/faq.md)
+#### [F.A.Q.](/faq/faq.md)
 
 #### CADASTROS
 - [Produtos](/cadastros/Produtos.md)
