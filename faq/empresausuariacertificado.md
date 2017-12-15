@@ -1,4 +1,4 @@
-# Atualização do Certificado
+# ATUALIZAR CERTIFICADO DA EMPRESA
 
 Para realizar a atualização do seu certificado siga os seguintes passos:
 
