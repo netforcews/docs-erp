@@ -1,7 +1,8 @@
 # PROMOÇÕES
-
+<br>
 ## Acesso
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
+<br>
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 ![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes00.png)
@@ -12,6 +13,7 @@ Campo | Descrição
 **Até** | 
 **Situação** | 
 **Nome** | 
+<br>
 ## Geral
 ![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes01.png)
 
@@ -22,9 +24,9 @@ Campo | Descrição
 **De** | Informe o início da validade da promoção.
 **Até** | Informe o fim da validade da promoção.
 **Situação** | Informa se a promoção está ou não dentro da validade.
+<br>
 ## Links
 ### [Itens](/geral/promocaoitens.md)
-<br>
 <br>
 <br>
 <br>
