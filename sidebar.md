@@ -1,164 +1,137 @@
 #### [F.A.Q.](/faq/faq.md)
+- [Liquidação Dupla](/financeiro/problemas/titulos/liquidado-duas-vezes.md)
+- [Reenviar para cobrança](/financeiro/problemas/titulos/reenviar-titulo-para-cobranca.md)
 
 #### CADASTROS
-- [Produtos](/cadastros/Produtos.md)
-- Pessoas
-- Vendedores
 - Bancos
-- Usuários
-- [Empresa usuária](/cadastros/empresausuaria.md)
-- Equipamentos
-- Configurações
-- Estados
-- Departamentos
-- Regiões
-- Ramos de atividade
-- Condições de pagamento
-- Naturezas de operação
+- Carteiras de cobrança
+- Categorias de equipamentos
+- Centros de custos
+- Classificações
 - Classificações fiscais
 - Classificações tributárias
-- Tipos de serviços
-- Ocorrências de cobrança
-- OC Cobrança motivos
-- Carteiras de cobrança
-- Centros de custos
-- Opções
-- [Grupos de produtos](/cadastros/produtogrupo.md)
-- Unidades de medida
-- Tipos de produtos
-- Planos de conta
-- Margens de venda
-- Categorias de equipamentos
-- Feriados
-- Máquinas
-- Ocorrências
-- ICMSs
+- Condições de pagamento
+- Configurações
+- Departamentos
+- [Empresa usuária](/cadastros/empresausuaria.md)
+- Equipamentos
+- Estados
 - Exportar e-mails
-- Classificações
-- [Transferir Responsável](/cadastro/transferir-responsavel.md)
+- Feriados
+- [Grupos de produtos](/cadastros/produtogrupo.md)
+- ICMSs
+- Margens de venda
+- Máquinas
+- Naturezas de operação
+- OC Cobrança motivos
+- Ocorrências
+- Ocorrências de cobrança
+- Opções
+- Pessoas
+- Planos de conta
+- [Produtos](/cadastros/Produtos.md)
 - [Promoções](/cadastros/promocoes.md) 
+- Ramos de atividade
+- Regiões
+- Tipos de produtos
+- Tipos de serviços
+- [Transferir Responsável](/cadastro/transferir-responsavel.md)
+- Unidades de medida
+- Usuários
+- Vendedores
 
 #### ESTOQUES
+- Configurações
 - Estoques
 - Movimento de estoque
 - [Transferências](/Estoques/Transferencias.md)
-- Configurações
 
 #### [PCP](/PCP/pcp.md)
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
+- [Configurações](/PCP/Configuracoes.md)
 - [Itens a produzir](/PCP/ItensAProduzir.md)
 - [Ordens de produção](/PCP/OrdensDeProducao.md)
-- [Configurações](/PCP/Configuracoes.md)
 
 #### [WHS](/WHS/WHS.md)
 - [Coleta](/WHS/Coleta.md)
 
 #### CRM
-- Interações
 - Configurações
+- Interações
 
 ####  VENDAS
-- Pré-pedido
+- Configurações
+- Consulta Valor
+- Gerar pacote de notas
+- Histórico de Vendas
+- [Mudar Coluna Código](/vendas/mudar-col-codigo.md)
+- [Notas Fiscais](/vendas/notas-fiscais.md)
 - Orçamentos
 - Pedidos
-- [Notas Fiscais](/vendas/notas-fiscais.md)
-- Histórico de Vendas
-- Gerar pacote de notas
-- Consulta Valor
+- Pré-pedido
 - Processar Contratos
-- Configurações
-  - [Mudar Coluna Código](/vendas/mudar-col-codigo.md)
-- Relatório de Pedidos
-- Relatório de Notas Fiscais
-- Relatório de Resumo de vendas por produtos
-- Relatório de Resumo de pedidos por produtos
-- Relatório de Analise de Vendas
 
 #### COMPRAS
-- Pedidos
-- Notas Fiscais
-- Importar Notas
 - Configurações
-- Relatório de Resumo de OC
+- Importar Notas
+- Notas Fiscais
+- Pedidos
 
 #### FINANCEIRO
+- Acertos entre unidades
+- Atualizar linha digitável
+- Configurações
+- Contas correntes
 - Contas a Pagar
 - Contas a Receber
-- Contas correntes
-- Transferência entre contas
+- Emitir Duplicatas
+- Emitir Guia de Pagamento
+- Faturar comissões OS
+- Gerar faturas de OSs
 - Remessa de Cobrança
 - Retorno de Cobrança
-- Emitir Guia de Pagamento
-- Emitir Duplicatas
-- Atualizar linha digitável
-- Gerar faturas de OSs
-- Faturar comissões OS
-- Acertos entre unidades
-- Configurações
-- Relatório de Extrato por conta corrente
-- Relatório de Extrato plano de Contas
-- Relatório de Extrato plano de contas mensal
-- Relatório de Extrato de lançamentos do plano de contas
-- Relatório de Controle de comissões
-- Listagem de Pagamento
-- Relação de Pagamentos
-- Relatório de Cobrança
-- Relatório de Comissões por Desempenho
-
-#### Problemas
-##### Títulos
-- [Liquidação Dupla](/financeiro/problemas/titulos/liquidado-duas-vezes.md)
-- [Reenviar para cobrança](/financeiro/problemas/titulos/reenviar-titulo-para-cobranca.md)
+- Transferência entre contas
   
 #### PROJETOS
+- Configurações
+- Definição de cargas
 - Entrada de produtos
-- Transferência de produtos
+- Logística
 - Ordem de produção
 - Projetos
-- Logística
-- Definição de cargas
-- Configurações
-- Relatório de Resumo de projetos
-- Relatório de Resumo do Vendedor
-- Relatório de Projetos por Unidade
-- Relatório de Produção
+- Transferência de produtos
 
 #### RH
-- Recrutamento
-- [Ponto](/RH/ponto.md)
 - [Configurações](/RH/configuracoes.md)
-- Funcionários
-- Equipamentos
 - [Contas](/RH/contas.md)
-- Relatório de Fechamento do mês (RH)
-- Relatório de Frequência
-- Relação de pagamento
+- Equipamentos
+- Funcionários
+- [Ponto](/RH/ponto.md)
+- Recrutamento
 - [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
 
 #### ATENDIMENTO
 - Chamados
-- Status
 - Configurações
+- Status
 
 #### OS
-- Ordem de Serviço
 - Configurações
-- Relatório de Demonstrativo de Comissões
-- Relatório de Controle de atendimento abertos
+- Ordem de Serviço
 
 #### E-MAILS
+- Campanhas
+- Configurações
+- Contas
 - Entrada
-- Saída
-- Spam
+- Estilos
+- Filtros
 - Lixeira
+- Saída
 - SMS Saída
 - SMS Modelos
-- Campanhas
-- Contas
-- Filtros
-- Estilos
-- Configurações
+- Spam
 
 #### PORTAL
-- Páginas
 - Configurações
+- Páginas
