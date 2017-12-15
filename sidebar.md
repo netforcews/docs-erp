@@ -23,7 +23,7 @@
 - Carteiras de cobrança
 - Centros de custos
 - Opções
-- [Grupos de produtos](/cadastros/gruposdeproduto.md)
+- [Grupos de produtos](/cadastros/produtogrupo.md)
 - Unidades de medida
 - Tipos de produtos
 - Planos de conta
