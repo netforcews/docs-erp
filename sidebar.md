@@ -1,3 +1,5 @@
+- [FAQ](/faq/faq.md)
+
 #### CADASTROS
 - [Produtos](/cadastros/Produtos.md)
 - Pessoas
