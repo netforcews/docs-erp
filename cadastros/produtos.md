@@ -4,7 +4,7 @@
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Produtos.
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![produtos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos01.png)
+![produtos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos00.png)
 
 Campo | Descrição
 ------|----------
@@ -20,7 +20,7 @@ Campo | Descrição
 **Ú.Mov** | 
 **Estoq** | 
 ## Geral
-![produtos02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos02.png)
+![produtos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos01.png)
 
 Campo | Descrição
 ------|----------
@@ -42,7 +42,7 @@ Campo | Descrição
 **C.Fiscal (NCM)** | 
 **Cód.Serviço** | 
 ## Impostos
-![produtos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos03.png)
+![produtos02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos02.png)
 
 Campo | Descrição
 ------|----------
@@ -50,7 +50,7 @@ Campo | Descrição
 **% Redução BC** | 
 **% Diferimento** | 
 ## Estoque
-![produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos04.png)
+![produtos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos03.png)
 
 Campo | Descrição
 ------|----------
@@ -69,7 +69,7 @@ Campo | Descrição
 **Prev. Compra** | Previsão de entrega do compras
 **Último Movimento** | Último movimento de compra ou venda deste produto
 ## Compra/Venda
-![produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos05.png)
+![produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos04.png)
 
 Campo | Descrição
 ------|----------
@@ -96,13 +96,13 @@ Campo | Descrição
 **Fora de Linha** | Se um produto for marcado como fora de linha, não aparecerá nas listas de Venda
 **Motivo** | 
 ## Observação
-![produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos06.png)
+![produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos05.png)
 
 Campo | Descrição
 ------|----------
 **Observação** | 
 ## Termos
-![produtos07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos07.png)
+![produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos06.png)
 
 Campo | Descrição
 ------|----------
