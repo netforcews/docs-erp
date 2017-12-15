@@ -1,4 +1,4 @@
-#### [**F.A.Q.**](/faq/faq.md)
+- [**F.A.Q.**](/faq/faq.md)
 
 #### CADASTROS
 - Bancos
