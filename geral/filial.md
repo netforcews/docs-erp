@@ -14,7 +14,6 @@ Campo | Descrição
 
 Campo | Descrição
 ------|----------
-**Empresa** | 
 **Código** | 
 **Marca** | 
 **Nome** | 
