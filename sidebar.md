@@ -9,8 +9,6 @@
 - [Empresa usuária](/cadastros/empresausuaria.md)
 - Equipamentos
 - Configurações
-
-#### TABELAS
 - Estados
 - Departamentos
 - Regiões
@@ -25,7 +23,7 @@
 - Carteiras de cobrança
 - Centros de custos
 - Opções
-- [Grupos de produtos](/cadastro/GruposDeProdutos.md)
+- [Grupos de produtos](/cadastros/gruposdeproduto.md)
 - Unidades de medida
 - Tipos de produtos
 - Planos de conta
