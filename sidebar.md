@@ -38,7 +38,7 @@
 - Exportar e-mails
 - Classificações
 - [Transferir Responsável](/cadastro/transferir-responsavel.md)
-- [Promoções](/cadastro/promocoes.md)
+- [Promoções](/cadastros/promocoes.md)
 
 #### ESTOQUES
 - Estoques
