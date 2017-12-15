@@ -6,7 +6,7 @@
 - Vendedores
 - Bancos
 - Usuários
-- [Empresa usuária](/cadastro/empresa-usuaria.md)
+- [Empresa usuária](/cadastros/empresausuaria.md)
 - Equipamentos
 - Configurações
 
