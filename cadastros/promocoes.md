@@ -4,7 +4,7 @@
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![promoções00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promoções00.png)
+![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes00.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 **Situação** | 
 **Nome** | 
 ## Geral
-![promoções01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promoções01.png)
+![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes01.png)
 
 Campo | Descrição
 ------|----------
