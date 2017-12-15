@@ -22,7 +22,7 @@ Campo | Descrição
 
 Campo | Descrição
 ------|----------
-**Nome** | Informe o nome da promoção.
+**Nome** | Informe o nome da promoção. 
 **Descrição** | Informe uma descrição para a promoção.
 **De** | Informe o início da validade da promoção.
 **Até** | Informe o fim da validade da promoção.
