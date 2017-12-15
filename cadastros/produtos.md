@@ -1,7 +1,11 @@
 # PRODUTOS
+<br>
 
 ## Acesso
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Produtos.
+<br>
+<br>
+
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 ![produtos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos00.png)
@@ -19,6 +23,8 @@ Campo | Descrição
 **F.L** | 
 **Ú.Mov** | 
 **Estoq** | 
+<br>
+
 ## Geral
 ![produtos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos01.png)
 
@@ -41,6 +47,8 @@ Campo | Descrição
 **Origem** | 
 **C.Fiscal (NCM)** | 
 **Cód.Serviço** | 
+<br>
+
 ## Impostos
 ![produtos02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos02.png)
 
@@ -49,6 +57,8 @@ Campo | Descrição
 **Pró emprego** | 
 **% Redução BC** | 
 **% Diferimento** | 
+<br>
+
 ## Estoque
 ![produtos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos03.png)
 
@@ -68,6 +78,8 @@ Campo | Descrição
 **Qtdade em Compra** | 
 **Prev. Compra** | Previsão de entrega do compras
 **Último Movimento** | Último movimento de compra ou venda deste produto
+<br>
+
 ## Compra/Venda
 ![produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos04.png)
 
@@ -95,24 +107,36 @@ Campo | Descrição
 **Despesa** | Conta contábil para despesa
 **Fora de Linha** | Se um produto for marcado como fora de linha, não aparecerá nas listas de Venda
 **Motivo** | 
+<br>
+
 ## Observação
 ![produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos05.png)
 
 Campo | Descrição
 ------|----------
 **Observação** | 
+<br>
+
 ## Termos
 ![produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos06.png)
 
 Campo | Descrição
 ------|----------
 **Termos** | 
+<br>
+
 ## Comandos
 ### Copiar produto
-Descrever o comando.
 ### Trocar produto
-Descrever o comando.
+<br>
+
 ## Links
 ### [Histórico de Vendas](/geral/historicovendas_produto.md)
 ### [Ficha do Produto](/geral/produtoficha.md)
 ### [Dependentes](/geral/materiaficha.md)
+<br>
+<br>
+<br>
+<br>
+
+```CAD_PRODUTOS:PRODUTO```
