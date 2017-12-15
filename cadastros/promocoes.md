@@ -1,4 +1,3 @@
-```PROMOCOES```
 # PROMOÇÕES
 
 ## Acesso
@@ -25,3 +24,6 @@ Campo | Descrição
 **Situação** | Informa se a promoção está ou não dentro da validade.
 ## Links
 ### [Itens](/geral/promocaoitens.md)
+## Informações técnicas
+```Tabela:CAD_PROMOCOES```
+```Interface:PROMOCOES```
