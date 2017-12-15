@@ -25,5 +25,4 @@ Campo | Descrição
 ## Links
 ### [Itens](/geral/promocaoitens.md)
 ## Informações técnicas
-```Tabela:CAD_PROMOCOES```
-```Interface:PROMOCOES```
+```CAD_PROMOCOES:PROMOCOES```
