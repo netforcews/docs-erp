@@ -44,13 +44,13 @@
 - Movimento de estoque
 - [Transferências](/Estoques/Transferencias.md)
 
-#### [PCP](/PCP/pcp.md)
+#### PCP
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
 - [Configurações](/PCP/Configuracoes.md)
 - [Itens a produzir](/PCP/ItensAProduzir.md)
 - [Ordens de produção](/PCP/OrdensDeProducao.md)
 
-#### [WHS](/WHS/WHS.md)
+#### WHS
 - [Coleta](/WHS/Coleta.md)
 
 #### CRM
