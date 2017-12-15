@@ -33,7 +33,7 @@
 - Regiões
 - Tipos de produtos
 - Tipos de serviços
-- [Transferir Responsável](/cadastro/transferir-responsavel.md)
+- Transferir Responsável
 - Unidades de medida
 - Usuários
 - Vendedores
