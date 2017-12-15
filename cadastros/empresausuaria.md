@@ -4,7 +4,7 @@
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Empresa usuária.
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![empresausuária00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária00.png)
+![empresausuaria00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria00.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 **Código** | 
 **ID.Interno** | 
 ## Geral
-![empresausuária01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária01.png)
+![empresausuaria01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria01.png)
 
 Campo | Descrição
 ------|----------
@@ -45,7 +45,7 @@ Campo | Descrição
 **Série Serviço** | Série padrão para prestação de serviço
 **Série Consumidor** | Série padrão para vendas ao consumidor final
 ## Impostos
-![empresausuária02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária02.png)
+![empresausuaria02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria02.png)
 
 Campo | Descrição
 ------|----------
@@ -67,7 +67,7 @@ Campo | Descrição
 **Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da Substituição Tributária
 **Observação NF** | Observação para ser exibido na nota fiscal, na parte dos dados adicionais
 ## Financeiro
-![empresausuária03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária03.png)
+![empresausuaria03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria03.png)
 
 Campo | Descrição
 ------|----------
@@ -76,7 +76,7 @@ Campo | Descrição
 **% Juros Mora** | % da taxa de juros (a.m.) utilizado na emissão dos boletos
 **% Multa** | % da taxa de muta para boeltos vencido
 ## Configurações
-![empresausuária04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária04.png)
+![empresausuaria04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria04.png)
 
 Campo | Descrição
 ------|----------
@@ -106,20 +106,20 @@ Campo | Descrição
 **Aviso de faturas em atraso** | 
 **Aviso de faturas em atraso via SMS** | 
 ## Termos
-![empresausuária05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária05.png)
+![empresausuaria05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria05.png)
 
 Campo | Descrição
 ------|----------
 **Termos** | 
 ## Logomarca
-![empresausuária06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária06.png)
+![empresausuaria06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria06.png)
 
 Campo | Descrição
 ------|----------
 **Logo** | 
 **Logo Nota** | 
 ## Informações
-![empresausuária07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuária07.png)
+![empresausuaria07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresausuaria07.png)
 
 Campo | Descrição
 ------|----------
