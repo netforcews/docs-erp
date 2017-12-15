@@ -1,6 +1,4 @@
 #### [F.A.Q.](/faq/faq.md)
-- [Liquidação Dupla](/financeiro/problemas/titulos/liquidado-duas-vezes.md)
-- [Reenviar para cobrança](/financeiro/problemas/titulos/reenviar-titulo-para-cobranca.md)
 
 #### CADASTROS
 - Bancos
