@@ -4,7 +4,7 @@
 ## Acesso
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
 <br>
-
+<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
