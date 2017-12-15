@@ -1,4 +1,6 @@
 # FILIAL
+<br>
+<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -9,6 +11,8 @@ Campo | Descrição
 **Marca** | 
 **Nome** | 
 **Código** | 
+<br>
+
 ## Geral
 ![filial01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filial01.png)
 
@@ -28,3 +32,9 @@ Campo | Descrição
 **WebSite** | 
 **CNPJ** | 
 **IE** | 
+<br>
+<br>
+<br>
+<br>
+
+```SEG_FILIAIS:FILIAL```
