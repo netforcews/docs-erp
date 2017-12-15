@@ -14,6 +14,5 @@ Campo | Descrição
 
 Campo | Descrição
 ------|----------
-**Promoção** | 
 **Produto** | Informe o produto da promoção.
 **Valor** | Informe o valor da promoção.
