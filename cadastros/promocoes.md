@@ -27,4 +27,5 @@ Campo | Descrição
 <br>
 <br>
 <br>
+
 ```CAD_PROMOCOES:PROMOCOES```
