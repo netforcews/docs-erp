@@ -1,10 +1,10 @@
 # PRODUTOS
 
-Acesso
+## Acesso
 Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Produtos.
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![produto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto01.png)
+![produtos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos01.png)
 
 Campo | Descrição
 ------|----------
@@ -20,7 +20,7 @@ Campo | Descrição
 **Ú.Mov** | 
 **Estoq** | 
 ## Geral
-![produto02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto02.png)
+![produtos02](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos02.png)
 
 Campo | Descrição
 ------|----------
@@ -42,7 +42,7 @@ Campo | Descrição
 **C.Fiscal (NCM)** | 
 **Cód.Serviço** | 
 ## Impostos
-![produto03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto03.png)
+![produtos03](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos03.png)
 
 Campo | Descrição
 ------|----------
@@ -50,7 +50,7 @@ Campo | Descrição
 **% Redução BC** | 
 **% Diferimento** | 
 ## Estoque
-![produto04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto04.png)
+![produtos04](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos04.png)
 
 Campo | Descrição
 ------|----------
@@ -69,7 +69,7 @@ Campo | Descrição
 **Prev. Compra** | Previsão de entrega do compras
 **Último Movimento** | Último movimento de compra ou venda deste produto
 ## Compra/Venda
-![produto05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto05.png)
+![produtos05](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos05.png)
 
 Campo | Descrição
 ------|----------
@@ -96,13 +96,13 @@ Campo | Descrição
 **Fora de Linha** | Se um produto for marcado como fora de linha, não aparecerá nas listas de Venda
 **Motivo** | 
 ## Observação
-![produto06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto06.png)
+![produtos06](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos06.png)
 
 Campo | Descrição
 ------|----------
 **Observação** | 
 ## Termos
-![produto07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto07.png)
+![produtos07](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtos07.png)
 
 Campo | Descrição
 ------|----------
@@ -113,6 +113,6 @@ Descrever o comando.
 ### Trocar produto
 Descrever o comando.
 ## Links
-### [Histórico de Vendas](/cadastros/historicovendas_produto.md)
-### [Ficha do Produto](/cadastros/produtoficha.md)
-### [Dependentes](/cadastros/materiaficha.md)
+### [Histórico de Vendas](/geral/historicovendas_produto.md)
+### [Ficha do Produto](/geral/produtoficha.md)
+### [Dependentes](/geral/materiaficha.md)
