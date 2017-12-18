@@ -10,6 +10,7 @@ Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabel
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 ![promocoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes00.png)
 
+Campo | Descrição
 ------|----------
 **De** | 
 **Até** | 
@@ -20,6 +21,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 ## Geral
 ![promocoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes01.png)
 
+Campo | Descrição
 ------|----------
 **Nome** | Informe o nome da promoção. 
 **Descrição** | Informe uma descrição para a promoção.
