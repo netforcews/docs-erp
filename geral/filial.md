@@ -3,29 +3,29 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
+Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
 ![filial00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filial00.png)
 
-Campo | DescriÃ§Ã£o
+Campo | Descrição
 ------|----------
 **Marca** | 
 **Nome** | 
-**CÃ³digo** | 
+**Código** | 
 <br>
 
 ## Geral
 ![filial01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filial01.png)
 
-Campo | DescriÃ§Ã£o
+Campo | Descrição
 ------|----------
-**CÃ³digo** | 
+**Código** | 
 **Marca** | 
 **Nome** | 
 **Logradouro** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**MunicÃ­pio** | 
+**Município** | 
 **Telefone** | 
 **Fax** | 
 **E-mail** | 
