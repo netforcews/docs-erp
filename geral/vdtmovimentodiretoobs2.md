@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vdtmovimentodiretoobs200](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs200.png)
+![vdtmovimentodiretoobs2.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs2.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![vdtmovimentodiretoobs201](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs201.png)
+![vdtmovimentodiretoobs2.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs2.geral.png)
 
 Campo | Descrição
 ------|----------

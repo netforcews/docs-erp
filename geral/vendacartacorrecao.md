@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vendacartacorrecao00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao00.png)
+![vendacartacorrecao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![vendacartacorrecao01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao01.png)
+![vendacartacorrecao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao.geral.png)
 
 Campo | Descrição
 ------|----------

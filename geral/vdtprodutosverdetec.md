@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vdtprodutosverdetec00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec00.png)
+![vdtprodutosverdetec.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -19,7 +19,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![vdtprodutosverdetec01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec01.png)
+![vdtprodutosverdetec.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -38,7 +38,7 @@ Campo | Descrição
 <br>
 
 ## Observações
-![vdtprodutosverdetec02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec02.png)
+![vdtprodutosverdetec.observacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec.observacoes.png)
 
 Campo | Descrição
 ------|----------
@@ -48,7 +48,7 @@ Campo | Descrição
 <br>
 
 ## Anexos
-![vdtprodutosverdetec03](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec03.png)
+![vdtprodutosverdetec.anexos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtprodutosverdetec.anexos.png)
 
 Campo | Descrição
 ------|----------

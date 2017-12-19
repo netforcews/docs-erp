@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vendaanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendaanexos00.png)
+![vendaanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendaanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![vendaanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendaanexos01.png)
+![vendaanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendaanexos.geral.png)
 
 Campo | Descrição
 ------|----------

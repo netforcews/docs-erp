@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vendafatura00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura00.png)
+![vendafatura.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![vendafatura01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura01.png)
+![vendafatura.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura.geral.png)
 
 Campo | Descrição
 ------|----------

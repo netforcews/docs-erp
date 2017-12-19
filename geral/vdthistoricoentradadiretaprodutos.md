@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![vdthistoricoentradadiretaprodutos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdthistoricoentradadiretaprodutos00.png)
+![vdthistoricoentradadiretaprodutos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdthistoricoentradadiretaprodutos.grid.png)
 
 Campo | Descrição
 ------|----------
