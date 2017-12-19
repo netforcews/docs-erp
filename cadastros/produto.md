@@ -1,37 +1,37 @@
-Ôªø # PRODUTOS
+# PRODUTOS
 <br>
 
 ## Acesso
-Para acessar esta op√ß√£o, deve-se selecionar o m√≥dulo Cadastros, op√ß√£o Cadastros, op√ß√£o Produtos.
+Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Cadastros, opÁ„o Produtos.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
+Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
 ![produto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.grid.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
-**C√≥digo** | 
-**C√≥d. Forn.** | 
+**CÛdigo** | 
+**CÛd. Forn.** | 
 **C.Barras** | 
-**Descri√ß√£o** | 
+**DescriÁ„o** | 
 **Grp** | 
 **Tipo** | 
 **Fornecedor** | 
 **Venda** | 
 **F.L** | 
-**√ö.Mov** | 
+**⁄.Mov** | 
 **Estoq** | 
 <br>
 
 ## Geral
 ![produto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.geral.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
-**C√≥digo** | 
-**Descri√ß√£o** | 
+**CÛdigo** | 
+**DescriÁ„o** | 
 **Grupo** | 
 **Tipo** | 
 **Unidade** | 
@@ -39,88 +39,88 @@ Campo | Descri√ß√£o
 **Peso** | 
 **Complemento** | 
 **Fornecedor** | 
-**C√≥d. Fornecedor** | 
-**C√≥digo Barras** | 
-**C√≥digo ANP** | Quando de registro da ANP para produtos combust√≠veis e lubrificantes
-**C√≥d CEST** | C√≥digo Especificador da Substitui√ß√£o Tribut√°ria ‚Äì CEST, que estabelece a sistem√°tica de uniformiza√ß√£o e identifica√ß√£o das mercadorias e bens pass√≠veis de sujei√ß√£o aos regimes de substitui√ß√£o tribut√°ria e de antecipa√ß√£o de recolhimento do ICMS
-**C.Tribut√°ria** | 
+**CÛd. Fornecedor** | 
+**CÛdigo Barras** | 
+**CÛdigo ANP** | Quando de registro da ANP para produtos combustÌveis e lubrificantes
+**CÛd CEST** | CÛdigo Especificador da SubstituiÁ„o Tribut·ria ñ CEST, que estabelece a sistem·tica de uniformizaÁ„o e identificaÁ„o das mercadorias e bens passÌveis de sujeiÁ„o aos regimes de substituiÁ„o tribut·ria e de antecipaÁ„o de recolhimento do ICMS
+**C.Tribut·ria** | 
 **Origem** | 
 **C.Fiscal (NCM)** | 
-**C√≥d.Servi√ßo** | 
+**CÛd.ServiÁo** | 
 <br>
 
 ## Impostos
 ![produto.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.impostos.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
-**Pr√≥ emprego** | 
-**% Redu√ß√£o BC** | 
+**PrÛ emprego** | 
+**% ReduÁ„o BC** | 
 **% Diferimento** | 
 <br>
 
 ## Estoque
 ![produto.estoque](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.estoque.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
 **Unidade de estocagem** | 
-**Est. M√≠nimo** | 
-**Est. M√°ximo** | 
+**Est. MÌnimo** | 
+**Est. M·ximo** | 
 **Ponto Ped.** | 
-**Lote Econ√¥mico** | 
+**Lote EconÙmico** | 
 **Qtdade** | 
-**Valor M√©d. Estoque** | Valor m√©dido do estoque desse produto
+**Valor MÈd. Estoque** | Valor mÈdido do estoque desse produto
 **Qtdade Alocado** | 
-**Valor M√©d Aloc.** | Valor m√©dido do estoque alocado desse produto
+**Valor MÈd Aloc.** | Valor mÈdido do estoque alocado desse produto
 **Qtdade Saldo** | 
-**Valor M√©d Saldo** | Valor m√©dido do estoque do saldo entre estoque total - alocados
+**Valor MÈd Saldo** | Valor mÈdido do estoque do saldo entre estoque total - alocados
 **Qtdade em Compra** | 
-**Prev. Compra** | Previs√£o de entrega do compras
-**√öltimo Movimento** | √öltimo movimento de compra ou venda deste produto
+**Prev. Compra** | Previs„o de entrega do compras
+**⁄ltimo Movimento** | ⁄ltimo movimento de compra ou venda deste produto
 <br>
 
 ## Compra/Venda
 ![produto.compra_venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.compra_venda.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
 **Unidade de compra** | 
 **Unidade de venda** | 
 **%IPI Venda** | 
 **% IPI Compra** | 
 **%ISQN** | 
-**Val.Compra/Produ√ß√£o** | Valor de Compra ou Valor de Produ√ß√£o
+**Val.Compra/ProduÁ„o** | Valor de Compra ou Valor de ProduÁ„o
 **Usar ficha do produto** | 
-**V.produ√ß√£o (ficha)** | Valor de produ√ß√£o com base na ficha do produto
-**C√°lc.V.Venda** | Tipo da forma√ß√£o do valor de venda, pela F√≥rmula ou Manual
+**V.produÁ„o (ficha)** | Valor de produÁ„o com base na ficha do produto
+**C·lc.V.Venda** | Tipo da formaÁ„o do valor de venda, pela FÛrmula ou Manual
 **Valor Venda 1** | Valor de venda do produto com a margen de venda zero
 **Valor Venda 2** | Valor de venda do produto com a margen de venda especialmente competitiva
 **Valor Venda 3** | Valor de venda do produto com a margen de venda competitiva
 **Valor Venda 4** | Valor de venda do produto com a margen de venda normal
 **Valor Venda 5** | Valor de venda do produto com a margen de venda lucrativa
 **Valor Venda 6** | Valor de venda do produto com a margen de venda extremamente lucrativa
-**Val.M√©d. Compra** | 
-**Val.M√©d. Venda** | 
+**Val.MÈd. Compra** | 
+**Val.MÈd. Venda** | 
 **Grafico** | 
-**Receita** | Conta cont√°bil para receita
-**Despesa** | Conta cont√°bil para despesa
-**Fora de Linha** | Se um produto for marcado como fora de linha, n√£o aparecer√° nas listas de Venda
+**Receita** | Conta cont·bil para receita
+**Despesa** | Conta cont·bil para despesa
+**Fora de Linha** | Se um produto for marcado como fora de linha, n„o aparecer· nas listas de Venda
 **Motivo** | 
 <br>
 
-## Observa√ß√£o
+## ObservaÁ„o
 ![produto.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.observacao.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
-**Observa√ß√£o** | 
+**ObservaÁ„o** | 
 <br>
 
 ## Termos
 ![produto.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.termos.png)
 
-Campo | Descri√ß√£o
+Campo | DescriÁ„o
 ------|----------
 **Termos** | 
 <br>
@@ -131,7 +131,7 @@ Campo | Descri√ß√£o
 <br>
 
 ## Links
-### [Hist√≥rico de Vendas](/geral/historicovendas_produto.md)
+### [HistÛrico de Vendas](/geral/historicovendas_produto.md)
 ### [Ficha do Produto](/geral/produtoficha.md)
 ### [Dependentes](/geral/materiaficha.md)
 <br>
