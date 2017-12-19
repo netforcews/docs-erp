@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![compraanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compraanexos00.png)
+![compraanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compraanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![compraanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compraanexos01.png)
+![compraanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compraanexos.geral.png)
 
 Campo | Descrição
 ------|----------

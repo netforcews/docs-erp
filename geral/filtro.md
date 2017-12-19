@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![filtro00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro00.png)
+![filtro.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![filtro01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro01.png)
+![filtro.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -42,7 +42,7 @@ Campo | Descrição
 <br>
 
 ## Comando
-![filtro02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro02.png)
+![filtro.comando](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.comando.png)
 
 Campo | Descrição
 ------|----------

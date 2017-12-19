@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![agenda00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/agenda00.png)
+![agenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/agenda.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![agenda01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/agenda01.png)
+![agenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/agenda.geral.png)
 
 Campo | Descrição
 ------|----------

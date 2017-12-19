@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![contacorrente00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente00.png)
+![contacorrente.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![contacorrente01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente01.png)
+![contacorrente.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -39,7 +39,7 @@ Campo | Descrição
 <br>
 
 ## Cobrança
-![contacorrente02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente02.png)
+![contacorrente.cobranca](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.cobranca.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![modulopasta00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta00.png)
+![modulopasta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![modulopasta01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta01.png)
+![modulopasta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta.geral.png)
 
 Campo | Descrição
 ------|----------

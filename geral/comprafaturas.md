@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![comprafaturas00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas00.png)
+![comprafaturas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![comprafaturas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas01.png)
+![comprafaturas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas.geral.png)
 
 Campo | Descrição
 ------|----------

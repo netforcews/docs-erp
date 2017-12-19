@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![notacompraitenslsv00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitenslsv00.png)
+![notacompraitenslsv.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitenslsv.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## LSV
-![notacompraitenslsv01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitenslsv01.png)
+![notacompraitenslsv.lsv](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitenslsv.lsv.png)
 
 Campo | Descrição
 ------|----------

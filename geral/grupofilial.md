@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![grupofilial00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial00.png)
+![grupofilial.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![grupofilial01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial01.png)
+![grupofilial.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial.geral.png)
 
 Campo | Descrição
 ------|----------

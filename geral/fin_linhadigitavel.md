@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![fin_linhadigitavel00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel00.png)
+![fin_linhadigitavel.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![fin_linhadigitavel01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel01.png)
+![fin_linhadigitavel.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel.geral.png)
 
 Campo | Descrição
 ------|----------

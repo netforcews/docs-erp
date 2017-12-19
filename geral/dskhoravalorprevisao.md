@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskhoravalorprevisao00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao00.png)
+![dskhoravalorprevisao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskhoravalorprevisao01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao01.png)
+![dskhoravalorprevisao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao.geral.png)
 
 Campo | Descrição
 ------|----------

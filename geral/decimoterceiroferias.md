@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![decimoterceiroferias00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias00.png)
+![decimoterceiroferias.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![decimoterceiroferias01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias01.png)
+![decimoterceiroferias.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias.geral.png)
 
 Campo | Descrição
 ------|----------

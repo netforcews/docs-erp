@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![funcionariolog00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/funcionariolog00.png)
+![funcionariolog.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/funcionariolog.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![funcionariolog01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/funcionariolog01.png)
+![funcionariolog.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/funcionariolog.geral.png)
 
 Campo | Descrição
 ------|----------

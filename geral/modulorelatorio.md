@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![modulorelatorio00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio00.png)
+![modulorelatorio.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![modulorelatorio01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio01.png)
+![modulorelatorio.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio.geral.png)
 
 Campo | Descrição
 ------|----------

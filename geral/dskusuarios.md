@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskusuarios00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios00.png)
+![dskusuarios.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskusuarios01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios01.png)
+![dskusuarios.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios.geral.png)
 
 Campo | Descrição
 ------|----------

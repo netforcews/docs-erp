@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![financeirolancamentos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeirolancamentos00.png)
+![financeirolancamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeirolancamentos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![financeirolancamentos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeirolancamentos01.png)
+![financeirolancamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeirolancamentos.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![config_sistema00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema00.png)
+![config_sistema.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![config_sistema01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema01.png)
+![config_sistema.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -23,7 +23,7 @@ Campo | Descrição
 <br>
 
 ## SMTP
-![config_sistema02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema02.png)
+![config_sistema.smtp](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.smtp.png)
 
 Campo | Descrição
 ------|----------
@@ -37,7 +37,7 @@ Campo | Descrição
 <br>
 
 ## Sistema
-![config_sistema03](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema03.png)
+![config_sistema.sistema](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.sistema.png)
 
 Campo | Descrição
 ------|----------

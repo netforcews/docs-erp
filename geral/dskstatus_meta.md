@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskstatus_meta00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_meta00.png)
+![dskstatus_meta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_meta.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskstatus_meta01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_meta01.png)
+![dskstatus_meta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_meta.geral.png)
 
 Campo | Descrição
 ------|----------

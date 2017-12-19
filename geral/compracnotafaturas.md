@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![compracnotafaturas00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compracnotafaturas00.png)
+![compracnotafaturas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compracnotafaturas.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![compracnotafaturas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compracnotafaturas01.png)
+![compracnotafaturas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compracnotafaturas.geral.png)
 
 Campo | Descrição
 ------|----------

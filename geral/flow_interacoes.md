@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![flow_interacoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes00.png)
+![flow_interacoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![flow_interacoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes01.png)
+![flow_interacoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes.geral.png)
 
 Campo | Descrição
 ------|----------

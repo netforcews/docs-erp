@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![notacompraitem00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitem00.png)
+![notacompraitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitem.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -18,7 +18,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![notacompraitem01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitem01.png)
+![notacompraitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notacompraitem.geral.png)
 
 Campo | Descrição
 ------|----------

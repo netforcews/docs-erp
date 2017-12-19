@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![historicovendas_pessoa00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa00.png)
+![historicovendas_pessoa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -19,7 +19,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![historicovendas_pessoa01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa01.png)
+![historicovendas_pessoa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskhoravalorcusto00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto00.png)
+![dskhoravalorcusto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskhoravalorcusto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto01.png)
+![dskhoravalorcusto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto.geral.png)
 
 Campo | Descrição
 ------|----------

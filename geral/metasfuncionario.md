@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![metasfuncionario00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario00.png)
+![metasfuncionario.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![metasfuncionario01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario01.png)
+![metasfuncionario.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dsksistemas00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas00.png)
+![dsksistemas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dsksistemas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas01.png)
+![dsksistemas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas.geral.png)
 
 Campo | Descrição
 ------|----------

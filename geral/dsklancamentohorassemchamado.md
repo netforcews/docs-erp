@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dsklancamentohorassemchamado00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado00.png)
+![dsklancamentohorassemchamado.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dsklancamentohorassemchamado01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado01.png)
+![dsklancamentohorassemchamado.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado.geral.png)
 
 Campo | Descrição
 ------|----------

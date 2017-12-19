@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![filiallkp00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp00.png)
+![filiallkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![filiallkp01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp01.png)
+![filiallkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp.geral.png)
 
 Campo | Descrição
 ------|----------

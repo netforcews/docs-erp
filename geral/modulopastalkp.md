@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![modulopastalkp00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopastalkp00.png)
+![modulopastalkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopastalkp.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![modulopastalkp01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopastalkp01.png)
+![modulopastalkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopastalkp.geral.png)
 
 Campo | Descrição
 ------|----------

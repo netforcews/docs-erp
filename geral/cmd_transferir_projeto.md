@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![cmd_transferir_projeto00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto00.png)
+![cmd_transferir_projeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![cmd_transferir_projeto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto01.png)
+![cmd_transferir_projeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto.geral.png)
 
 Campo | Descrição
 ------|----------

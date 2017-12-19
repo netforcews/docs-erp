@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskprocessos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocessos00.png)
+![dskprocessos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocessos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskprocessos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocessos01.png)
+![dskprocessos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocessos.geral.png)
 
 Campo | Descrição
 ------|----------

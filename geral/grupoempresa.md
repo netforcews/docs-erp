@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![grupoempresa00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa00.png)
+![grupoempresa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![grupoempresa01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa01.png)
+![grupoempresa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa.geral.png)
 
 Campo | Descrição
 ------|----------

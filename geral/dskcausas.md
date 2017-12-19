@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskcausas00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskcausas00.png)
+![dskcausas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskcausas.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskcausas01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskcausas01.png)
+![dskcausas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskcausas.geral.png)
 
 Campo | Descrição
 ------|----------

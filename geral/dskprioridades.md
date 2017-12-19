@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskprioridades00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades00.png)
+![dskprioridades.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskprioridades01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades01.png)
+![dskprioridades.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades.geral.png)
 
 Campo | Descrição
 ------|----------

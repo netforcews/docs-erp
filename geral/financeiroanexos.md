@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![financeiroanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeiroanexos00.png)
+![financeiroanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeiroanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![financeiroanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeiroanexos01.png)
+![financeiroanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/financeiroanexos.geral.png)
 
 Campo | Descrição
 ------|----------

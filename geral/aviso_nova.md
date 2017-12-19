@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![aviso_nova00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova00.png)
+![aviso_nova.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Mensagem
-![aviso_nova01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova01.png)
+![aviso_nova.mensagem](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova.mensagem.png)
 
 Campo | Descrição
 ------|----------

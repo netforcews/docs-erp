@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![lkpcontacorrente00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente00.png)
+![lkpcontacorrente.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![lkpcontacorrente01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente01.png)
+![lkpcontacorrente.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![emailanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/emailanexos00.png)
+![emailanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/emailanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![emailanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/emailanexos01.png)
+![emailanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/emailanexos.geral.png)
 
 Campo | Descrição
 ------|----------

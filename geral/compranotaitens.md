@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![compranotaitens00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens00.png)
+![compranotaitens.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -19,7 +19,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![compranotaitens01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens01.png)
+![compranotaitens.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens.geral.png)
 
 Campo | Descrição
 ------|----------

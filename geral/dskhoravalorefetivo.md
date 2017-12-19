@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskhoravalorefetivo00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo00.png)
+![dskhoravalorefetivo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskhoravalorefetivo01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo01.png)
+![dskhoravalorefetivo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo.geral.png)
 
 Campo | Descrição
 ------|----------

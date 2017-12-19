@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskprocressos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocressos00.png)
+![dskprocressos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocressos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskprocressos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocressos01.png)
+![dskprocressos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprocressos.geral.png)
 
 Campo | Descrição
 ------|----------

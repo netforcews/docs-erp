@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![msgtextos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos00.png)
+![msgtextos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![msgtextos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos01.png)
+![msgtextos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos.geral.png)
 
 Campo | Descrição
 ------|----------

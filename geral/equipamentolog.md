@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![equipamentolog00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog00.png)
+![equipamentolog.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![equipamentolog01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog01.png)
+![equipamentolog.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog.geral.png)
 
 Campo | Descrição
 ------|----------

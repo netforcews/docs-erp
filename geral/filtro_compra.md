@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![filtro_compra00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra00.png)
+![filtro_compra.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![filtro_compra01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra01.png)
+![filtro_compra.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra.geral.png)
 
 Campo | Descrição
 ------|----------

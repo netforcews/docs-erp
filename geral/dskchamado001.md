@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![dskchamado00100](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado00100.png)
+![dskchamado001.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![dskchamado00101](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado00101.png)
+![dskchamado001.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -27,7 +27,7 @@ Campo | Descrição
 <br>
 
 ## Sistema
-![dskchamado00102](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado00102.png)
+![dskchamado001.sistema](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.sistema.png)
 
 Campo | Descrição
 ------|----------
@@ -40,7 +40,7 @@ Campo | Descrição
 <br>
 
 ## Textos
-![dskchamado00103](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado00103.png)
+![dskchamado001.textos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.textos.png)
 
 Campo | Descrição
 ------|----------

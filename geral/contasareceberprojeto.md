@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![contasareceberprojeto00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto00.png)
+![contasareceberprojeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -21,7 +21,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![contasareceberprojeto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto01.png)
+![contasareceberprojeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -62,7 +62,7 @@ Campo | Descrição
 <br>
 
 ## Histórico
-![contasareceberprojeto02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto02.png)
+![contasareceberprojeto.historico](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.historico.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![estoquelsv00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/estoquelsv00.png)
+![estoquelsv.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/estoquelsv.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## LSV
-![estoquelsv01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/estoquelsv01.png)
+![estoquelsv.lsv](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/estoquelsv.lsv.png)
 
 Campo | Descrição
 ------|----------
