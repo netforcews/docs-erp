@@ -1,5 +1,4 @@
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">
-- [**F.A.Q.**](/faq/faq.md)</span>
+- [**F.A.Q.**](/faq/faq.md)
 
 #### CADASTROS
 - Bancos
@@ -12,7 +11,7 @@
 - Condições de pagamento
 - Configurações
 - Departamentos
-- [Empresa usuária](/cadastros/empresausuaria.md)
+- [Empresa usuária](/cadastros/empresa.md)
 - Equipamentos
 - Estados
 - Exportar e-mails
@@ -28,7 +27,7 @@
 - Opções
 - Pessoas
 - Planos de conta
-- [Produtos](/cadastros/Produtos.md)
+- [Produtos](/cadastros/produto.md)
 - [Promoções](/cadastros/promocoes.md) 
 - Ramos de atividade
 - Regiões
@@ -43,7 +42,7 @@
 - Configurações
 - Estoques
 - Movimento de estoque
-- [Transferências](/Estoques/Transferencias.md)
+- [Transferências](/estoques/Transferencias.md)
 
 #### PCP
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
