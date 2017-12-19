@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_ordemservico00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico00.png)
+![portal_ordemservico.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![portal_ordemservico01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico01.png)
+![portal_ordemservico.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico.geral.png)
 
 Campo | Descrição
 ------|----------

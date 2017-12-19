@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pessoainteracoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes00.png)
+![pessoainteracoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![pessoainteracoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes01.png)
+![pessoainteracoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes.geral.png)
 
 Campo | Descrição
 ------|----------

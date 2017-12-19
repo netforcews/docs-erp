@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_projeto00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto00.png)
+![rel_projeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_projeto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto01.png)
+![rel_projeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto.geral.png)
 
 Campo | Descrição
 ------|----------

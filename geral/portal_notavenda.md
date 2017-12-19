@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_notavenda00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda00.png)
+![portal_notavenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -19,7 +19,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![portal_notavenda01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda01.png)
+![portal_notavenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda.geral.png)
 
 Campo | Descrição
 ------|----------

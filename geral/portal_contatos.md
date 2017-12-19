@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_contatos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos00.png)
+![portal_contatos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Contatos
-![portal_contatos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos01.png)
+![portal_contatos.contatos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos.contatos.png)
 
 Campo | Descrição
 ------|----------

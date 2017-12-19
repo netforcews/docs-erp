@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_promocao00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao00.png)
+![rel_promocao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_promocao01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao01.png)
+![rel_promocao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao.geral.png)
 
 Campo | Descrição
 ------|----------

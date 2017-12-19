@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pessoaservicos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos00.png)
+![pessoaservicos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![pessoaservicos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos01.png)
+![pessoaservicos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos.geral.png)
 
 Campo | Descrição
 ------|----------

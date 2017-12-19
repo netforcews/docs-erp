@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![projetoanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos00.png)
+![projetoanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![projetoanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos01.png)
+![projetoanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos.geral.png)
 
 Campo | Descrição
 ------|----------

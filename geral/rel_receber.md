@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_receber00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber00.png)
+![rel_receber.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_receber01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber01.png)
+![rel_receber.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_contabillancamentos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabillancamentos00.png)
+![rel_contabillancamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabillancamentos.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_contabillancamentos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabillancamentos01.png)
+![rel_contabillancamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabillancamentos.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pontoatestados00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados00.png)
+![pontoatestados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![pontoatestados01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados01.png)
+![pontoatestados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados.geral.png)
 
 Campo | Descrição
 ------|----------

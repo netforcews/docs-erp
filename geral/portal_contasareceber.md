@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_contasareceber00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber00.png)
+![portal_contasareceber.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -19,7 +19,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![portal_contasareceber01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber01.png)
+![portal_contasareceber.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_participacoes00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes00.png)
+![rel_participacoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_participacoes01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes01.png)
+![rel_participacoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes.geral.png)
 
 Campo | Descrição
 ------|----------

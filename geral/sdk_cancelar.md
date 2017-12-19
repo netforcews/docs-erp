@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![sdk_cancelar00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_cancelar00.png)
+![sdk_cancelar.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_cancelar.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![sdk_cancelar01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_cancelar01.png)
+![sdk_cancelar.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_cancelar.geral.png)
 
 Campo | Descrição
 ------|----------

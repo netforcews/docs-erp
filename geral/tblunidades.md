@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![tblunidades00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblunidades00.png)
+![tblunidades.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblunidades.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Principal
-![tblunidades01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblunidades01.png)
+![tblunidades.principal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblunidades.principal.png)
 
 Campo | Descrição
 ------|----------

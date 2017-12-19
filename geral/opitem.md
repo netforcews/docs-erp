@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![opitem00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem00.png)
+![opitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![opitem01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem01.png)
+![opitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem.geral.png)
 
 Campo | Descrição
 ------|----------

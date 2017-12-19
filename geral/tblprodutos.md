@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![tblprodutos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos00.png)
+![tblprodutos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Principal
-![tblprodutos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos01.png)
+![tblprodutos.principal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos.principal.png)
 
 Campo | Descrição
 ------|----------

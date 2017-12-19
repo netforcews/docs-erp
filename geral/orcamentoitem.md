@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![orcamentoitem00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/orcamentoitem00.png)
+![orcamentoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/orcamentoitem.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![orcamentoitem01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/orcamentoitem01.png)
+![orcamentoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/orcamentoitem.geral.png)
 
 Campo | Descrição
 ------|----------

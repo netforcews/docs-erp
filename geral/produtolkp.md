@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![produtolkp00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp00.png)
+![produtolkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -20,7 +20,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![produtolkp01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp01.png)
+![produtolkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp.geral.png)
 
 Campo | Descrição
 ------|----------

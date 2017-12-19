@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![prj_lancar_nf00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/prj_lancar_nf00.png)
+![prj_lancar_nf.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/prj_lancar_nf.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![prj_lancar_nf01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/prj_lancar_nf01.png)
+![prj_lancar_nf.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/prj_lancar_nf.geral.png)
 
 Campo | Descrição
 ------|----------

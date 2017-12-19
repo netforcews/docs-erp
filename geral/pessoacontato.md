@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pessoacontato00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato00.png)
+![pessoacontato.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -17,7 +17,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![pessoacontato01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato01.png)
+![pessoacontato.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.geral.png)
 
 Campo | Descrição
 ------|----------
@@ -32,7 +32,7 @@ Campo | Descrição
 <br>
 
 ## Observação
-![pessoacontato02](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato02.png)
+![pessoacontato.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.observacao.png)
 
 Campo | Descrição
 ------|----------

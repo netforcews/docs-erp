@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pconta_financeiro_receber00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_receber00.png)
+![pconta_financeiro_receber.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_receber.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![pconta_financeiro_receber01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_receber01.png)
+![pconta_financeiro_receber.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_receber.geral.png)
 
 Campo | Descrição
 ------|----------

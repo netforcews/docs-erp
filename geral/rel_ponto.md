@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_ponto00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto00.png)
+![rel_ponto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_ponto01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto01.png)
+![rel_ponto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto.geral.png)
 
 Campo | Descrição
 ------|----------

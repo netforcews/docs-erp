@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![projetopedidoitem00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem00.png)
+![projetopedidoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -20,7 +20,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![projetopedidoitem01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem01.png)
+![projetopedidoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem.geral.png)
 
 Campo | Descrição
 ------|----------

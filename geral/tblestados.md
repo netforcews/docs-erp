@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![tblestados00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados00.png)
+![tblestados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![tblestados01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados01.png)
+![tblestados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados.geral.png)
 
 Campo | Descrição
 ------|----------

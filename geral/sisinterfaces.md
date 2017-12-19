@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![sisinterfaces00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sisinterfaces00.png)
+![sisinterfaces.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sisinterfaces.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![sisinterfaces01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sisinterfaces01.png)
+![sisinterfaces.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sisinterfaces.geral.png)
 
 Campo | Descrição
 ------|----------

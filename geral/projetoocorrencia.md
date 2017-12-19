@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![projetoocorrencia00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia00.png)
+![projetoocorrencia.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -18,7 +18,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![projetoocorrencia01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia01.png)
+![projetoocorrencia.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia.geral.png)
 
 Campo | Descrição
 ------|----------

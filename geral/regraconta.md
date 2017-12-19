@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![regraconta00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/regraconta00.png)
+![regraconta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/regraconta.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![regraconta01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/regraconta01.png)
+![regraconta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/regraconta.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_orcamentovenda00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda00.png)
+![portal_orcamentovenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -18,7 +18,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![portal_orcamentovenda01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda01.png)
+![portal_orcamentovenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda.geral.png)
 
 Campo | Descrição
 ------|----------

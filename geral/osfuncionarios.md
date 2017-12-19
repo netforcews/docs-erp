@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![osfuncionarios00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/osfuncionarios00.png)
+![osfuncionarios.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/osfuncionarios.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![osfuncionarios01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/osfuncionarios01.png)
+![osfuncionarios.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/osfuncionarios.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_resumomensal00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal00.png)
+![rel_resumomensal.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_resumomensal01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal01.png)
+![rel_resumomensal.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal.geral.png)
 
 Campo | Descrição
 ------|----------

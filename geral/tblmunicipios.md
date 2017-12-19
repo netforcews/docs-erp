@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![tblmunicipios00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios00.png)
+![tblmunicipios.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -14,7 +14,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![tblmunicipios01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios01.png)
+![tblmunicipios.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios.geral.png)
 
 Campo | Descrição
 ------|----------

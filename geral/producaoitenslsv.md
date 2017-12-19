@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![producaoitenslsv00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/producaoitenslsv00.png)
+![producaoitenslsv.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/producaoitenslsv.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## LSV
-![producaoitenslsv01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/producaoitenslsv01.png)
+![producaoitenslsv.lsv](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/producaoitenslsv.lsv.png)
 
 Campo | Descrição
 ------|----------

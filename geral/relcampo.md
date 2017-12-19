@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![relcampo00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo00.png)
+![relcampo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Definição
-![relcampo01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo01.png)
+![relcampo.definicao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo.definicao.png)
 
 Campo | Descrição
 ------|----------

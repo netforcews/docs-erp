@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![produto_ficha_copiar00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produto_ficha_copiar00.png)
+![produto_ficha_copiar.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produto_ficha_copiar.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![produto_ficha_copiar01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produto_ficha_copiar01.png)
+![produto_ficha_copiar.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produto_ficha_copiar.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_contabil00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil00.png)
+![rel_contabil.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_contabil01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil01.png)
+![rel_contabil.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil.geral.png)
 
 Campo | Descrição
 ------|----------

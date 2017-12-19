@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![sdkhoras00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras00.png)
+![sdkhoras.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![sdkhoras01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras01.png)
+![sdkhoras.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras.geral.png)
 
 Campo | Descrição
 ------|----------

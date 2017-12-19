@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![produtoficha00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha00.png)
+![produtoficha.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![produtoficha01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha01.png)
+![produtoficha.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha.geral.png)
 
 Campo | Descrição
 ------|----------

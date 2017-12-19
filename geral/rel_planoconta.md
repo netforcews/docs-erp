@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_planoconta00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planoconta00.png)
+![rel_planoconta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planoconta.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_planoconta01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planoconta01.png)
+![rel_planoconta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planoconta.geral.png)
 
 Campo | Descrição
 ------|----------

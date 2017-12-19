@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rh_lancar_pagamento00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento00.png)
+![rh_lancar_pagamento.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rh_lancar_pagamento01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento01.png)
+![rh_lancar_pagamento.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento.geral.png)
 
 Campo | Descrição
 ------|----------

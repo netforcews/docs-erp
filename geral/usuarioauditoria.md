@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![usuarioauditoria00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria00.png)
+![usuarioauditoria.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## Log
-![usuarioauditoria01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria01.png)
+![usuarioauditoria.log](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria.log.png)
 
 Campo | Descrição
 ------|----------

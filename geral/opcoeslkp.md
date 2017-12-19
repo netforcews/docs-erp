@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![opcoeslkp00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp00.png)
+![opcoeslkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![opcoeslkp01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp01.png)
+![opcoeslkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp.geral.png)
 
 Campo | Descrição
 ------|----------

@@ -4,14 +4,14 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![rel_planocontalancamentos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos00.png)
+![rel_planocontalancamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos.grid.png)
 
 Campo | Descrição
 ------|----------
 <br>
 
 ## Geral
-![rel_planocontalancamentos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos01.png)
+![rel_planocontalancamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos.geral.png)
 
 Campo | Descrição
 ------|----------

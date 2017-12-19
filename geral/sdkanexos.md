@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![sdkanexos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos00.png)
+![sdkanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -13,7 +13,7 @@ Campo | Descrição
 <br>
 
 ## Geral
-![sdkanexos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos01.png)
+![sdkanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos.geral.png)
 
 Campo | Descrição
 ------|----------

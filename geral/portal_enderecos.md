@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![portal_enderecos00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos00.png)
+![portal_enderecos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -12,7 +12,7 @@ Campo | Descrição
 <br>
 
 ## Meus endereços
-![portal_enderecos01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos01.png)
+![portal_enderecos.meusenderecos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos.meusenderecos.png)
 
 Campo | Descrição
 ------|----------

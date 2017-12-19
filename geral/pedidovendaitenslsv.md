@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![pedidovendaitenslsv00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidovendaitenslsv00.png)
+![pedidovendaitenslsv.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidovendaitenslsv.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -15,7 +15,7 @@ Campo | Descrição
 <br>
 
 ## LSV
-![pedidovendaitenslsv01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidovendaitenslsv01.png)
+![pedidovendaitenslsv.lsv](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidovendaitenslsv.lsv.png)
 
 Campo | Descrição
 ------|----------

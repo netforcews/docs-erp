@@ -4,7 +4,7 @@
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![sdkticketspublico00](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico00.png)
+![sdkticketspublico.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico.grid.png)
 
 Campo | Descrição
 ------|----------
@@ -16,7 +16,7 @@ Campo | Descrição
 <br>
 
 ## Solicitação
-![sdkticketspublico01](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico01.png)
+![sdkticketspublico.solicitacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico.solicitacao.png)
 
 Campo | Descrição
 ------|----------
