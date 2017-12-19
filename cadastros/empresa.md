@@ -1,39 +1,39 @@
-# EMPRESA USU√ÅRIA
+# EMPRESA USU√É¬ÅRIA
 <br>
 
 ## Acesso
-Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Cadastros, opÁ„o Empresa usu·ria.
+Para acessar esta op√ß√£o, deve-se selecionar o m√≥dulo Cadastros, op√ß√£o Cadastros, op√ß√£o Empresa usu√°ria.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![empresa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.grid.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
 **Nome Fantasia** | 
 **Nome** | 
-**CÛdigo** | 
+**C√≥digo** | 
 **ID.Interno** | 
 <br>
 
 ## Geral
 ![empresa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.geral.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
-**CÛdigo** | 
-**ID.Interno** | IdentificaÁ„o interna
+**C√≥digo** | 
+**ID.Interno** | Identifica√ß√£o interna
 **Nome** | 
 **Nome Fantasia** | 
 **Logradouro** | 
-**N˙mero** | 
+**N√∫mero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**MunicÌpio** | 
+**Munic√≠pio** | 
 **DDD** | 
 **Telefone** | 
 **Fax** | 
@@ -41,74 +41,74 @@ Campo | DescriÁ„o
 **E-mail Vendas** | 
 **E-mail Compras** | 
 **E-mail Financeiro** | 
-**E-mail Inform·tica** | 
+**E-mail Inform√°tica** | 
 **WebSite** | 
 **CNPJ** | 
 **Insc.Estadual** | 
 **Insc.Municipal** | 
 **Ramo de Atv.** | Ramo de Atividade
-**SÈrie Produto** | SÈrie padr„o para venda de mercadorias
-**SÈrie ServiÁo** | SÈrie padr„o para prestaÁ„o de serviÁo
-**SÈrie Consumidor** | SÈrie padr„o para vendas ao consumidor final
+**S√©rie Produto** | S√©rie padr√£o para venda de mercadorias
+**S√©rie Servi√ßo** | S√©rie padr√£o para presta√ß√£o de servi√ßo
+**S√©rie Consumidor** | S√©rie padr√£o para vendas ao consumidor final
 <br>
 
 ## Impostos
 ![empresa.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.impostos.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
-**Sujeito a trib. do ICMS** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do ICMS
-**Sujeito a trib. do IPI Venda** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do IPI de Venda
-**Sujeito a trib. do ISQN** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do ISQN
+**Sujeito a trib. do ICMS** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do ICMS
+**Sujeito a trib. do IPI Venda** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do IPI de Venda
+**Sujeito a trib. do ISQN** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do ISQN
 **ISQN (%)** | 
-**Sujeito a trib. do PIS** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do PIS
+**Sujeito a trib. do PIS** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do PIS
 **PIS (%)** | 
-**Sujeito a trib. do CONFINS** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do CONFINS
+**Sujeito a trib. do CONFINS** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do CONFINS
 **CONFINS (%)** | 
-**Sujeito a trib. da Contr.Social** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o da ContribuiÁ„o Social
+**Sujeito a trib. da Contr.Social** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o da Contribui√ß√£o Social
 **Contr.Social (%)** | 
-**Sujeito a trib. do IR** | Marcar se a empresa usu·rio esta sujeita a tributaÁ„o do IR
+**Sujeito a trib. do IR** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do IR
 **IR (%)** | 
-**Sujeito a trib. do SIMPLES Nascional** | Marcar se a empresa usu·rio È optante do SIMPLES NASCIONAL
+**Sujeito a trib. do SIMPLES Nascional** | Marcar se a empresa usu√°rio √© optante do SIMPLES NASCIONAL
 **SIMPLES (%)** | 
-**SIMPLES(%) Aprov.** | AlÌquota de aproveitamento do crÈdito de ICMS, referente ao Art. 23 da LC 123
-**Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da SubstituiÁ„o Tribut·ria
-**ObservaÁ„o NF** | ObservaÁ„o para ser exibido na nota fiscal, na parte dos dados adicionais
+**SIMPLES(%) Aprov.** | Al√≠quota de aproveitamento do cr√©dito de ICMS, referente ao Art. 23 da LC 123
+**Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da Substitui√ß√£o Tribut√°ria
+**Observa√ß√£o NF** | Observa√ß√£o para ser exibido na nota fiscal, na parte dos dados adicionais
 <br>
 
 ## Financeiro
 ![empresa.financeiro](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.financeiro.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
-**C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobranÁa
-**Prazo MÈdio M·x** | Prazo mÈdio m·ximo autorizado para faturamentos para a empresa usu·ria
-**% Juros Mora** | % da taxa de juros (a.m.) utilizado na emiss„o dos boletos
+**C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobran√ßa
+**Prazo M√©dio M√°x** | Prazo m√©dio m√°ximo autorizado para faturamentos para a empresa usu√°ria
+**% Juros Mora** | % da taxa de juros (a.m.) utilizado na emiss√£o dos boletos
 **% Multa** | % da taxa de muta para boeltos vencido
 <br>
 
-## Configura√ß√µes
+## Configura√É¬ß√É¬µes
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
 **Domingo** | 
 **Segunda** | 
-**TerÁa** | 
+**Ter√ßa** | 
 **Quarta** | 
 **Quita** | 
 **Sexta** | 
-**S·bado** | 
+**S√°bado** | 
 **Tipo Nota** | 
-**Enviar orÁamento por e-mail** | 
+**Enviar or√ßamento por e-mail** | 
 **Enviar pedido por e-mail** | 
 **Enviar NF por e-mail** | 
-**Avisar Transp. p/ Coleta** | Se marcado, no faturamento ser· enviado uma solicitaÁao de coleta para a transportadora da Nota
-**Enviar aviso de conclus„o do pedido** | 
-**Permite alterar n˙mero da NF** | 
+**Avisar Transp. p/ Coleta** | Se marcado, no faturamento ser√° enviado uma solicita√ßao de coleta para a transportadora da Nota
+**Enviar aviso de conclus√£o do pedido** | 
+**Permite alterar n√∫mero da NF** | 
 **Permite emitir NF de produtos** | 
-**Permite emitir NF de serviÁos** | 
-**Controlar sequÍncia dos n˙meros da NFSe** | 
+**Permite emitir NF de servi√ßos** | 
+**Controlar sequ√™ncia dos n√∫meros da NFSe** | 
 **Estoque Controlado** | 
 **Certificado (*pfx)** | 
 **Senha** | 
@@ -122,7 +122,7 @@ Campo | DescriÁ„o
 ## Termos
 ![empresa.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.termos.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
 **Termos** | 
 <br>
@@ -130,18 +130,18 @@ Campo | DescriÁ„o
 ## Logomarca
 ![empresa.logomarca](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.logomarca.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
 **Logo** | 
 **Logo Nota** | 
 <br>
 
-## Informa√ß√µes
+## Informa√É¬ß√É¬µes
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 ------|----------
-**InformaÁıes Diversas** | 
+**Informa√ß√µes  Diversas** | 
 <br>
 
 ## Links
