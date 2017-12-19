@@ -109,7 +109,7 @@ Campo | Descrição
 **Motivo** | 
 <br>
 
-## Observação
+## ObservaÃ§Ã£o
 ![produto.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.observacao.png)
 
 Campo | Descrição
@@ -131,7 +131,7 @@ Campo | Descrição
 <br>
 
 ## Links
-### [Histórico de Vendas](/geral/historicovendas_produto.md)
+### [HistÃ³rico de Vendas](/geral/historicovendas_produto.md)
 ### [Ficha do Produto](/geral/produtoficha.md)
 ### [Dependentes](/geral/materiaficha.md)
 <br>

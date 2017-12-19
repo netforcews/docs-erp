@@ -87,7 +87,7 @@ Campo | Descrição
 **% Multa** | % da taxa de muta para boeltos vencido
 <br>
 
-## Configurações
+## ConfiguraÃ§Ãµes
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
 Campo | Descrição
@@ -136,7 +136,7 @@ Campo | Descrição
 **Logo Nota** | 
 <br>
 
-## Informações
+## InformaÃ§Ãµes
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
 Campo | Descrição
