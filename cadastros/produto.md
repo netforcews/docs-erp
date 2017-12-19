@@ -1,16 +1,16 @@
-# PRODUTOS
+ï»¿# PRODUTOS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Produtos.
+Para acessar esta opÃ§Ã£o, deve-se selecionar o mÃ³dulo Cadastros, opÃ§Ã£o Cadastros, opÃ§Ã£o Produtos.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![produto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.grid.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **CÃ³digo** | 
 **CÃ³d. Forn.** | 
@@ -28,7 +28,7 @@ Campo | Descrição
 ## Geral
 ![produto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.geral.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **CÃ³digo** | 
 **DescriÃ§Ã£o** | 
@@ -52,7 +52,7 @@ Campo | Descrição
 ## Impostos
 ![produto.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.impostos.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **PrÃ³ emprego** | 
 **% ReduÃ§Ã£o BC** | 
@@ -62,7 +62,7 @@ Campo | Descrição
 ## Estoque
 ![produto.estoque](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.estoque.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **Unidade de estocagem** | 
 **Est. MÃ­nimo** | 
@@ -83,7 +83,7 @@ Campo | Descrição
 ## Compra/Venda
 ![produto.compra_venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.compra_venda.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **Unidade de compra** | 
 **Unidade de venda** | 
@@ -112,7 +112,7 @@ Campo | Descrição
 ## ObservaÃ§Ã£o
 ![produto.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.observacao.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **ObservaÃ§Ã£o** | 
 <br>
@@ -120,7 +120,7 @@ Campo | Descrição
 ## Termos
 ![produto.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.termos.png)
 
-Campo | Descrição
+Campo | DescriÃ§Ã£o
 ------|----------
 **Termos** | 
 <br>
