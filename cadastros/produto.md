@@ -12,16 +12,16 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 ------|----------
-**Código** | 
-**Cód. Forn.** | 
+**CÃ³digo** | 
+**CÃ³d. Forn.** | 
 **C.Barras** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Grp** | 
 **Tipo** | 
 **Fornecedor** | 
 **Venda** | 
 **F.L** | 
-**Ú.Mov** | 
+**Ãš.Mov** | 
 **Estoq** | 
 <br>
 
@@ -30,8 +30,8 @@ Campo | Descrição
 
 Campo | Descrição
 ------|----------
-**Código** | 
-**Descrição** | 
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Grupo** | 
 **Tipo** | 
 **Unidade** | 
@@ -39,14 +39,14 @@ Campo | Descrição
 **Peso** | 
 **Complemento** | 
 **Fornecedor** | 
-**Cód. Fornecedor** | 
-**Código Barras** | 
-**Código ANP** | Quando de registro da ANP para produtos combustíveis e lubrificantes
-**Cód CEST** | Código Especificador da Substituição Tributária – CEST, que estabelece a sistemática de uniformização e identificação das mercadorias e bens passíveis de sujeição aos regimes de substituição tributária e de antecipação de recolhimento do ICMS
-**C.Tributária** | 
+**CÃ³d. Fornecedor** | 
+**CÃ³digo Barras** | 
+**CÃ³digo ANP** | Quando de registro da ANP para produtos combustÃ­veis e lubrificantes
+**CÃ³d CEST** | CÃ³digo Especificador da SubstituiÃ§Ã£o TributÃ¡ria â€“ CEST, que estabelece a sistemÃ¡tica de uniformizaÃ§Ã£o e identificaÃ§Ã£o das mercadorias e bens passÃ­veis de sujeiÃ§Ã£o aos regimes de substituiÃ§Ã£o tributÃ¡ria e de antecipaÃ§Ã£o de recolhimento do ICMS
+**C.TributÃ¡ria** | 
 **Origem** | 
 **C.Fiscal (NCM)** | 
-**Cód.Serviço** | 
+**CÃ³d.ServiÃ§o** | 
 <br>
 
 ## Impostos
@@ -54,8 +54,8 @@ Campo | Descrição
 
 Campo | Descrição
 ------|----------
-**Pró emprego** | 
-**% Redução BC** | 
+**PrÃ³ emprego** | 
+**% ReduÃ§Ã£o BC** | 
 **% Diferimento** | 
 <br>
 
@@ -65,19 +65,19 @@ Campo | Descrição
 Campo | Descrição
 ------|----------
 **Unidade de estocagem** | 
-**Est. Mínimo** | 
-**Est. Máximo** | 
+**Est. MÃ­nimo** | 
+**Est. MÃ¡ximo** | 
 **Ponto Ped.** | 
-**Lote Econômico** | 
+**Lote EconÃ´mico** | 
 **Qtdade** | 
-**Valor Méd. Estoque** | Valor médido do estoque desse produto
+**Valor MÃ©d. Estoque** | Valor mÃ©dido do estoque desse produto
 **Qtdade Alocado** | 
-**Valor Méd Aloc.** | Valor médido do estoque alocado desse produto
+**Valor MÃ©d Aloc.** | Valor mÃ©dido do estoque alocado desse produto
 **Qtdade Saldo** | 
-**Valor Méd Saldo** | Valor médido do estoque do saldo entre estoque total - alocados
+**Valor MÃ©d Saldo** | Valor mÃ©dido do estoque do saldo entre estoque total - alocados
 **Qtdade em Compra** | 
-**Prev. Compra** | Previsão de entrega do compras
-**Último Movimento** | Último movimento de compra ou venda deste produto
+**Prev. Compra** | PrevisÃ£o de entrega do compras
+**Ãšltimo Movimento** | Ãšltimo movimento de compra ou venda deste produto
 <br>
 
 ## Compra/Venda
@@ -90,31 +90,31 @@ Campo | Descrição
 **%IPI Venda** | 
 **% IPI Compra** | 
 **%ISQN** | 
-**Val.Compra/Produção** | Valor de Compra ou Valor de Produção
+**Val.Compra/ProduÃ§Ã£o** | Valor de Compra ou Valor de ProduÃ§Ã£o
 **Usar ficha do produto** | 
-**V.produção (ficha)** | Valor de produção com base na ficha do produto
-**Cálc.V.Venda** | Tipo da formação do valor de venda, pela Fórmula ou Manual
+**V.produÃ§Ã£o (ficha)** | Valor de produÃ§Ã£o com base na ficha do produto
+**CÃ¡lc.V.Venda** | Tipo da formaÃ§Ã£o do valor de venda, pela FÃ³rmula ou Manual
 **Valor Venda 1** | Valor de venda do produto com a margen de venda zero
 **Valor Venda 2** | Valor de venda do produto com a margen de venda especialmente competitiva
 **Valor Venda 3** | Valor de venda do produto com a margen de venda competitiva
 **Valor Venda 4** | Valor de venda do produto com a margen de venda normal
 **Valor Venda 5** | Valor de venda do produto com a margen de venda lucrativa
 **Valor Venda 6** | Valor de venda do produto com a margen de venda extremamente lucrativa
-**Val.Méd. Compra** | 
-**Val.Méd. Venda** | 
+**Val.MÃ©d. Compra** | 
+**Val.MÃ©d. Venda** | 
 **Grafico** | 
-**Receita** | Conta contábil para receita
-**Despesa** | Conta contábil para despesa
-**Fora de Linha** | Se um produto for marcado como fora de linha, não aparecerá nas listas de Venda
+**Receita** | Conta contÃ¡bil para receita
+**Despesa** | Conta contÃ¡bil para despesa
+**Fora de Linha** | Se um produto for marcado como fora de linha, nÃ£o aparecerÃ¡ nas listas de Venda
 **Motivo** | 
 <br>
 
-## Observação
+## ObservaÃ§Ã£o
 ![produto.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.observacao.png)
 
 Campo | Descrição
 ------|----------
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 
 ## Termos
@@ -131,7 +131,7 @@ Campo | Descrição
 <br>
 
 ## Links
-### [Histórico de Vendas](/geral/historicovendas_produto.md)
+### [HistÃ³rico de Vendas](/geral/historicovendas_produto.md)
 ### [Ficha do Produto](/geral/produtoficha.md)
 ### [Dependentes](/geral/materiaficha.md)
 <br>
