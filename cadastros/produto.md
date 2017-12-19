@@ -1,4 +1,4 @@
-﻿# PRODUTOS
+# PRODUTOS
 <br>
 
 ## Acesso
