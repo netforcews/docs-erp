@@ -62,7 +62,6 @@
 - Consulta Valor
 - Gerar pacote de notas
 - Histórico de Vendas
-- [Mudar Coluna Código](/vendas/mudar-col-codigo.md)
 - [Notas Fiscais](/vendas/notas-fiscais.md)
 - Orçamentos
 - Pedidos
