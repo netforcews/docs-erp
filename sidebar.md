@@ -1,5 +1,10 @@
 - [**F.A.Q.**](/faq/faq.md)
 
+**ATENDIMENTO**
+- Chamados
+- Configurações
+- Status
+
 **CADASTROS**
 - [Bancos](/cadastros/banco.md)
 - [Carteiras de Cobrança](/cadastros/cobrancacarteira.md)
@@ -33,48 +38,40 @@
 - [Regiões](/cadastros/regiao.md)
 - [Tipos de Produtos](/cadastros/tiposproduto.md)
 - [Tipos de Serviços](/cadastros/servicos.md)
-- Transferir Responsável
 - [Unidades de Medida](/cadastros/unidademedida.md)
 - [Usuários](/cadastros/usuario.md)
 - [Vendedores](/cadastros/vendedor.md)
 
-#### ESTOQUES
-- [Configurações](/estoques/config_estoque.md)
-- [Estoques](/estoques/estoque.md)
-- [Movimento de estoque](/estoques/estoquemovimento.md)
-- [Transferências](/estoques/Transferencias.md)
-
-#### PCP
-- [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
-- [Configurações](/PCP/Configuracoes.md)
-- [Itens a produzir](/PCP/ItensAProduzir.md)
-- [Ordens de produção](/PCP/OrdensDeProducao.md)
-
-#### WHS
-- [Coleta](/WHS/Coleta.md)
-
-#### CRM
-- Configurações
-- Interações
-
-####  VENDAS
-- Configurações
-- Consulta Valor
-- Gerar pacote de notas
-- Histórico de Vendas
-- [Notas Fiscais](/vendas/notas-fiscais.md)
-- Orçamentos
-- Pedidos
-- Pré-pedido
-- Processar Contratos
-
-#### COMPRAS
+**COMPRAS**
 - Configurações
 - Importar Notas
 - Notas Fiscais
 - Pedidos
 
-#### FINANCEIRO
+**CRM**
+- Configurações
+- Interações
+
+**E-MAILS**
+- Campanhas
+- Configurações
+- Contas
+- Entrada
+- Estilos
+- Filtros
+- Lixeira
+- Saída
+- SMS Saída
+- SMS Modelos
+- Spam
+
+**ESTOQUES**
+- [Configurações](/estoques/config_estoque.md)
+- [Estoques](/estoques/estoque.md)
+- [Movimento de estoque](/estoques/estoquemovimento.md)
+- [Transferências](/estoques/Transferencias.md)
+
+**FINANCEIRO**
 - Acertos entre unidades
 - Atualizar linha digitável
 - Configurações
@@ -88,8 +85,22 @@
 - Remessa de Cobrança
 - Retorno de Cobrança
 - Transferência entre contas
-  
-#### PROJETOS
+
+**OS**
+- Configurações
+- Ordem de Serviço
+
+**PCP**
+- [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
+- [Configurações](/PCP/Configuracoes.md)
+- [Itens a produzir](/PCP/ItensAProduzir.md)
+- [Ordens de produção](/PCP/OrdensDeProducao.md)
+
+**PORTAL**
+- Configurações
+- Páginas
+
+**PROJETOS**
 - Configurações
 - Definição de cargas
 - Entrada de produtos
@@ -98,7 +109,7 @@
 - Projetos
 - Transferência de produtos
 
-#### RH
+**RH**
 - [Configurações](/RH/configuracoes.md)
 - [Contas](/RH/contas.md)
 - Equipamentos
@@ -107,28 +118,17 @@
 - Recrutamento
 - [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
 
-#### ATENDIMENTO
-- Chamados
+**VENDAS**
 - Configurações
-- Status
+- Consulta Valor
+- Gerar pacote de notas
+- Histórico de Vendas
+- [Notas Fiscais](/vendas/notas-fiscais.md)
+- Orçamentos
+- Pedidos
+- Pré-pedido
+- Processar Contratos
 
-#### OS
-- Configurações
-- Ordem de Serviço
+**WHS**
+- [Coleta](/WHS/Coleta.md)
 
-#### E-MAILS
-- Campanhas
-- Configurações
-- Contas
-- Entrada
-- Estilos
-- Filtros
-- Lixeira
-- Saída
-- SMS Saída
-- SMS Modelos
-- Spam
-
-#### PORTAL
-- Configurações
-- Páginas
