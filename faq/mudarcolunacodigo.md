@@ -8,9 +8,9 @@ Esse passo-a-passo vai mostrar para você como fazer a escolha dessas duas opç�
 
 1. Clique no módulo ```Vendas```e depois na opção ```Configurações``` no menu lateral esquerdo:
 
-![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/vendas-configuracoes.png)
+![mudarcolunacodigo01](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/mudarcolunacodigo01.png)
 
 2. Já na tela de configurações, localize o campo **Col. Código** e escolha entre **Código Interno** ou **Código do Fornecedor**. Por fim
 clique em ```Executar```:
 
-![mod-vendas](https://raw.githubusercontent.com/netforcews/docs-erp/master/vendas/imgs/coluna-executar.png)
+![mudarcolunacodigo02](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/mudarcolunacodigo02.png)
