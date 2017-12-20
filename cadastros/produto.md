@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 ![produto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.grid.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Código** | 
 **Cód. Forn.** | 
 **C.Barras** | 
@@ -30,7 +30,7 @@ Campo | Descrição
 ![produto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.geral.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Código** | 
 **Descrição** | 
 **Grupo** | 
@@ -54,7 +54,7 @@ Campo | Descrição
 ![produto.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.impostos.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Pró emprego** | 
 **% Redução BC** | 
 **% Diferimento** | 
@@ -64,7 +64,7 @@ Campo | Descrição
 ![produto.estoque](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.estoque.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Unidade de estocagem** | 
 **Est. Mínimo** | 
 **Est. Máximo** | 
@@ -85,7 +85,7 @@ Campo | Descrição
 ![produto.compra_venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.compra_venda.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Unidade de compra** | 
 **Unidade de venda** | 
 **%IPI Venda** | 
@@ -114,7 +114,7 @@ Campo | Descrição
 ![produto.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.observacao.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Observação** | 
 <br>
 
@@ -122,7 +122,7 @@ Campo | Descrição
 ![produto.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.termos.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Termos** | 
 <br>
 

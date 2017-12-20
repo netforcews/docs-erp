@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 ![empresa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.grid.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Nome Fantasia** | 
 **Nome** | 
 **Código** | 
@@ -23,7 +23,7 @@ Campo | Descrição
 ![empresa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.geral.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Código** | 
 **ID.Interno** | Identificação interna
 **Nome** | 
@@ -57,7 +57,7 @@ Campo | Descrição
 ![empresa.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.impostos.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Sujeito a trib. do ICMS** | Marcar se a empresa usuário esta sujeita a tributação do ICMS
 **Sujeito a trib. do IPI Venda** | Marcar se a empresa usuário esta sujeita a tributação do IPI de Venda
 **Sujeito a trib. do ISQN** | Marcar se a empresa usuário esta sujeita a tributação do ISQN
@@ -81,7 +81,7 @@ Campo | Descrição
 ![empresa.financeiro](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.financeiro.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobrança
 **Prazo Médio Máx** | Prazo médio máximo autorizado para faturamentos para a empresa usuária
 **% Juros Mora** | % da taxa de juros (a.m.) utilizado na emissão dos boletos
@@ -92,7 +92,7 @@ Campo | Descrição
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Domingo** | 
 **Segunda** | 
 **Terça** | 
@@ -124,7 +124,7 @@ Campo | Descrição
 ![empresa.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.termos.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Termos** | 
 <br>
 
@@ -132,7 +132,7 @@ Campo | Descrição
 ![empresa.logomarca](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.logomarca.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Logo** | 
 **Logo Nota** | 
 <br>
@@ -141,7 +141,7 @@ Campo | Descrição
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
 Campo | Descrição
------:|----------
+--:|---
 **Informações Diversas** | 
 <br>
 
