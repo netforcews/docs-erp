@@ -43,10 +43,10 @@
 - [Vendedores](/cadastros/vendedor.md)
 
 **COMPRAS**
-- Configurações
-- Importar Notas
-- Notas Fiscais
-- Pedidos
+- [Configurações](/compras/config_compras.md)
+- [Importar Notas](/compras/compranotas.md)
+- [Notas Fiscais](/compras/notacompra.md)
+- [Pedidos](/compras/pedidocompra.md)
 
 **CRM**
 - Configurações
