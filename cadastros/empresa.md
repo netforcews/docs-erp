@@ -14,7 +14,7 @@ Campo | Descrição
 --:|---
 **Nome Fantasia** | 
 **Nome** | 
-**Código** | 
+**CÃ³digo** | 
 **ID.Interno** | 
 <br>
 
@@ -23,17 +23,17 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | 
-**ID.Interno** | Identificação interna
+**CÃ³digo** | 
+**ID.Interno** | IdentificaÃ§Ã£o interna
 **Nome** | 
 **Nome Fantasia** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **DDD** | 
 **Telefone** | 
 **Fax** | 
@@ -41,15 +41,15 @@ Campo | Descrição
 **E-mail Vendas** | 
 **E-mail Compras** | 
 **E-mail Financeiro** | 
-**E-mail Informática** | 
+**E-mail InformÃ¡tica** | 
 **WebSite** | 
 **CNPJ** | 
 **Insc.Estadual** | 
 **Insc.Municipal** | 
 **Ramo de Atv.** | Ramo de Atividade
-**Série Produto** | Série padrão para venda de mercadorias
-**Série Serviço** | Série padrão para prestação de serviço
-**Série Consumidor** | Série padrão para vendas ao consumidor final
+**SÃ©rie Produto** | SÃ©rie padrÃ£o para venda de mercadorias
+**SÃ©rie ServiÃ§o** | SÃ©rie padrÃ£o para prestaÃ§Ã£o de serviÃ§o
+**SÃ©rie Consumidor** | SÃ©rie padrÃ£o para vendas ao consumidor final
 <br>
 
 ## Impostos
@@ -57,23 +57,23 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sujeito a trib. do ICMS** | Marcar se a empresa usuário esta sujeita a tributação do ICMS
-**Sujeito a trib. do IPI Venda** | Marcar se a empresa usuário esta sujeita a tributação do IPI de Venda
-**Sujeito a trib. do ISQN** | Marcar se a empresa usuário esta sujeita a tributação do ISQN
+**Sujeito a trib. do ICMS** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do ICMS
+**Sujeito a trib. do IPI Venda** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do IPI de Venda
+**Sujeito a trib. do ISQN** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do ISQN
 **ISQN (%)** | 
-**Sujeito a trib. do PIS** | Marcar se a empresa usuário esta sujeita a tributação do PIS
+**Sujeito a trib. do PIS** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do PIS
 **PIS (%)** | 
-**Sujeito a trib. do CONFINS** | Marcar se a empresa usuário esta sujeita a tributação do CONFINS
+**Sujeito a trib. do CONFINS** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do CONFINS
 **CONFINS (%)** | 
-**Sujeito a trib. da Contr.Social** | Marcar se a empresa usuário esta sujeita a tributação da Contribuição Social
+**Sujeito a trib. da Contr.Social** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o da ContribuiÃ§Ã£o Social
 **Contr.Social (%)** | 
-**Sujeito a trib. do IR** | Marcar se a empresa usuário esta sujeita a tributação do IR
+**Sujeito a trib. do IR** | Marcar se a empresa usuÃ¡rio esta sujeita a tributaÃ§Ã£o do IR
 **IR (%)** | 
-**Sujeito a trib. do SIMPLES Nascional** | Marcar se a empresa usuário é optante do SIMPLES NASCIONAL
+**Sujeito a trib. do SIMPLES Nascional** | Marcar se a empresa usuÃ¡rio Ã© optante do SIMPLES NASCIONAL
 **SIMPLES (%)** | 
-**SIMPLES(%) Aprov.** | Alíquota de aproveitamento do crédito de ICMS, referente ao Art. 23 da LC 123
-**Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da Substituição Tributária
-**Observação NF** | Observação para ser exibido na nota fiscal, na parte dos dados adicionais
+**SIMPLES(%) Aprov.** | AlÃ­quota de aproveitamento do crÃ©dito de ICMS, referente ao Art. 23 da LC 123
+**Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da SubstituiÃ§Ã£o TributÃ¡ria
+**ObservaÃ§Ã£o NF** | ObservaÃ§Ã£o para ser exibido na nota fiscal, na parte dos dados adicionais
 <br>
 
 ## Financeiro
@@ -81,34 +81,34 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobrança
-**Prazo Médio Máx** | Prazo médio máximo autorizado para faturamentos para a empresa usuária
-**% Juros Mora** | % da taxa de juros (a.m.) utilizado na emissão dos boletos
+**C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobranÃ§a
+**Prazo MÃ©dio MÃ¡x** | Prazo mÃ©dio mÃ¡ximo autorizado para faturamentos para a empresa usuÃ¡ria
+**% Juros Mora** | % da taxa de juros (a.m.) utilizado na emissÃ£o dos boletos
 **% Multa** | % da taxa de muta para boeltos vencido
 <br>
 
-## Configurações
+## ConfiguraÃ§Ãµes
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
 Campo | Descrição
 --:|---
 **Domingo** | 
 **Segunda** | 
-**Terça** | 
+**TerÃ§a** | 
 **Quarta** | 
 **Quita** | 
 **Sexta** | 
-**Sábado** | 
+**SÃ¡bado** | 
 **Tipo Nota** | 
-**Enviar orçamento por e-mail** | 
+**Enviar orÃ§amento por e-mail** | 
 **Enviar pedido por e-mail** | 
 **Enviar NF por e-mail** | 
-**Avisar Transp. p/ Coleta** | Se marcado, no faturamento será enviado uma solicitaçao de coleta para a transportadora da Nota
-**Enviar aviso de conclusão do pedido** | 
-**Permite alterar número da NF** | 
+**Avisar Transp. p/ Coleta** | Se marcado, no faturamento serÃ¡ enviado uma solicitaÃ§ao de coleta para a transportadora da Nota
+**Enviar aviso de conclusÃ£o do pedido** | 
+**Permite alterar nÃºmero da NF** | 
 **Permite emitir NF de produtos** | 
-**Permite emitir NF de serviços** | 
-**Controlar sequência dos números da NFSe** | 
+**Permite emitir NF de serviÃ§os** | 
+**Controlar sequÃªncia dos nÃºmeros da NFSe** | 
 **Estoque Controlado** | 
 **Certificado (*pfx)** | 
 **Senha** | 
@@ -136,12 +136,12 @@ Campo | Descrição
 **Logo Nota** | 
 <br>
 
-## Informações
+## InformaÃ§Ãµes
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
 Campo | Descrição
 --:|---
-**Informações Diversas** | 
+**InformaÃ§Ãµes Diversas** | 
 <br>
 
 ## Links
