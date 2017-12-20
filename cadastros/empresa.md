@@ -1,8 +1,8 @@
-# EMPRESA USUÃRIA
+ï»¿# EMPRESA USUÁRIA
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Empresa usuÃ¡ria.
+Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Empresa usuária.
 <br>
 <br>
 
@@ -87,7 +87,7 @@ Campo | Descrição
 **% Multa** | % da taxa de muta para boeltos vencido
 <br>
 
-## ConfiguraÃ§Ãµes
+## Configurações
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
 Campo | Descrição
@@ -136,7 +136,7 @@ Campo | Descrição
 **Logo Nota** | 
 <br>
 
-## InformaÃ§Ãµes
+## Informações
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
 Campo | Descrição
