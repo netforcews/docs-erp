@@ -15,6 +15,7 @@
 - [Classificações Tributárias](/cadastros/classtributaria.md)
 - [Condições Pagto](/cadastros/condicaopagamento.md)
 - [Configurações](/cadastros/config_cadastro.md)
+- [Configurações](/cadastros/configcadastro.md)
 - [Departamentos](/cadastros/departamentos.md)
 - [Empresa usuária](/cadastros/empresa.md)
 - [Equipamentos](/cadastros/osassunto.md)
