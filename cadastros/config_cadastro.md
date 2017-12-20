@@ -4,15 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Configurações**.
 <br>
-<br>
-
-## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
-![config_cadastro.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/config_cadastro.grid.png)
-
-Campo | Descrição
---:|---
-<br>
 
 ## Geral
 ![config_cadastro.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/config_cadastro.geral.png)
@@ -29,4 +20,4 @@ Campo | Descrição
 <br>
 <br>
 
-```:CONFIG_CADASTRO```
+```FORM:CONFIG_CADASTRO```
