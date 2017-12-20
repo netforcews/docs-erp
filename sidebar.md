@@ -1,10 +1,10 @@
 - [**F.A.Q.**](/faq/faq.md)
-
+<br>
 **ATENDIMENTO**
 - [Chamados](/atendimento/sdktickets.md)
 - [Configurações](/atendimento/config_sdk.md)
 - [Status](/atendimento/sdkstatus.md)
-
+<br>
 **CADASTROS**
 - [Bancos](/cadastros/banco.md)
 - [Carteiras de Cobrança](/cadastros/cobrancacarteira.md)
@@ -41,17 +41,17 @@
 - [Unidades de Medida](/cadastros/unidademedida.md)
 - [Usuários](/cadastros/usuario.md)
 - [Vendedores](/cadastros/vendedor.md)
-
+<br>
 **COMPRAS**
 - [Configurações](/compras/config_compras.md)
 - [Importar Notas](/compras/compranotas.md)
 - [Notas Fiscais](/compras/notacompra.md)
 - [Pedidos](/compras/pedidocompra.md)
-
+<br>
 **CRM**
-- Configurações
-- Interações
-
+- [Configurações](/crm/config_crm.md)
+- [Interações](/crm/interacoespessoa.md)
+<br>
 **E-MAILS**
 - Campanhas
 - Configurações
@@ -64,13 +64,13 @@
 - SMS Saída
 - SMS Modelos
 - Spam
-
+<br>
 **ESTOQUES**
 - [Configurações](/estoques/config_estoque.md)
 - [Estoques](/estoques/estoque.md)
 - [Movimento de estoque](/estoques/estoquemovimento.md)
 - [Transferências](/estoques/Transferencias.md)
-
+<br>
 **FINANCEIRO**
 - Acertos entre unidades
 - Atualizar linha digitável
@@ -85,21 +85,21 @@
 - Remessa de Cobrança
 - Retorno de Cobrança
 - Transferência entre contas
-
+<br>
 **OS**
 - Configurações
 - Ordem de Serviço
-
+<br>
 **PCP**
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
 - [Configurações](/PCP/Configuracoes.md)
 - [Itens a produzir](/PCP/ItensAProduzir.md)
 - [Ordens de produção](/PCP/OrdensDeProducao.md)
-
+<br>
 **PORTAL**
 - Configurações
 - Páginas
-
+<br>
 **PROJETOS**
 - Configurações
 - Definição de cargas
@@ -108,7 +108,7 @@
 - Ordem de produção
 - Projetos
 - Transferência de produtos
-
+<br>
 **RH**
 - [Configurações](/RH/configuracoes.md)
 - [Contas](/RH/contas.md)
@@ -117,7 +117,7 @@
 - [Ponto](/RH/ponto.md)
 - Recrutamento
 - [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
-
+<br>
 **VENDAS**
 - Configurações
 - Consulta Valor
@@ -128,7 +128,7 @@
 - Pedidos
 - Pré-pedido
 - Processar Contratos
-
+<br>
 **WHS**
 - [Coleta](/WHS/Coleta.md)
 
