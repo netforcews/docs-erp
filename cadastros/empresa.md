@@ -2,15 +2,15 @@
 <br>
 
 ## Acesso
-Selecione o mÛdulo Cadastros, opÁ„o Cadastros, opÁ„o Empresa usu·ria.
+Para acessar esta op√ß√£o, selecione o m√≥dulo Cadastros, opÁ„o Cadastros, opÁ„o Empresa usu·ria.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![empresa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.grid.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Nome Fantasia** | 
 **Nome** | 
@@ -21,7 +21,7 @@ Campo | DescriÁ„o
 ## Geral
 ![empresa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.geral.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **C√≥digo** | 
 **ID.Interno** | Identifica√ß√£o interna
@@ -55,7 +55,7 @@ Campo | DescriÁ„o
 ## Impostos
 ![empresa.impostos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.impostos.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Sujeito a trib. do ICMS** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do ICMS
 **Sujeito a trib. do IPI Venda** | Marcar se a empresa usu√°rio esta sujeita a tributa√ß√£o do IPI de Venda
@@ -79,7 +79,7 @@ Campo | DescriÁ„o
 ## Financeiro
 ![empresa.financeiro](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.financeiro.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobran√ßa
 **Prazo M√©dio M√°x** | Prazo m√©dio m√°ximo autorizado para faturamentos para a empresa usu√°ria
@@ -90,7 +90,7 @@ Campo | DescriÁ„o
 ## Configura√ß√µes
 ![empresa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.configuracoes.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Domingo** | 
 **Segunda** | 
@@ -122,7 +122,7 @@ Campo | DescriÁ„o
 ## Termos
 ![empresa.termos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.termos.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Termos** | 
 <br>
@@ -130,7 +130,7 @@ Campo | DescriÁ„o
 ## Logomarca
 ![empresa.logomarca](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.logomarca.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Logo** | 
 **Logo Nota** | 
@@ -139,7 +139,7 @@ Campo | DescriÁ„o
 ## Informa√ß√µes
 ![empresa.informacoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/empresa.informacoes.png)
 
-Campo | DescriÁ„o
+Campo | Descri√ß√£o
 --:|---
 **Informa√ß√µes Diversas** | 
 <br>
