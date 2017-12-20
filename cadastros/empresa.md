@@ -2,7 +2,7 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, selecione o módulo Cadastros, opção Cadastros, opção Empresa usuária.
+Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Empresa usuária**.
 <br>
 <br>
 

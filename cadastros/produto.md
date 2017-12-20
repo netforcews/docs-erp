@@ -2,7 +2,7 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, selecione o módulo Cadastros, opção Cadastros, opção Produtos.
+Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Produtos**.
 <br>
 <br>
 
