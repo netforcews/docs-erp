@@ -1,6 +1,4 @@
-﻿ï»¿
-# EMPRESA USUÁRIA
----
+﻿#$EF+#$BB+#$BF# EMPRESA USUÁRIA
 <br>
 
 ## Acesso
