@@ -1,47 +1,47 @@
 - [**F.A.Q.**](/faq/faq.md)
 
 #### CADASTROS
-- Bancos
-- Carteiras de cobrança
-- Categorias de equipamentos
-- Centros de custos
-- Classificações
-- Classificações fiscais
-- Classificações tributárias
-- Condições de pagamento
-- Configurações
-- Departamentos
+- [Bancos](/cadastros/banco.md)
+- [Carteiras de Cobrança](/cadastros/cobrancacarteira.md)
+- [Categorias Equipamentos](/cadastros/assuntocategorias.md)
+- [Centros de Custo](/cadastros/centrocusto.md)
+- [Classificações](/cadastros/classificacoes.md)
+- [Classificações Fiscais](/cadastros/classificacaofiscal.md)
+- [Classificações Tributárias](/cadastros/classtributaria.md)
+- [Condições Pagto](/cadastros/condicaopagamento.md)
+- [Configurações](/cadastros/config_cadastro.md)
+- [Departamentos](/cadastros/departamentos.md)
 - [Empresa usuária](/cadastros/empresa.md)
-- Equipamentos
-- Estados
-- Exportar e-mails
-- Feriados
-- [Grupos de produtos](/cadastros/produtogrupo.md)
-- ICMSs
-- Margens de venda
-- Máquinas
-- Naturezas de operação
-- OC Cobrança motivos
-- Ocorrências
-- Ocorrências de cobrança
-- Opções
-- Pessoas
-- Planos de conta
+- [Equipamentos](/cadastros/osassunto.md)
+- [Estados](/cadastros/estado.md)
+- [Exportar e-mails](/cadastros/exp_emails.md)
+- [Feriados](/cadastros/feriados.md)
+- [Grupos de produto](/cadastros/produtogrupo.md)
+- [ICMSs](/cadastros/icms.md)
+- [Margens de Venda](/cadastros/margemvenda.md)
+- [Máquinas](/cadastros/pcppaquinas.md)
+- [Naturezas de Operação](/cadastros/naturezaoperacao.md)
+- [OC Cobrança Motivos](/cadastros/ocorrenciamotivos.md)
+- [Ocorrências](/cadastros/ocorrencias.md)
+- [Ocorrências de Cobrança](/cadastros/cobrancaocorrencia.md)
+- [Opções](/cadastros/opcoes.md)
+- [Pessoas](/cadastros/pessoa.md)
+- [Planos de Contas](/cadastros/planoconta.md)
 - [Produtos](/cadastros/produto.md)
 - [Promoções](/cadastros/promocoes.md) 
-- Ramos de atividade
-- Regiões
-- Tipos de produtos
-- Tipos de serviços
+- [Ramos de Atividade](/cadastros/ramoatividade.md)
+- [Regiões](/cadastros/regiao.md)
+- [Tipos de Produtos](/cadastros/tiposproduto.md)
+- [Tipos de Serviços](/cadastros/servicos.md)
 - Transferir Responsável
-- Unidades de medida
-- Usuários
-- Vendedores
+- [Unidades de Medida](/cadastros/unidademedida.md)
+- [Usuários](/cadastros/usuario.md)
+- [Vendedores](/cadastros/vendedor.md)
 
 #### ESTOQUES
-- Configurações
-- Estoques
-- Movimento de estoque
+- [Configurações](/estoques/config_estoque.md)
+- [Estoques](/estoques/estoque.md)
+- [Movimento de estoque](/estoques/estoquemovimento.md)
 - [Transferências](/estoques/Transferencias.md)
 
 #### PCP
