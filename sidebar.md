@@ -55,6 +55,9 @@
 **CRM**
 - [Configurações](/crm/config_crm.md)
 - [Interações](/crm/interacoespessoa.md)
+- [Configurações](/crm/config_crm.md)
+- [Interações](/crm/interacoespessoa.md)
+
 <br>
 
 **E-MAILS**
