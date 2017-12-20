@@ -13,6 +13,6 @@ Esse passo-a-passo vai mostrar para você como fazer a escolha dessas duas opç�
 ![mudarcolunacodigo01](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/mudarcolunacodigo01.png)
 
 2. Na tela de configurações, localize o campo **Col. Código** e escolha entre **Código Interno** ou **Código do Fornecedor**. Por fim
-clique em **Executar**:
+clique em **Executar**.
 
 ![mudarcolunacodigo02](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/mudarcolunacodigo02.png)
