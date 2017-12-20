@@ -2,22 +2,22 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Pessoas.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Cadastros**, opÃ§Ã£o **Pessoas**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pessoa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Marca** | 
 **Nome** | 
 **Telefone** | 
 **E-mail** | 
 **CNPJ/CPF** | 
-**Município** | 
+**MunicÃ­pio** | 
 **UF** | 
 **Sit** | 
 **Resp** | 
@@ -27,38 +27,38 @@ Campo | Descrição
 ## Geral
 ![pessoa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 **Marca** | 
-**Inscrição** | 
+**InscriÃ§Ã£o** | 
 **CNPJ/CPF** | 
 **Tipo** | 
-**Inscr.Estadual** | Inscrição Estadual (Pessoas isentas informar ISENTO)
-**Inscr.Municipal** | Inscrição municipal (Pessoas isentas informar ISENTO)
+**Inscr.Estadual** | InscriÃ§Ã£o Estadual (Pessoas isentas informar ISENTO)
+**Inscr.Municipal** | InscriÃ§Ã£o municipal (Pessoas isentas informar ISENTO)
 **Ramo Atividade** | 
 **Data Nasc.** | 
 **RG** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **Transportadora** | 
 **Retira na empresa** | 
 **Banco** | 
 **Data Cadastro** | 
-**País** | 
+**PaÃ­s** | 
 **Empresa** | 
 <br>
 
 ## Contatos
 ![pessoa.contatos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.contatos.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **DDD** | 
 **Telefone** | 
 **Fax** | 
@@ -74,80 +74,80 @@ Campo | Descrição
 **WebSite** | 
 <br>
 
-## Configurações
+## ConfiguraÃ§Ãµes
 ![pessoa.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.configuracoes.png)
 
-Campo | Descrição
-------|----------
-**Situação** | 
-**Data Situação** | 
-**Região Venda** | 
-**Responsável** | 
-**Classificação** | 
-**Crédito** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SituaÃ§Ã£o** | 
+**Data SituaÃ§Ã£o** | 
+**RegiÃ£o Venda** | 
+**ResponsÃ¡vel** | 
+**ClassificaÃ§Ã£o** | 
+**CrÃ©dito** | 
 **Ultima Compra** | 
-**Freq. de Compra** | Frequência de compra
-**Margem Venda** | Margem de Venda utilizada para o cálculo de venda de um produto ou serviço para este cliente
-**Condição Pagto** | 
+**Freq. de Compra** | FrequÃªncia de compra
+**Margem Venda** | Margem de Venda utilizada para o cÃ¡lculo de venda de um produto ou serviÃ§o para este cliente
+**CondiÃ§Ã£o Pagto** | 
 **Forma Pagto** | 
 **Frete** | 
 **Prazo de Entrega** | Prazo de entrega do fornecedor para as compras (em dias)
-**Receita** | Conta Contábil para receita
-**Despesa** | Conta Contábil de despesa
-**Cliente tem o benefício do REIDI** | REIDI - REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRAESTRUTURA
+**Receita** | Conta ContÃ¡bil para receita
+**Despesa** | Conta ContÃ¡bil de despesa
+**Cliente tem o benefÃ­cio do REIDI** | REIDI - REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRAESTRUTURA
 **Cliente** | 
 **Fornecedor** | 
 **Transportadora** | 
 **Banco** | 
-**Funcionário** | 
+**FuncionÃ¡rio** | 
 **Acesso ao portal habilitado** | 
 **Senha** | 
-**Enviar aviso de senha para a pessoa** | Se esta opção foi marcada será enviado para a pessoa um e-mail informando a sua senha
+**Enviar aviso de senha para a pessoa** | Se esta opÃ§Ã£o foi marcada serÃ¡ enviado para a pessoa um e-mail informando a sua senha
 <br>
 
-## Outros Endereços
+## Outros EndereÃ§os
 ![pessoa.outrosenderecos](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.outrosenderecos.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 <br>
 
-## Observação
+## ObservaÃ§Ã£o
 ![pessoa.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.observacao.png)
 
-Campo | Descrição
-------|----------
-**Observação** | 
-**Info.Internas** | Informações internas. Essas informações não aparecem nos relatórios
+Campo | DescriÃ§Ã£o
+--:|---
+**ObservaÃ§Ã£o** | 
+**Info.Internas** | InformaÃ§Ãµes internas. Essas informaÃ§Ãµes nÃ£o aparecem nos relatÃ³rios
 <br>
 
-## Localização
+## LocalizaÃ§Ã£o
 ![pessoa.localizacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pessoa.localizacao.png)
 
-Campo | Descrição
-------|----------
-**Localização** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**LocalizaÃ§Ã£o** | 
 <br>
 
 ## Links
 ### [Contatos](/geral/pessoacontato.md)
-### [Histórico de Vendas](/geral/historicovendas_pessoa.md)
-### [Interações](/geral/pessoainteracoes.md)
-### [Serviços](/geral/pessoaservicos.md)
+### [HistÃ³rico de Vendas](/geral/historicovendas_pessoa.md)
+### [InteraÃ§Ãµes](/geral/pessoainteracoes.md)
+### [ServiÃ§os](/geral/pessoaservicos.md)
 ### [C.Receber](/geral/contasareceber.md)
 ### [C.Pagar](/geral/contasapagar.md)
 ### [Projetos](/geral/projetos.md)

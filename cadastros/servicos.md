@@ -1,30 +1,30 @@
-# TIPOS DE SERVIÇOS
+# TIPOS DE SERVIÃ‡OS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Tipos de Serviços.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Tipos de ServiÃ§os**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![servicos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/servicos.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Aliquota** | 
 <br>
 
 ## Geral
 ![servicos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/servicos.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Aliquota** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

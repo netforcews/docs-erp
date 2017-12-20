@@ -1,40 +1,40 @@
-# NATUREZAS DE OPERAÇÃO
+# NATUREZAS DE OPERAÃ‡ÃƒO
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Naturezas de Operação.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Naturezas de OperaÃ§Ã£o**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![naturezaoperacao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/naturezaoperacao.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **CFOP** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Aut** | 
 <br>
 
 ## Geral
 ![naturezaoperacao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/naturezaoperacao.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **CFOP** | 
 **Tipo** | 
-**Descrição** | 
-**Gerar movimentação financeira** | 
-**Gerar tributação** | 
-**Gerar movimentação de estoque** | 
-**Devolução** | 
-**Demonstração** | 
+**DescriÃ§Ã£o** | 
+**Gerar movimentaÃ§Ã£o financeira** | 
+**Gerar tributaÃ§Ã£o** | 
+**Gerar movimentaÃ§Ã£o de estoque** | 
+**DevoluÃ§Ã£o** | 
+**DemonstraÃ§Ã£o** | 
 **Autorizado** | 
 **Destaca aproveitamento de ICMS do SIMPLES** | 
 **Teste de sistema** | 
-**Requer detalhamento de combustível / lubrificantes** | 
-**Cód Nat.Oper** | Código da natureza de operação quando para serviço
+**Requer detalhamento de combustÃ­vel / lubrificantes** | 
+**CÃ³d Nat.Oper** | CÃ³digo da natureza de operaÃ§Ã£o quando para serviÃ§o
 <br>
 <br>
 <br>

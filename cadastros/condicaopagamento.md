@@ -1,20 +1,20 @@
-# CONDIÇÕES PAGTO
+# CONDIÃ‡Ã•ES PAGTO
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Condições Pagto.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **CondiÃ§Ãµes Pagto**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![condicaopagamento.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/condicaopagamento.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Informativo** | 
-**Prazo Médio** | 
+**Prazo MÃ©dio** | 
 **Atv** | 
 **P.V.** | 
 **P.C.** | 
@@ -23,12 +23,12 @@ Campo | Descrição
 ## Geral
 ![condicaopagamento.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/condicaopagamento.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Informativo** | 
 **Complemento** | 
-**Juros (a.m)** | Juros a ser acrescido em cada parcela (a base do juros informada deve ser ao mês)
+**Juros (a.m)** | Juros a ser acrescido em cada parcela (a base do juros informada deve ser ao mÃªs)
 **Ativo** | 
 **Para Venda** | 
 **Para Compra** | 
@@ -57,7 +57,7 @@ Campo | Descrição
 **Parc. 12** | 
 **%Dia12** | 
 **Num.Parcelas** | 
-**Média** | 
+**MÃ©dia** | 
 <br>
 <br>
 <br>

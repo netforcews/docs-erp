@@ -2,26 +2,26 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Categorias Equipamentos.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Categorias Equipamentos**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![assuntocategorias.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/assuntocategorias.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Campo** | 
 <br>
 
 ## Geral
 ![assuntocategorias.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/assuntocategorias.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Campo** | 
 <br>
 <br>

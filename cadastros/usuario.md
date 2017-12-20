@@ -1,33 +1,33 @@
-# USU¡RIOS
+# USU√ÅRIOS
 <br>
 
 ## Acesso
-Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Cadastros, opÁ„o Usu·rios.
+Para acessar esta op√ß√£o, selecione o m√≥dulo **Cadastros**, op√ß√£o **Cadastros**, op√ß√£o **Usu√°rios**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![usuario.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/usuario.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**CÛdigo** | 
+Campo | Descri√ß√£o
+--:|---
+**C√≥digo** | 
 **Nome** | 
 **Usuario** | 
 **Email** | 
-**SituaÁ„o** | 
+**Situa√ß√£o** | 
 **Des** | 
 <br>
 
 ## Geral
 ![usuario.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/usuario.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **cmd** | 
-**CÛdigo** | 
-**Usu·rio/Apelido** | 
+**C√≥digo** | 
+**Usu√°rio/Apelido** | 
 **Nome** | 
 **Data Nascimento** | 
 **Sexo** | 
@@ -36,7 +36,7 @@ Campo | DescriÁ„o
 **Matricula** | 
 **Cargo** | 
 **Logradouro** | 
-**N˙mero** | 
+**N√∫mero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
@@ -46,43 +46,43 @@ Campo | DescriÁ„o
 **Celular** | 
 **E-mail** | 
 **Senha** | 
-**SituaÁ„o** | 
+**Situa√ß√£o** | 
 **Data Atividade** | 
 **Solicitar Troca de Senha** | 
 **Senha Expira** | 
 **Desenvolvedor** | 
-**Auditar Usu·rio** | 
-**InÌcio** | 
-**TÈrmino** | 
+**Auditar Usu√°rio** | 
+**In√≠cio** | 
+**T√©rmino** | 
 **Domingo** | 
 **Segunda** | 
-**TerÁa** | 
+**Ter√ßa** | 
 **Quarta** | 
 **Quinta** | 
 **Sexta** | 
-**S·bado** | 
+**S√°bado** | 
 **IP** | 
-**⁄ltimo Acesso** | 
-**⁄ltimo Movimento** | 
-**% Comiss„o** | Percentual de comiss„o para o funcion·rio/usu·rio
+**√öltimo Acesso** | 
+**√öltimo Movimento** | 
+**% Comiss√£o** | Percentual de comiss√£o para o funcion√°rio/usu√°rio
 **Pessoa Ref.** | Cadastro de pessoa referente.
 <br>
 
 ## Venda
 ![usuario.venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/usuario.venda.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Delegar** | 
-**Regi„o de Venda** | 
+**Regi√£o de Venda** | 
 <br>
 
-## ObservaÁ„o
+## Observa√ß√£o
 ![usuario.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/usuario.observacao.png)
 
-Campo | DescriÁ„o
-------|----------
-**ObservaÁ„o** | 
+Campo | Descri√ß√£o
+--:|---
+**Observa√ß√£o** | 
 <br>
 
 ## Links

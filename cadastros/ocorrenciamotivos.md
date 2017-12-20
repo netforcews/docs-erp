@@ -1,29 +1,29 @@
-# OC COBRANÇA MOTIVOS
+# OC COBRANÃ‡A MOTIVOS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção OC Cobrança Motivos.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **OC CobranÃ§a Motivos**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![ocorrenciamotivos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ocorrenciamotivos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Banco** | 
-**Cód** | 
+**CÃ³d** | 
 **Motivo** | 
 <br>
 
 ## Geral
 ![ocorrenciamotivos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ocorrenciamotivos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Banco** | 
-**Código** | 
+**CÃ³digo** | 
 **Motivo** | 
 <br>
 <br>

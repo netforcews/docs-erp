@@ -1,29 +1,29 @@
-# CONFIGURAÇÕES
+# CONFIGURAÃ‡Ã•ES
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Configurações.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Cadastros**, opÃ§Ã£o **ConfiguraÃ§Ãµes**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![config_cadastro.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/config_cadastro.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![config_cadastro.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/config_cadastro.geral.png)
 
-Campo | Descrição
-------|----------
-**Condição Pagto** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CondiÃ§Ã£o Pagto** | 
 **Forma Pagto** | 
-**Assumir como responsável o usuário logado** | 
-**Exibir localização no cadastro** | 
-**Verificar possível duplicidade no cadastro de pessoas ao salvar** | 
+**Assumir como responsÃ¡vel o usuÃ¡rio logado** | 
+**Exibir localizaÃ§Ã£o no cadastro** | 
+**Verificar possÃ­vel duplicidade no cadastro de pessoas ao salvar** | 
 <br>
 <br>
 <br>

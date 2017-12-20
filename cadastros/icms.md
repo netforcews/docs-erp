@@ -2,16 +2,16 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção ICMSs.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **ICMSs**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![icms.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/icms.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Origem** | 
 **Destino** | 
 **Percentual** | 
@@ -20,18 +20,18 @@ Campo | Descrição
 ## Geral
 ![icms.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/icms.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Origem** | 
 **Destino** | 
 **Percentual** | 
 <br>
 
-## Informações Complementares
+## InformaÃ§Ãµes Complementares
 ![icms.informacoescomplementares](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/icms.informacoescomplementares.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **infAdFisco** | 
 **Ativo** | 
 **infCpl - Parcial** | 

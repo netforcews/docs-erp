@@ -2,36 +2,36 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Plano de Contas.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Plano de Contas**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![planoconta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/planoconta.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Estrutura** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![planoconta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/planoconta.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Estrutura** | 
-**Descrição** | 
-**Classificação** | 
+**DescriÃ§Ã£o** | 
+**ClassificaÃ§Ã£o** | 
 **Tipo** | 
 <br>
 
 ## Unidades
 ![planoconta.unidades](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/planoconta.unidades.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Info** | 
 **Contra Parte** | 
 <br>

@@ -1,30 +1,30 @@
-# OPÇÕES
+# OPÃ‡Ã•ES
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Opções.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **OpÃ§Ãµes**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![opcoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/opcoes.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Agrupador** | 
-**Código** | 
-**Descrição** | 
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![opcoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/opcoes.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Agrupador** | 
-**Código** | 
-**Descrição** | 
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

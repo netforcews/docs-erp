@@ -1,27 +1,27 @@
-# REGIÕES
+# REGIÃ•ES
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Regiões.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **RegiÃµes**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![regiao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/regiao.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Nome** | 
 <br>
 
 ## Geral
 ![regiao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/regiao.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Nome** | 
 <br>
 <br>

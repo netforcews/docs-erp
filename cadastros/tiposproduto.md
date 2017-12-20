@@ -2,32 +2,32 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Tipos de Produtos.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Tipos de Produtos**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![tiposproduto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/tiposproduto.grid.png)
 
-Campo | Descrição
-------|----------
-**Cód** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³d** | 
+**DescriÃ§Ã£o** | 
 **ME** | 
 <br>
 
 ## Geral
 ![tiposproduto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/tiposproduto.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Mov. Estoque** | 
 **Movimenta estoque pela OP** | 
 **Exige ficha do produto** | 
-**Exige código de barra nos produtos** | 
+**Exige cÃ³digo de barra nos produtos** | 
 <br>
 <br>
 <br>

@@ -1,18 +1,18 @@
-# OCORRÊNCIAS
+# OCORRÃŠNCIAS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Ocorrências.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **OcorrÃªncias**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![ocorrencias.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ocorrencias.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Prod** | 
 **Exp** | 
 **Ate** | 
@@ -22,22 +22,22 @@ Campo | Descrição
 ## Geral
 ![ocorrencias.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ocorrencias.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Ativo** | 
-**Produção** | 
-**Expedição** | 
+**ProduÃ§Ã£o** | 
+**ExpediÃ§Ã£o** | 
 **Atendimento** | 
 **Departamento** | 
 <br>
 
-## Solução
+## SoluÃ§Ã£o
 ![ocorrencias.solucao](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ocorrencias.solucao.png)
 
-Campo | Descrição
-------|----------
-**Possível Solução** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**PossÃ­vel SoluÃ§Ã£o** | 
 <br>
 <br>
 <br>

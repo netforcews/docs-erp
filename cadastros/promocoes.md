@@ -1,33 +1,33 @@
-# PROMOÇÕES
+# PROMOÃ‡Ã•ES
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Promoções.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **PromoÃ§Ãµes**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![promocoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **De** | 
-**Até** | 
-**Situação** | 
+**AtÃ©** | 
+**SituaÃ§Ã£o** | 
 **Nome** | 
 <br>
 
 ## Geral
 ![promocoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/promocoes.geral.png)
 
-Campo | Descrição
-------|----------
-**Nome** | Informe o nome da promoção.
-**Descrição** | Informe uma descrição para a promoção.
-**De** | Informe o início da validade da promoção.
-**Até** | Informe o fim da validade da promoção.
-**Situação** | Informa se a promoção está ou não dentro da validade.
+Campo | DescriÃ§Ã£o
+--:|---
+**Nome** | Informe o nome da promoÃ§Ã£o.
+**DescriÃ§Ã£o** | Informe uma descriÃ§Ã£o para a promoÃ§Ã£o.
+**De** | Informe o inÃ­cio da validade da promoÃ§Ã£o.
+**AtÃ©** | Informe o fim da validade da promoÃ§Ã£o.
+**SituaÃ§Ã£o** | Informa se a promoÃ§Ã£o estÃ¡ ou nÃ£o dentro da validade.
 <br>
 
 ## Links

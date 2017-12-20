@@ -2,26 +2,26 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Ramos de Atividade.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Ramos de Atividade**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![ramoatividade.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ramoatividade.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
-**Código** | 
+**CÃ³digo** | 
 <br>
 
 ## Geral
 ![ramoatividade.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/ramoatividade.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Nome** | 
 <br>
 <br>

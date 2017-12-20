@@ -1,31 +1,31 @@
-# MÁQUINAS
+# MÃQUINAS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Máquinas.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **MÃ¡quinas**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pcpmaquinas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pcpmaquinas.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Descrição** | 
-**Situação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**DescriÃ§Ã£o** | 
+**SituaÃ§Ã£o** | 
 **Cor** | 
 <br>
 
 ## Geral
 ![pcpmaquinas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/pcpmaquinas.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Situação** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**SituaÃ§Ã£o** | 
+**DescriÃ§Ã£o** | 
 **Cor** | 
 <br>
 <br>

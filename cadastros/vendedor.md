@@ -2,17 +2,17 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Vendedores.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Cadastros**, opÃ§Ã£o **Vendedores**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vendedor.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/vendedor.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Nome** | 
 **Telefone** | 
 **Celular** | 
@@ -22,23 +22,23 @@ Campo | Descrição
 ## Geral
 ![vendedor.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/vendedor.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Nome** | 
 **CPF** | 
 **RG** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **Telefone** | 
 **Celular** | 
 **E-mail** | 
-**Comissão** | 
+**ComissÃ£o** | 
 **Ativo** | 
 <br>
 <br>

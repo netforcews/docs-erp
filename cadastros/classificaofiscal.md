@@ -1,28 +1,28 @@
-# CLASSIFICAÇÕES FISCAIS
+# CLASSIFICAÃ‡Ã•ES FISCAIS
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Classificações Fiscais.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **ClassificaÃ§Ãµes Fiscais**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![classificaofiscal.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classificaofiscal.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **NCM** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![classificaofiscal.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classificaofiscal.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **NCM** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Aliq.Nac** | 
 **Aliq. Imp** | 
 **Aliq.Est** | 

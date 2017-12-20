@@ -2,37 +2,37 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Grupos de Produto.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Grupos de Produto**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![produtogrupo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtogrupo.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **C.Fiscal (NCM)** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Tipo Ativo** | 
 <br>
 
 ## Geral
 ![produtogrupo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produtogrupo.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Tipo** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Unidade** | 
-**% Lucro Adic.** | Percentual que lucro a ser adicionado no cálculo do preço de venda
-**C.Fiscal (NCM)** | Classificação Fiscal (NCM). Deve ser informando quando o produto não for um Serviço
-**Tipo Cálc.V.Venda** | 
+**% Lucro Adic.** | Percentual que lucro a ser adicionado no cÃ¡lculo do preÃ§o de venda
+**C.Fiscal (NCM)** | ClassificaÃ§Ã£o Fiscal (NCM). Deve ser informando quando o produto nÃ£o for um ServiÃ§o
+**Tipo CÃ¡lc.V.Venda** | 
 **C.Tributaria** | 
 **Origem** | 
-**Cód.Serviço** | Código de classificação do serviço. Deve sempre ser informando quando o produto for marcado como serviço
+**CÃ³d.ServiÃ§o** | CÃ³digo de classificaÃ§Ã£o do serviÃ§o. Deve sempre ser informando quando o produto for marcado como serviÃ§o
 **Centro de Custo** | 
 **ICMS** | 
 **ISQN** | 
@@ -44,14 +44,14 @@ Campo | Descrição
 **Tratar limites de Faturamento** | 
 **Estoque controlado** | Determina se o sistema deve controlar o estoque dos produtos deste grupo
 **Controla lote** | Determina se o sistema deve controlar o estoque dos produtos deste grupo por lote
-**Controla número de série** | Determina se o sistema deve controlar o estoque dos produtos deste grupo por número de série
+**Controla nÃºmero de sÃ©rie** | Determina se o sistema deve controlar o estoque dos produtos deste grupo por nÃºmero de sÃ©rie
 **Controla data de validade** | 
-**Disponível para o Atendimento** | Disponibiliza os produtos deste grupo para o atendimento em chamados
+**DisponÃ­vel para o Atendimento** | Disponibiliza os produtos deste grupo para o atendimento em chamados
 **Controlado pelo PCP** | 
-**Dias Produção** | Quantidade de dias que este produto deve entrar na programação de produção antes do dia da entrega do pedido
+**Dias ProduÃ§Ã£o** | Quantidade de dias que este produto deve entrar na programaÃ§Ã£o de produÃ§Ã£o antes do dia da entrega do pedido
 **CFOP Dentro** | CFOP Dentro do estado
 **CFOP Fora** | CFOP Fora do estado
-**% Comissão** | 
+**% ComissÃ£o** | 
 **Prazo de Garantia** | 
 <br>
 

@@ -2,30 +2,30 @@
 <br>
 
 ## Acesso
-Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Tabelas, opÁ„o Departamentos.
+Para acessar esta op√ß√£o, selecione o m√≥dulo **Cadastros**, op√ß√£o **Tabelas**, op√ß√£o **Departamentos**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![departamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/departamentos.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Nome** | 
-**Respons·vel** | 
-**CÛd** | 
+**Respons√°vel** | 
+**C√≥d** | 
 <br>
 
 ## Geral
 ![departamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/departamentos.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Nome** | 
-**CÛdigo** | 
-**Respons·vel** | 
-**E-mail** | E-mail do departamento, quando esse campo estiver em branco ser· utilizado o e-mail do respons·vel
+**C√≥digo** | 
+**Respons√°vel** | 
+**E-mail** | E-mail do departamento, quando esse campo estiver em branco ser√° utilizado o e-mail do respons√°vel
 **Notificar1** | 
 **Notificar2** | 
 **Notificar3** | 

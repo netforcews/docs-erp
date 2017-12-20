@@ -2,39 +2,39 @@
 <br>
 
 ## Acesso
-Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Tabelas, opÁ„o Estados.
+Para acessar esta op√ß√£o, selecione o m√≥dulo **Cadastros**, op√ß√£o **Tabelas**, op√ß√£o **Estados**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![estado.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/estado.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Sigla** | 
 **Nome** | 
-**Regi„o** | 
-**CÛdigo** | 
+**Regi√£o** | 
+**C√≥digo** | 
 <br>
 
 ## Geral
 ![estado.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/estado.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Sigla** | 
-**CÛdigo** | 
+**C√≥digo** | 
 **Nome** | 
-**Regi„o** | 
+**Regi√£o** | 
 **DDD** | 
 **Inicio** | 
-**TÈrmino** | 
+**T√©rmino** | 
 **% FCP** | Fundo de Combate a Pobreza
 <br>
 
 ## Links
-### [MuncÌpios](/geral/municipio.md)
+### [Munc√≠pios](/geral/municipio.md)
 <br>
 <br>
 <br>

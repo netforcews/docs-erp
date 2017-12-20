@@ -2,27 +2,27 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Centros de Custo.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Centros de Custo**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![centrocusto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/centrocusto.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![centrocusto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/centrocusto.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

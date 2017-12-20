@@ -2,17 +2,17 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Margens de Venda.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Margens de Venda**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![margemvenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/margemvenda.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Margem (%)** | 
 **Asumir** | 
 <br>
@@ -20,16 +20,16 @@ Campo | Descrição
 ## Geral
 ![margemvenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/margemvenda.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Margem (%)** | 
 **Assumir** | 
 **Campo** | 
 <br>
 
 ## Comandos
-### Recalcular  preços dos produtos
+### Recalcular  preÃ§os dos produtos
 <br>
 <br>
 <br>

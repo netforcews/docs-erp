@@ -2,18 +2,18 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Feriados.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Feriados**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![feriados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/feriados.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Tipo** | 
 **Exp** | 
 <br>
@@ -21,12 +21,12 @@ Campo | Descrição
 ## Geral
 ![feriados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/feriados.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Tipo** | 
-**Tem Expediênte** | 
+**Tem ExpediÃªnte** | 
 **Info** | 
 **Empresas** | 
 <br>

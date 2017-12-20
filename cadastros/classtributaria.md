@@ -1,30 +1,30 @@
-# CLASSIFICA«’ES TRIBUT¡RIAS
+# CLASSIFICA√á√ïES TRIBUT√ÅRIAS
 <br>
 
 ## Acesso
-Para acessar esta opÁ„o, deve-se selecionar o mÛdulo Cadastros, opÁ„o Tabelas, opÁ„o ClassificaÁıes Tribut·rias.
+Para acessar esta op√ß√£o, selecione o m√≥dulo **Cadastros**, op√ß√£o **Tabelas**, op√ß√£o **Classifica√ß√µes Tribut√°rias**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![classtributaria.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classtributaria.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**CÛdigo** | 
-**DescriÁ„o** | 
+Campo | Descri√ß√£o
+--:|---
+**C√≥digo** | 
+**Descri√ß√£o** | 
 **Aut** | 
 <br>
 
 ## Geral
 ![classtributaria.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classtributaria.geral.png)
 
-Campo | DescriÁ„o
-------|----------
-**CÛdigo** | 
+Campo | Descri√ß√£o
+--:|---
+**C√≥digo** | 
 **Autorizado** | 
-**DescriÁ„o** | 
+**Descri√ß√£o** | 
 <br>
 <br>
 <br>

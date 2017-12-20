@@ -1,35 +1,35 @@
-# OCORRÊNCIAS DE COBRANÇA
+# OCORRÃŠNCIAS DE COBRANÃ‡A
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Ocorrências de Cobrança.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **OcorrÃªncias de CobranÃ§a**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![cobrancaocorrencia.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/cobrancaocorrencia.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Banco** | 
-**Cód** | 
-**Descrição** | 
+**CÃ³d** | 
+**DescriÃ§Ã£o** | 
 **EC** | 
-**Situação** | 
+**SituaÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![cobrancaocorrencia.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/cobrancaocorrencia.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Banco** | 
-**Código** | 
-**Descrição** | 
-**Situação** | 
-**Forma de Pagto** | Forma de pagamento que o título deve possuir quando receber esta ocorrência.
-**Em Cobrança** | 
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
+**SituaÃ§Ã£o** | 
+**Forma de Pagto** | Forma de pagamento que o tÃ­tulo deve possuir quando receber esta ocorrÃªncia.
+**Em CobranÃ§a** | 
 **Limpar dados do Boleto** | 
 **Reenviar E-mail** | Reenviar e-mail do boleto
 **Atualizar vencimento** | 

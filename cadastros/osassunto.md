@@ -2,17 +2,17 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Cadastros, opção Equipamentos.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Cadastros**, opÃ§Ã£o **Equipamentos**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![osassunto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/osassunto.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Identif.** | 
 **Cliente** | 
 **Marca** | 
@@ -23,21 +23,21 @@ Campo | Descrição
 ## Geral
 ![osassunto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/osassunto.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Categoria** | 
 **Empresa** | 
 **Cliente** | 
-**Identificação** | 
+**IdentificaÃ§Ã£o** | 
 **Marca** | 
 **Modelo** | 
 **Cor** | 
 **Ano** | 
 **Chassis** | 
-**Motorização** | 
-**Combustível** | 
-**Observação** | 
+**MotorizaÃ§Ã£o** | 
+**CombustÃ­vel** | 
+**ObservaÃ§Ã£o** | 
 <br>
 
 ## Links

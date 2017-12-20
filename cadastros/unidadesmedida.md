@@ -2,29 +2,29 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Unidades de Medida.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Unidades de Medida**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![unidadesmedida.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/unidadesmedida.grid.png)
 
-Campo | Descrição
-------|----------
-**Símbolo** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SÃ­mbolo** | 
+**DescriÃ§Ã£o** | 
 **P.Fra** | 
 <br>
 
 ## Geral
 ![unidadesmedida.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/unidadesmedida.geral.png)
 
-Campo | Descrição
-------|----------
-**Símbolo** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SÃ­mbolo** | 
 **Permite Fracionar** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

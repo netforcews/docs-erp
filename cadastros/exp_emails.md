@@ -2,33 +2,33 @@
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Exportar e-mails.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Exportar e-mails**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![exp_emails.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/exp_emails.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![exp_emails.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/exp_emails.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Estado** | 
-**Município** | 
-**Situação** | 
-**Regição de Venda** | 
-**Classificação** | 
+**MunicÃ­pio** | 
+**SituaÃ§Ã£o** | 
+**RegiÃ§Ã£o de Venda** | 
+**ClassificaÃ§Ã£o** | 
 **Cliente** | 
 **Fornecedor** | 
 **Transportadora** | 
 **Banco** | 
-**Funcionário** | 
+**FuncionÃ¡rio** | 
 <br>
 <br>
 <br>

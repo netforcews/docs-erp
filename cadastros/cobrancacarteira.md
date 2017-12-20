@@ -1,34 +1,34 @@
-# CARTEIRAS DE COBRANÇA
+# CARTEIRAS DE COBRANÃ‡A
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Carteiras de Cobrança.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **Carteiras de CobranÃ§a**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![cobrancacarteira.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/cobrancacarteira.grid.png)
 
-Campo | Descrição
-------|----------
-**Núm** | 
-**Descrição** | 
-**Cód** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºm** | 
+**DescriÃ§Ã£o** | 
+**CÃ³d** | 
 **Tip** | 
 <br>
 
 ## Geral
 ![cobrancacarteira.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/cobrancacarteira.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Tipo** | 
 **Boleto** | 
-**Convênio** | 
+**ConvÃªnio** | 
 <br>
 <br>
 <br>

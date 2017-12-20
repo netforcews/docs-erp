@@ -1,25 +1,25 @@
-# CLASSIFICAÇÕES
+# CLASSIFICAÃ‡Ã•ES
 <br>
 
 ## Acesso
-Para acessar esta opção, deve-se selecionar o módulo Cadastros, opção Tabelas, opção Classificações.
+Para acessar esta opÃ§Ã£o, selecione o mÃ³dulo **Cadastros**, opÃ§Ã£o **Tabelas**, opÃ§Ã£o **ClassificaÃ§Ãµes**.
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![classificacoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classificacoes.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 <br>
 
 ## Geral
 ![classificacoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/classificacoes.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 <br>
 <br>
