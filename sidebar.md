@@ -1,9 +1,9 @@
 - [**F.A.Q.**](/faq/faq.md)
 
 **ATENDIMENTO**
-- Chamados
-- Configurações
-- Status
+- [Chamados](/atendimento/sdktickets.md)
+- [Configurações](/atendimento/config_sdk.md)
+- [Status](/atendimento/sdkstatus.md)
 
 **CADASTROS**
 - [Bancos](/cadastros/banco.md)
