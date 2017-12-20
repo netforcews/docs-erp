@@ -3,26 +3,26 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![usuarioauditoria.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Objeto** | 
-**Operação** | 
+**OperaÃ§Ã£o** | 
 **IP** | 
 <br>
 
 ## Log
 ![usuarioauditoria.log](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioauditoria.log.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Objeto** | 
-**Operação** | 
+**OperaÃ§Ã£o** | 
 **Dados** | 
 **IP** | 
 <br>

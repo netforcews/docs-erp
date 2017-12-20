@@ -3,24 +3,24 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![tblpessoas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblpessoas.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**DescriÁ„o** | 
+Campo | Descri√ß√£o
+--:|---
+**Descri√ß√£o** | 
 **Tipo** | 
 <br>
 
 ## Principal
 ![tblpessoas.principal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblpessoas.principal.png)
 
-Campo | DescriÁ„o
-------|----------
-**DescriÁ„o** | 
+Campo | Descri√ß√£o
+--:|---
+**Descri√ß√£o** | 
 **Tipo** | 
 **Estado** | 
-**MunicÕpio** | 
+**Munic√çpio** | 
 <br>
 <br>
 <br>

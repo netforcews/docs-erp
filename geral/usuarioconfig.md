@@ -1,29 +1,29 @@
-# CONFIGURAÇÕES
+# CONFIGURAÃ‡Ã•ES
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![usuarioconfig.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioconfig.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 <br>
 
-## Configurações
+## ConfiguraÃ§Ãµes
 ![usuarioconfig.configuracoes](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuarioconfig.configuracoes.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Data Nascimento** | 
 **E-mail** | 
 **Senha** | 
 **Telefone** | 
 **Celular** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

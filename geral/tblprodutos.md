@@ -3,24 +3,24 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![tblprodutos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
-**Código de barras** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
+**CÃ³digo de barras** | 
 <br>
 
 ## Principal
 ![tblprodutos.principal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutos.principal.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Grupo** | 
-**Código de barras** | 
-**Descrição** | 
-**Observação** | 
+**CÃ³digo de barras** | 
+**DescriÃ§Ã£o** | 
+**ObservaÃ§Ã£o** | 
 **Imagem** | 
 <br>
 <br>

@@ -1,13 +1,13 @@
-# ITENS DA ORDEM DE PRODUÇÃO
+# ITENS DA ORDEM DE PRODUÃ‡ÃƒO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vdtordemproducaoitens.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoitens.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Complemento** | 
 **Lote** | 
@@ -18,8 +18,8 @@ Campo | Descrição
 ## Geral
 ![vdtordemproducaoitens.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoitens.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Complemento** | 
 **Lote** | 

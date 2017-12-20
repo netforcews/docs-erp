@@ -3,20 +3,20 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![tblprodutogrupos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutogrupos.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Principal
 ![tblprodutogrupos.principal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblprodutogrupos.principal.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

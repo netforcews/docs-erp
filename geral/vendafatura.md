@@ -3,12 +3,12 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vendafatura.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
 **Data** | 
 **Valor** | 
 <br>
@@ -16,9 +16,9 @@ Campo | Descrição
 ## Geral
 ![vendafatura.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendafatura.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
 **Data** | 
 **Valor** | 
 <br>

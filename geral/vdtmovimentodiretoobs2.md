@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vdtmovimentodiretoobs2.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs2.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Texto** | 
 <br>
 
 ## Geral
 ![vdtmovimentodiretoobs2.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtmovimentodiretoobs2.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Info** | 
 **Texto** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Data** | 
 <br>
 <br>

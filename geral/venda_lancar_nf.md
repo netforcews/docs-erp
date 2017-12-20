@@ -1,27 +1,27 @@
-# LANÇAR NF
+# LANÃ‡AR NF
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![venda_lancar_nf.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/venda_lancar_nf.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![venda_lancar_nf.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/venda_lancar_nf.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
-**Série** | 
-**Núm.Nota Fiscal** | 
-**Emissão** | 
-**Data Saída** | 
+**SÃ©rie** | 
+**NÃºm.Nota Fiscal** | 
+**EmissÃ£o** | 
+**Data SaÃ­da** | 
 **Peso Bruto** | 
-**Peso Líquido** | 
+**Peso LÃ­quido** | 
 **Volumes** | 
 **Imprimir Nota Fiscal** | 
 <br>

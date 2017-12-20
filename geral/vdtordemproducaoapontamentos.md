@@ -3,28 +3,28 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vdtordemproducaoapontamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoapontamentos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Hora inícial** | 
+**Hora inÃ­cial** | 
 **Hora final** | 
-**Funcionário** | 
-**Máquina** | 
+**FuncionÃ¡rio** | 
+**MÃ¡quina** | 
 <br>
 
 ## Geral
 ![vdtordemproducaoapontamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoapontamentos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Hora inicial** | 
 **Hora final** | 
-**Funcionário** | 
-**Máquina** | 
+**FuncionÃ¡rio** | 
+**MÃ¡quina** | 
 <br>
 <br>
 <br>

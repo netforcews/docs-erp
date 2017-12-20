@@ -1,25 +1,25 @@
-# MUNICÕPIOS
+# MUNIC√çPIOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![tblmunicipios.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Nome** | 
-**CÛdigo** | 
+**C√≥digo** | 
 **Estado** | 
 <br>
 
 ## Geral
 ![tblmunicipios.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblmunicipios.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Nome** | 
-**CÛdigo** | 
+**C√≥digo** | 
 <br>
 <br>
 <br>

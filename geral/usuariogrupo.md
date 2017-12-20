@@ -1,21 +1,21 @@
-# GRUPOS DO USU¡RIO
+# GRUPOS DO USU√ÅRIO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![usuariogrupo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuariogrupo.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Grupo** | 
 <br>
 
 ## Geral
 ![usuariogrupo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/usuariogrupo.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Grupo** | 
 <br>
 <br>

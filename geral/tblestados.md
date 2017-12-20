@@ -3,33 +3,33 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![tblestados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Sigla** | 
 **Nome** | 
-**Regi„o** | 
-**CÛdigo** | 
+**Regi√£o** | 
+**C√≥digo** | 
 <br>
 
 ## Geral
 ![tblestados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/tblestados.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Sigla** | 
-**CÛdigo** | 
+**C√≥digo** | 
 **Nome** | 
-**Regi„o** | 
+**Regi√£o** | 
 **DDD** | 
 **Inicio** | 
-**TÈrmino** | 
+**T√©rmino** | 
 <br>
 
 ## Links
-### [MuncÌpios](/geral/municipios.md)
+### [Munc√≠pios](/geral/municipios.md)
 <br>
 <br>
 <br>

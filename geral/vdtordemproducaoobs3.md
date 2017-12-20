@@ -1,24 +1,24 @@
-# OBSERVA«√O
+# OBSERVA√á√ÉO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![vdtordemproducaoobs3.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoobs3.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Texto** | 
 <br>
 
 ## Geral
 ![vdtordemproducaoobs3.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdtordemproducaoobs3.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Info** | 
 **Texto** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Data** | 
 <br>
 <br>

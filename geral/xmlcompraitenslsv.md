@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![xmlcompraitenslsv.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/xmlcompraitenslsv.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Lote** | 
-**Número de série** | 
+**NÃºmero de sÃ©rie** | 
 **Data de validade** | 
 **Quantidade** | 
 <br>
@@ -17,10 +17,10 @@ Campo | Descrição
 ## LSV
 ![xmlcompraitenslsv.lsv](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/xmlcompraitenslsv.lsv.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Lote** | 
-**Número de série** | 
+**NÃºmero de sÃ©rie** | 
 **Data de validade** | 
 **Quantidade** | 
 <br>

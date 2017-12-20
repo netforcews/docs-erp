@@ -1,13 +1,13 @@
-# CARTA CORREÇÃO
+# CARTA CORREÃ‡ÃƒO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vendacartacorrecao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Texto** | 
 **Protocolo** | 
@@ -16,16 +16,16 @@ Campo | Descrição
 ## Geral
 ![vendacartacorrecao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vendacartacorrecao.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Cmd** | 
 **Data** | 
-**Carta enviada para homologação** | 
-**Correção** | 
-**Histórico** | 
+**Carta enviada para homologaÃ§Ã£o** | 
+**CorreÃ§Ã£o** | 
+**HistÃ³rico** | 
 **Protocolo** | 
 **Arquivo** | 
-**Enviado aviso de correção por e-mail** | 
+**Enviado aviso de correÃ§Ã£o por e-mail** | 
 <br>
 <br>
 <br>

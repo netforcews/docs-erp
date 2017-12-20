@@ -1,13 +1,13 @@
-# HISTÓRICO ENTRADA DIRETA DE PRODUTOS
+# HISTÃ“RICO ENTRADA DIRETA DE PRODUTOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![vdthistoricoentradadiretaprodutos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/vdthistoricoentradadiretaprodutos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **OP** | 
 **Produto** | 
 **Complemento** | 
