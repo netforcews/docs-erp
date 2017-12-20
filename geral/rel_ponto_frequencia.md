@@ -3,23 +3,23 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_ponto_frequencia.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto_frequencia.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_ponto_frequencia.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto_frequencia.geral.png)
 
-Campo | Descrição
-------|----------
-**Competência** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CompetÃªncia** | 
 **Empresa** | 
-**Funcionário** | 
-**Destacar prêmio se houver** | 
-**Exibir observações dos dias** | 
+**FuncionÃ¡rio** | 
+**Destacar prÃªmio se houver** | 
+**Exibir observaÃ§Ãµes dos dias** | 
 <br>
 <br>
 <br>

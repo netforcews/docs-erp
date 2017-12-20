@@ -1,14 +1,14 @@
-# ITENS DA PROMOÇÃO
+# ITENS DA PROMOÃ‡ÃƒO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![promocaoitens.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/promocaoitens.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 **Produto** | 
 **Valor** | 
 <br>
@@ -16,10 +16,10 @@ Campo | Descrição
 ## Geral
 ![promocaoitens.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/promocaoitens.geral.png)
 
-Campo | Descrição
-------|----------
-**Produto** | Informe o produto da promoção.
-**Valor** | Informe o valor da promoção.
+Campo | DescriÃ§Ã£o
+--:|---
+**Produto** | Informe o produto da promoÃ§Ã£o.
+**Valor** | Informe o valor da promoÃ§Ã£o.
 <br>
 <br>
 <br>

@@ -1,16 +1,16 @@
-# INTERA«’ES
+# INTERA√á√ïES
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![pessoainteracoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Tipo** | 
 **Data** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Texto** | 
 **Follow.Prev** | 
 **Follow.Real** | 
@@ -19,15 +19,15 @@ Campo | DescriÁ„o
 ## Geral
 ![pessoainteracoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoainteracoes.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Data** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Tipo** | 
-**SituaÁ„o** | 
+**Situa√ß√£o** | 
 **Texto** | 
-**Previs„o** | Data de previs„o para realizaÁ„o do follow-up
-**ExecuÁ„o** | Data de execuÁ„o do follow-up
+**Previs√£o** | Data de previs√£o para realiza√ß√£o do follow-up
+**Execu√ß√£o** | Data de execu√ß√£o do follow-up
 <br>
 <br>
 <br>

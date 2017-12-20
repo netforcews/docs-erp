@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![sdkticketequipamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketequipamentos.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
@@ -19,8 +19,8 @@ Campo | Descrição
 ## Geral
 ![sdkticketequipamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketequipamentos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 

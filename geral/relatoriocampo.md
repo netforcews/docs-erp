@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![relatoriocampo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relatoriocampo.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ord** | 
 **Identificador** | 
 **Campo** | 
@@ -21,8 +21,8 @@ Campo | Descrição
 ## Geral
 ![relatoriocampo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relatoriocampo.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Identificador** | 
 **Campo** | 
 **Ordem** | 
@@ -30,7 +30,7 @@ Campo | Descrição
 **Largura** | 
 **Alinhamento** | 
 **Totalizar** | 
-**Visível** | 
+**VisÃ­vel** | 
 <br>
 <br>
 <br>

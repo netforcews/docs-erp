@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_planocontalancamentos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_planocontalancamentos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontalancamentos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Conta contabil** | 
-**Situação** | 
-**Início** | 
-**Término** | 
+**SituaÃ§Ã£o** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Data por** | 
 **Ordenar por** | 
 **Modo** | 

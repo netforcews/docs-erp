@@ -1,21 +1,21 @@
-# OCORRÊNCIAS
+# OCORRÃŠNCIAS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![ocorrenciaslkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/ocorrenciaslkp.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![ocorrenciaslkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/ocorrenciaslkp.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 <br>
 <br>

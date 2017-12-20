@@ -3,27 +3,27 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pessoacontato.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 **Nome Guerra** | 
 **Telefone** | 
 **Celular** | 
 **Email** | 
-**Atribuição** | 
+**AtribuiÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![pessoacontato.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 **Nome Guerra** | 
-**Atribuição** | 
+**AtribuiÃ§Ã£o** | 
 **Data Nasc.** | 
 **Sexo** | 
 **Telefone** | 
@@ -31,12 +31,12 @@ Campo | Descrição
 **E-mail** | 
 <br>
 
-## Observação
+## ObservaÃ§Ã£o
 ![pessoacontato.observacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoacontato.observacao.png)
 
-Campo | Descrição
-------|----------
-**Observação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

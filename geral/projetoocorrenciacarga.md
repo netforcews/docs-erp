@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![projetoocorrenciacarga.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciacarga.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 <br>
 
 ## Geral
 ![projetoocorrenciacarga.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciacarga.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Info** | 
 **Data** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Responsavel/Equipe** | 
 **Qtd Cargas** | 
 **Metrag.Estimada** | 
@@ -42,7 +42,7 @@ Campo | Descrição
 **Qtdade** | 
 **Produto10** | 
 **Qtdade** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

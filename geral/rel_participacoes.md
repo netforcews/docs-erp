@@ -1,21 +1,21 @@
-# PARTICIPAÇÕES
+# PARTICIPAÃ‡Ã•ES
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_participacoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_participacoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_participacoes.geral.png)
 
-Campo | Descrição
-------|----------
-**Mês Base** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**MÃªs Base** | 
 <br>
 <br>
 <br>

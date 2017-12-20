@@ -3,26 +3,26 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![sdkhoras.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Tempo** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Resumo** | 
 <br>
 
 ## Geral
 ![sdkhoras.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkhoras.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Usuario** | 
 **Data** | 
 **Tempo Gasto** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

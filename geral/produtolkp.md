@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![produtolkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Cód. Fornecedor** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**CÃ³d. Fornecedor** | 
+**DescriÃ§Ã£o** | 
 **Grp** | 
 **Tipo** | 
 **Fornecedor** | 
@@ -22,9 +22,9 @@ Campo | Descrição
 ## Geral
 ![produtolkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtolkp.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
 <br>
 <br>
 <br>

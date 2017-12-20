@@ -3,19 +3,19 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_contatos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Telefone** | 
 <br>
 
 ## Contatos
 ![portal_contatos.contatos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contatos.contatos.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **CNPJ/CPF** | 
 **DDD** | 
 **Telefone** | 

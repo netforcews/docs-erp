@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pedidocompraitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidocompraitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Cód.Fornecedor** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**CÃ³d.Fornecedor** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
@@ -20,8 +20,8 @@ Campo | Descrição
 ## Geral
 ![pedidocompraitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidocompraitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Unidade** | 
 **Quantidade** | 

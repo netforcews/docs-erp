@@ -3,33 +3,33 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![sdk_ticket_responder.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_ticket_responder.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
 **P** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Solicitante** | 
 **Assunto** | 
-**Responsável** | 
+**ResponsÃ¡vel** | 
 **Status** | 
 <br>
 
 ## Geral
 ![sdk_ticket_responder.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_ticket_responder.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Emissão** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**EmissÃ£o** | 
 **Cliente** | 
 **Solicitante** | 
 **Origem** | 
 **Status** | 
 **Status** | 
-**Responsável** | 
+**ResponsÃ¡vel** | 
 **Mensagem** | 
 **Horas Exec.** | 
 <br>

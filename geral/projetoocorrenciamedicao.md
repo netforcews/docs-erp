@@ -1,27 +1,27 @@
-# MEDI«√O
+# MEDI√á√ÉO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![projetoocorrenciamedicao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciamedicao.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Data** | 
 <br>
 
 ## Geral
 ![projetoocorrenciamedicao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciamedicao.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Info** | 
 **Data** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Responsavel/Equipe** | 
-**MediÁ„o** | 
-**ObservaÁ„o** | 
+**Medi√ß√£o** | 
+**Observa√ß√£o** | 
 <br>
 <br>
 <br>

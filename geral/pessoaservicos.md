@@ -1,31 +1,31 @@
-# SERVIÇOS CONTRATADOS
+# SERVIÃ‡OS CONTRATADOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pessoaservicos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Vencto** | 
-**Últ.Fatura** | 
+**Ãšlt.Fatura** | 
 **Valor** | 
 <br>
 
 ## Geral
 ![pessoaservicos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pessoaservicos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
-**Código** | 
+**CÃ³digo** | 
 **Quantidade** | 
 **Valor** | 
 **Valor Total** | 
 **Vencimento** | 
-**Últ.Fatura** | 
+**Ãšlt.Fatura** | 
 <br>
 <br>
 <br>

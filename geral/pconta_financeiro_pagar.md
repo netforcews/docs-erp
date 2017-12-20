@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pconta_financeiro_pagar.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_pagar.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Conta** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Valor** | 
 <br>
 
 ## Geral
 ![pconta_financeiro_pagar.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pconta_financeiro_pagar.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Conta** | 
 **Valor** | 
 <br>

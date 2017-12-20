@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![sdkanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Titulo** | 
-**Inclus„o** | 
+**Inclus√£o** | 
 <br>
 
 ## Geral
 ![sdkanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkanexos.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Titulo** | 
-**Inclus„o** | 
+**Inclus√£o** | 
 **Arquivo** | 
 <br>
 <br>

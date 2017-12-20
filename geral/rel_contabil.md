@@ -3,25 +3,25 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_contabil.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_contabil.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_contabil.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Data por** | 
 **Tipo** | 
 **Modo** | 
-**Ignorar contas sem lançamentos** | 
+**Ignorar contas sem lanÃ§amentos** | 
 <br>
 <br>
 <br>

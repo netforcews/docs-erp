@@ -3,23 +3,23 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_planocontas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontas.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_planocontas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_planocontas.geral.png)
 
-Campo | Descrição
-------|----------
-**Início** | 
-**Término** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Data por** | 
-**Situação** | 
-**Ignorar contas sem lançamentos** | 
+**SituaÃ§Ã£o** | 
+**Ignorar contas sem lanÃ§amentos** | 
 **Modo** | 
 <br>
 <br>

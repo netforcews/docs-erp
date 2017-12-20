@@ -1,43 +1,43 @@
-# OUTROS ENDEREÇOS
+# OUTROS ENDEREÃ‡OS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_enderecos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Telefone** | 
 <br>
 
-## Meus endereços
+## Meus endereÃ§os
 ![portal_enderecos.meusenderecos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_enderecos.meusenderecos.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **CNPJ/CPF** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 **Logradouro** | 
-**Número** | 
+**NÃºmero** | 
 **Complemento** | 
 **Bairro** | 
 **CEP** | 
 **Estado** | 
-**Município** | 
+**MunicÃ­pio** | 
 <br>
 <br>
 <br>

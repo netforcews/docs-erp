@@ -1,21 +1,21 @@
-# FILTRO DE PROMOÇÕES
+# FILTRO DE PROMOÃ‡Ã•ES
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_promocao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_promocao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_promocao.geral.png)
 
-Campo | Descrição
-------|----------
-**Promoção** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**PromoÃ§Ã£o** | 
 <br>
 <br>
 <br>

@@ -3,25 +3,25 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_receber.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_receber.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_receber.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 **Cliente** | 
-**Conta Contábil** | 
-**Situação** | 
-**Início** | 
-**Término** | 
-**Ordenação** | 
+**Conta ContÃ¡bil** | 
+**SituaÃ§Ã£o** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
+**OrdenaÃ§Ã£o** | 
 **Cliente** | 
 <br>
 <br>

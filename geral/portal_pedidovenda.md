@@ -3,15 +3,15 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_pedidovenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_pedidovenda.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Prog** | 
-**Número** | 
-**Emissão** | 
-**Prev.Saída** | 
+**NÃºmero** | 
+**EmissÃ£o** | 
+**Prev.SaÃ­da** | 
 **Cliente** | 
 **Empresa** | 
 **Valor Total** | 
@@ -20,36 +20,36 @@ Campo | Descrição
 ## Geral
 ![portal_pedidovenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_pedidovenda.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Emissão** | 
-**Situação** | 
-**Funcionário** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**EmissÃ£o** | 
+**SituaÃ§Ã£o** | 
+**FuncionÃ¡rio** | 
 **Empresa** | 
 **Cliente** | 
 **Contato** | 
-**Nat.Operação** | 
-**Previsão Saída** | Data de previsão de Saída
+**Nat.OperaÃ§Ã£o** | 
+**PrevisÃ£o SaÃ­da** | Data de previsÃ£o de SaÃ­da
 **Cond.Pagto** | 
 **Forma Pagto** | 
 **Ord.Compra** | 
-**Não fat.antes de** | Não faturar antes de é um campo que determina que o cliente solicitou para não faturar o pedido antes da data informada
+**NÃ£o fat.antes de** | NÃ£o faturar antes de Ã© um campo que determina que o cliente solicitou para nÃ£o faturar o pedido antes da data informada
 **Transportadora** | 
 **Frete** | 
-**CT. Número** | 
+**CT. NÃºmero** | 
 **Tipo Transporte** | 
 **Peso Bruto** | 
 **Volumes** | 
 **Frete Peso/Vol** | 
 **Frete Valor GRIS** | 
-**Pedágio** | 
+**PedÃ¡gio** | 
 **Despacho** | 
 **ESP** | 
 **Outras** | 
 **Total Frete** | 
-**Base de Cálculo** | 
-**Alíquota** | 
+**Base de CÃ¡lculo** | 
+**AlÃ­quota** | 
 **Valor ICMS** | 
 **Valor Itens** | 
 **IPI** | 

@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![opitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 <br>
@@ -17,15 +17,15 @@ Campo | Descrição
 ## Geral
 ![opitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 
 **Unidade** | 
 **Quantidade** | 
-**Observação** | 
-**Data Conclusão** | 
+**ObservaÃ§Ã£o** | 
+**Data ConclusÃ£o** | 
 **Volumes** | 
 <br>
 

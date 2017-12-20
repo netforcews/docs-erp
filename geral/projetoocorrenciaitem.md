@@ -3,25 +3,25 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![projetoocorrenciaitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciaitem.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 <br>
 
 ## Geral
 ![projetoocorrenciaitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrenciaitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Info** | 
 **Data** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Responsavel/Equipe** | 
 **Qtdade** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

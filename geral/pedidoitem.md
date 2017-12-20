@@ -3,55 +3,55 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pedidoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidoitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
 **Total** | 
-**Previsão** | 
+**PrevisÃ£o** | 
 **V.Com** | 
 <br>
 
 ## Geral
 ![pedidoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pedidoitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 
 **Unidade** | 
 **Quantidade** | 
 **Valor** | 
-**Observação** | 
-**Prev.Prod/Exp** | Data de previsão para produção / expedição
-**Data Conclusão** | 
+**ObservaÃ§Ã£o** | 
+**Prev.Prod/Exp** | Data de previsÃ£o para produÃ§Ã£o / expediÃ§Ã£o
+**Data ConclusÃ£o** | 
 **Volumes** | 
 **Class.Tributaria** | 
 **Class.Fiscal** | 
-**Cód.Serviço** | 
-**Nat.Operação** | 
+**CÃ³d.ServiÃ§o** | 
+**Nat.OperaÃ§Ã£o** | 
 **% ICMS** | 
 **Val. ICMS** | 
 **% IPI** | 
 **Val. IPI** | 
-**V.Comissão** | 
+**V.ComissÃ£o** | 
 **Valor Total** | 
-**Núm.FCI** | Número do protocolo da FCI (Ficha de Conteúdo Importado)
+**NÃºm.FCI** | NÃºmero do protocolo da FCI (Ficha de ConteÃºdo Importado)
 **Val.Aprox.Trib** | 
 **%FCP** | Percentual de Fundo de Combate a Pobreza
 **Valor FCP** | 
 **Valor ICMS Base** | 
-**Aliq.Inter.Dest** | Aliquota interna de ICMS do Destinatário
+**Aliq.Inter.Dest** | Aliquota interna de ICMS do DestinatÃ¡rio
 **Aliq.Interestadual** | Aliquota interestadual
 **% Partilha** | Percentual da partilha entre os estados
-**Val ICMS Destino** | Valor ICMS de partilha para UF do destinatário
+**Val ICMS Destino** | Valor ICMS de partilha para UF do destinatÃ¡rio
 **Val ICMS Remet** | Valor ICMS da partilha para o UF do remetente
 <br>
 

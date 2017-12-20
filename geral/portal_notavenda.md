@@ -3,15 +3,15 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_notavenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **&nbsp;** | 
-**Número** | 
+**NÃºmero** | 
 **Pedido** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Empresa** | 
 **Valor Total** | 
 **Danfe XML** | 
@@ -21,8 +21,8 @@ Campo | Descrição
 ## Geral
 ![portal_notavenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_notavenda.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 <br>
 <br>

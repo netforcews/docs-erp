@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_contasareceber.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **&nbsp;** | 
 **Numero** | 
 **Vencimento** | 
@@ -21,15 +21,15 @@ Campo | Descrição
 ## Geral
 ![portal_contasareceber.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_contasareceber.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Numero** | 
-**Situação** | 
+**SituaÃ§Ã£o** | 
 **Empresa** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Cliente** | 
-**Descrição** | 
-**Emissão** | 
+**DescriÃ§Ã£o** | 
+**EmissÃ£o** | 
 **Forma de Pgto** | 
 **Vencimento** | 
 **Tipo Vencimento** | 
@@ -39,11 +39,11 @@ Campo | Descrição
 **Parcela** | 
 **Mensalidade** | 
 **Linha Digitavel** | 
-**Código Barra** | 
-**Juros Diário** | 
+**CÃ³digo Barra** | 
+**Juros DiÃ¡rio** | 
 **Multa/Atraso** | 
-**Nosso Número** | 
-**Em Cobrança** | 
+**Nosso NÃºmero** | 
+**Em CobranÃ§a** | 
 **Conta Corrente** | 
 **Acrescimo (+)** | 
 **Desconto (-)** | 
@@ -51,7 +51,7 @@ Campo | Descrição
 **Data Receb.** | 
 **Valor Recebido** | 
 **Saldo** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

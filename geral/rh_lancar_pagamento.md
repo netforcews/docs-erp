@@ -1,21 +1,21 @@
-# LANÇAR CONTAS A PAGAR
+# LANÃ‡AR CONTAS A PAGAR
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rh_lancar_pagamento.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rh_lancar_pagamento.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rh_lancar_pagamento.geral.png)
 
-Campo | Descrição
-------|----------
-**Competência** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CompetÃªncia** | 
 **Dia pagamento** | 
 **Tipo** | 
 <br>

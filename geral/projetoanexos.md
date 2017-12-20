@@ -3,25 +3,25 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![projetoanexos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**TÌtulo** | 
-**Usu·rio** | 
-**Inclus„o** | 
+Campo | Descri√ß√£o
+--:|---
+**T√≠tulo** | 
+**Usu√°rio** | 
+**Inclus√£o** | 
 **Arquivo** | 
 <br>
 
 ## Geral
 ![projetoanexos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoanexos.geral.png)
 
-Campo | DescriÁ„o
-------|----------
-**TÌtulo** | 
-**Usu·rio** | 
-**Inclus„o** | 
+Campo | Descri√ß√£o
+--:|---
+**T√≠tulo** | 
+**Usu√°rio** | 
+**Inclus√£o** | 
 **Arquivo** | 
 <br>
 <br>

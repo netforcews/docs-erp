@@ -1,17 +1,17 @@
-# ORÇAMENTO
+# ORÃ‡AMENTO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_orcamentovenda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **&nbsp;** | 
-**Número** | 
-**Emissão** | 
-**Pre.Saída** | 
+**NÃºmero** | 
+**EmissÃ£o** | 
+**Pre.SaÃ­da** | 
 **Cliente** | 
 **Empresa** | 
 **Valor Total** | 
@@ -20,19 +20,19 @@ Campo | Descrição
 ## Geral
 ![portal_orcamentovenda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentovenda.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Emissão** | 
-**Situação** | 
-**Funcionário** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**EmissÃ£o** | 
+**SituaÃ§Ã£o** | 
+**FuncionÃ¡rio** | 
 **Empresa** | 
 **Cliente** | 
 **Contato** | 
 **Cond.Pagto** | 
 **Forma Pagto** | 
 **Frete** | 
-**Concluído** | Pedido concluído (todo cadastrado)
+**ConcluÃ­do** | Pedido concluÃ­do (todo cadastrado)
 **Aviso enviado por e-mail** | 
 **Valor Itens** | 
 **IPI** | 

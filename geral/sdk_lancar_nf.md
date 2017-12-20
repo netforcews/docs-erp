@@ -3,32 +3,32 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![sdk_lancar_nf.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_lancar_nf.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![sdk_lancar_nf.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdk_lancar_nf.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
-**Emissão** | 
-**Data Saída** | 
+**EmissÃ£o** | 
+**Data SaÃ­da** | 
 **Cond.Pagto** | 
-**Série** | 
-**Núm.Nota Fiscal** | 
-**N.Operação** | 
-**Valor Serviços** | 
-**Série** | 
-**Núm.Nota Fiscal** | 
-**N.Operação** | 
+**SÃ©rie** | 
+**NÃºm.Nota Fiscal** | 
+**N.OperaÃ§Ã£o** | 
+**Valor ServiÃ§os** | 
+**SÃ©rie** | 
+**NÃºm.Nota Fiscal** | 
+**N.OperaÃ§Ã£o** | 
 **Valor Produtos** | 
 **Peso Bruto** | 
-**Peso Líquido** | 
+**Peso LÃ­quido** | 
 **Transportadora** | 
 **Volumes** | 
 <br>

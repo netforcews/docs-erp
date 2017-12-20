@@ -1,32 +1,32 @@
-# OCORRÊNCIA
+# OCORRÃŠNCIA
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![projetoocorrencia.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Responsavel/Equipe** | 
 **Q.Cargas** | 
 **Q.Itens** | 
 **Met.Estimada** | 
-**Medição** | 
-**Usuário** | 
+**MediÃ§Ã£o** | 
+**UsuÃ¡rio** | 
 <br>
 
 ## Geral
 ![projetoocorrencia.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetoocorrencia.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 <br>
 
 ## Comandos
-### Nova medição
+### Nova mediÃ§Ã£o
 ### Novo item
 ### Nova carga
 <br>

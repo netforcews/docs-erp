@@ -1,15 +1,15 @@
-# RELATÓRIO
+# RELATÃ“RIO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![relatoriolkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relatoriolkp.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Título** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**TÃ­tulo** | 
 <br>
 <br>
 <br>

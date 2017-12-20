@@ -3,20 +3,20 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_resumo_vendas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumo_vendas.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_resumo_vendas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumo_vendas.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Vendedor** | 
-**Mês base** | 
+**MÃªs base** | 
 <br>
 <br>
 <br>

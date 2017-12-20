@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![relfiltro.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relfiltro.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Legenda** | 
 **Campo** | 
 **Obr** | 
@@ -17,11 +17,11 @@ Campo | Descrição
 ## Geral
 ![relfiltro.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relfiltro.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Campo** | 
 **Legenda** | 
-**Obrigatório** | 
+**ObrigatÃ³rio** | 
 <br>
 <br>
 <br>

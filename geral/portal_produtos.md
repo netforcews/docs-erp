@@ -3,29 +3,29 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_produtos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_produtos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Unid** | 
 **Valor** | 
-**Últ.Compra** | 
+**Ãšlt.Compra** | 
 <br>
 
 ## Geral
 ![portal_produtos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_produtos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nota** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Pedido** | 
-**Código** | 
+**CÃ³digo** | 
 **Unidade** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Complemento** | 
 **Tamanho** | 
 **Quantidade** | 

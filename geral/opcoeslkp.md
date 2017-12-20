@@ -1,24 +1,24 @@
-# OPÇÕES
+# OPÃ‡Ã•ES
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![opcoeslkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![opcoeslkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/opcoeslkp.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 <br>
 <br>
 <br>

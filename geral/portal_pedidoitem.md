@@ -3,25 +3,25 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_pedidoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_pedidoitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
 **Total** | 
-**Produção** | 
+**ProduÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![portal_pedidoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_pedidoitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 
@@ -29,10 +29,10 @@ Campo | Descrição
 **Quantidade** | 
 **Class.Tributaria** | 
 **Class.Fiscal** | 
-**Cód.Serviço** | 
+**CÃ³d.ServiÃ§o** | 
 **Valor** | 
 **Valor Total** | 
-**Prev.Prod/Exp** | Previsão de produção / expedição
+**Prev.Prod/Exp** | PrevisÃ£o de produÃ§Ã£o / expediÃ§Ã£o
 <br>
 <br>
 <br>

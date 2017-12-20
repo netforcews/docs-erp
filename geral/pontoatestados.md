@@ -3,26 +3,26 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![pontoatestados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados.grid.png)
 
-Campo | Descrição
-------|----------
-**Início** | 
-**Término** | 
-**Observação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**InÃ­cio** | 
+**TÃ©rmino** | 
+**ObservaÃ§Ã£o** | 
 **Tipo** | 
 <br>
 
 ## Geral
 ![pontoatestados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/pontoatestados.geral.png)
 
-Campo | Descrição
-------|----------
-**Início** | 
-**Término** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Tipo** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

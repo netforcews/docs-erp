@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![produtoficha.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Material** | 
 **Qtdade** | 
 **Un** | 
@@ -18,8 +18,8 @@ Campo | Descrição
 ## Geral
 ![produtoficha.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/produtoficha.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Material** | 
 **% IPI** | 
 **Valor Custo** | 

@@ -3,24 +3,24 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_projeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_projeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_projeto.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 **Cliente** | 
 **Vendedor** | 
-**Situação** | 
-**Início** | 
-**Término** | 
+**SituaÃ§Ã£o** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Data por** | 
 **Modo** | 
 <br>

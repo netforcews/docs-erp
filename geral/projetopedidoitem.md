@@ -3,18 +3,18 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![projetopedidoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
 **Total** | 
-**Previsão** | 
+**PrevisÃ£o** | 
 **V.Com** | 
 **Aval** | 
 <br>
@@ -22,8 +22,8 @@ Campo | Descrição
 ## Geral
 ![projetopedidoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/projetopedidoitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Complemento** | 
 **Lote** | 
@@ -34,22 +34,22 @@ Campo | Descrição
 **Unidade** | 
 **Quantidade** | 
 **Valor** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 **Class.Tributaria** | 
 **Class.Fiscal** | 
-**Cód.Serviço** | 
-**Nat.Operação** | 
+**CÃ³d.ServiÃ§o** | 
+**Nat.OperaÃ§Ã£o** | 
 **% ICMS** | 
 **Val. ICMS** | 
 **% IPI** | 
 **Val. IPI** | 
-**V.Comissão** | 
+**V.ComissÃ£o** | 
 **Valor Total** | 
-**Núm.FCI** | Número do protocolo da FCI (Ficha de Conteúdo Importado)
+**NÃºm.FCI** | NÃºmero do protocolo da FCI (Ficha de ConteÃºdo Importado)
 **Val.Aprox.Trib** | 
-**Prev.Prod/Exp** | Data de previsão para produção / expedição
-**Data Conclusão** | 
-**Avaliação** | 
+**Prev.Prod/Exp** | Data de previsÃ£o para produÃ§Ã£o / expediÃ§Ã£o
+**Data ConclusÃ£o** | 
+**AvaliaÃ§Ã£o** | 
 **Volumes** | 
 <br>
 

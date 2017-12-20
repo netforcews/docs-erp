@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_fin_extrato_conta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_fin_extrato_conta.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_fin_extrato_conta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_fin_extrato_conta.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Conta Corrente** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 **Modo** | 
 <br>
 <br>

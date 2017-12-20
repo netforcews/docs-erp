@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_orcamentoitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentoitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
@@ -19,8 +19,8 @@ Campo | Descrição
 ## Geral
 ![portal_orcamentoitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_orcamentoitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 
@@ -29,7 +29,7 @@ Campo | Descrição
 **Valor** | 
 **Class.Tributaria** | 
 **Class.Fiscal** | 
-**Cód.Serviço** | 
+**CÃ³d.ServiÃ§o** | 
 **% ICMS** | 
 **Val. ICMS** | 
 **% IPI** | 

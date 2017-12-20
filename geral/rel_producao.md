@@ -1,25 +1,25 @@
-# PRODUÇÃO
+# PRODUÃ‡ÃƒO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_producao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_producao.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_producao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_producao.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 **Equipe** | 
 **Projeto** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 <br>
 <br>
 <br>

@@ -3,31 +3,31 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![relcampo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Legenda** | 
 **Largura** | 
 **Alinhamento** | 
 **&nbsp;** | 
 <br>
 
-## Definição
+## DefiniÃ§Ã£o
 ![relcampo.definicao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/relcampo.definicao.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Tipo** | 
 **Legenda** | 
 **Campo** | 
 **Largura** | 
 **Alinhamento** | 
 **Ordenar** | 
-**Máscara** | 
+**MÃ¡scara** | 
 **Quebra** | 
-**Núm.Decimal** | 
+**NÃºm.Decimal** | 
 **Agrupar** | 
 **Total** | 
 <br>

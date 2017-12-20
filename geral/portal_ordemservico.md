@@ -1,37 +1,37 @@
-# ORDEM DE SERVIÇO
+# ORDEM DE SERVIÃ‡O
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![portal_ordemservico.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Emissão** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**EmissÃ£o** | 
 **Relatado** | 
-**Situação** | 
-**Previsão** | 
+**SituaÃ§Ã£o** | 
+**PrevisÃ£o** | 
 **Total** | 
 <br>
 
 ## Geral
 ![portal_ordemservico.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/portal_ordemservico.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Situação** | 
-**Emissão** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**SituaÃ§Ã£o** | 
+**EmissÃ£o** | 
 **Cliente** | 
 **Solicitante** | 
 **Relatado** | 
 **Constatado** | 
-**Previsão** | 
-**Conclusão** | 
+**PrevisÃ£o** | 
+**ConclusÃ£o** | 
 **Valor Itens** | 
-**Valor Serviço** | 
+**Valor ServiÃ§o** | 
 **Deslocamento** | 
 **Valor** | 
 **Valor Desconto** | 

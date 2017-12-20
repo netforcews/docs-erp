@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_ponto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_ponto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_ponto.geral.png)
 
-Campo | Descrição
-------|----------
-**Competência** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CompetÃªncia** | 
 **Empresa** | 
-**Funcionário** | 
-**Imprimir observações** | 
+**FuncionÃ¡rio** | 
+**Imprimir observaÃ§Ãµes** | 
 <br>
 <br>
 <br>

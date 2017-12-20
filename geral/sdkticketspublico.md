@@ -3,41 +3,41 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![sdkticketspublico.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Ocorrência** | 
-**Situação** | 
-**Previsão** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**OcorrÃªncia** | 
+**SituaÃ§Ã£o** | 
+**PrevisÃ£o** | 
 **Valor Total** | 
 <br>
 
-## Solicitação
+## SolicitaÃ§Ã£o
 ![sdkticketspublico.solicitacao](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/sdkticketspublico.solicitacao.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Comandos** | 
-**Número/Chamado** | 
-**Emissão** | 
+**NÃºmero/Chamado** | 
+**EmissÃ£o** | 
 **Cliente** | 
 **Solicitante** | 
 **Solicitante E-mail** | 
 **Solicitante Fone** | 
 **Origem** | 
-**Situação** | 
+**SituaÃ§Ã£o** | 
 **Departamento** | 
-**Previsão Atento** | 
-**Horas Prev** | Previsão da quantidade de horas previstas para este atendimento
+**PrevisÃ£o Atento** | 
+**Horas Prev** | PrevisÃ£o da quantidade de horas previstas para este atendimento
 **Horas Exec.** | Quantidade de horas totais executadas/utilizadas
-**Ocorrência** | 
-**Relatado** | Solicitação relatada pelo cliente ou solicitante
+**OcorrÃªncia** | 
+**Relatado** | SolicitaÃ§Ã£o relatada pelo cliente ou solicitante
 **Dica Relatado** | 
-**Constatado** | Constatação com base em uma apuração técnica
-**Solução** | Resultado. Como foi solucionado/concluído este atendimento
+**Constatado** | ConstataÃ§Ã£o com base em uma apuraÃ§Ã£o tÃ©cnica
+**SoluÃ§Ã£o** | Resultado. Como foi solucionado/concluÃ­do este atendimento
 **Valor Total** | 
 <br>
 <br>

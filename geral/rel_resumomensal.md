@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![rel_resumomensal.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![rel_resumomensal.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/rel_resumomensal.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Conta contabil** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 <br>
 <br>
 <br>
