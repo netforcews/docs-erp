@@ -1,6 +1,6 @@
 - [**F.A.Q.**](/faq/faq.md)
 
-#### CADASTROS
+**CADASTROS**
 - [Bancos](/cadastros/banco.md)
 - [Carteiras de Cobrança](/cadastros/cobrancacarteira.md)
 - [Categorias Equipamentos](/cadastros/assuntocategorias.md)
