@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![equipamentolog.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Texto** | 
 **Valor** | 
@@ -16,13 +16,13 @@ Campo | Descrição
 ## Geral
 ![equipamentolog.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/equipamentolog.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Tipo** | 
 **Texto** | 
 **Valor** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 <br>
 <br>
 <br>

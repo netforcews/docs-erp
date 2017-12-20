@@ -1,23 +1,23 @@
-# FILTRO COBRANÇA
+# FILTRO COBRANÃ‡A
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro_cobranca.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_cobranca.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![filtro_cobranca.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_cobranca.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 **Cliente** | 
-**Responsável** | 
+**ResponsÃ¡vel** | 
 **Um cliente a cada meia folha** | 
 <br>
 <br>

@@ -1,48 +1,48 @@
-# CONFIGURA«’ES GERAIS
+# CONFIGURA√á√ïES GERAIS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![config_sistema.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 <br>
 
 ## Geral
 ![config_sistema.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Info** | 
-**DomÌnio padr„o** | DomÌnio padr„o de acesso. No qual os usu·rios desse domÌnio n„o precisaram usar o @dominio.com.br
-**ExpiraÁ„o de Senha** | Tempo em dias que a senha dos usu·rios devem expirar
-**Habilitar IDKey** | IDKey È a funÁ„o que permite os usu·rios guardarem a senha na m·quina estaÁ„o
-**Usu·rio sistema** | 
+**Dom√≠nio padr√£o** | Dom√≠nio padr√£o de acesso. No qual os usu√°rios desse dom√≠nio n√£o precisaram usar o @dominio.com.br
+**Expira√ß√£o de Senha** | Tempo em dias que a senha dos usu√°rios devem expirar
+**Habilitar IDKey** | IDKey √© a fun√ß√£o que permite os usu√°rios guardarem a senha na m√°quina esta√ß√£o
+**Usu√°rio sistema** | 
 <br>
 
 ## SMTP
 ![config_sistema.smtp](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.smtp.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Servidor** | 
 **Porta** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Senha** | 
 **Conta** | 
 **Autenticar** | 
-**Tipo de seguranÁa** | 
+**Tipo de seguran√ßa** | 
 <br>
 
 ## Sistema
 ![config_sistema.sistema](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/config_sistema.sistema.png)
 
-Campo | DescriÁ„o
-------|----------
-**Desativar prÈ-filtro quando filtro form. de grid** | 
-**Sistema em atualizaÁ„o** | Determina que somente os usu·rio desenvolvedores poder„o entrar no sistema
+Campo | Descri√ß√£o
+--:|---
+**Desativar pr√©-filtro quando filtro form. de grid** | 
+**Sistema em atualiza√ß√£o** | Determina que somente os usu√°rio desenvolvedores poder√£o entrar no sistema
 <br>
 <br>
 <br>

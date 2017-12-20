@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskstatus_projeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_projeto.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Geral
 ![dskstatus_projeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_projeto.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
-**Observação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
+**ObservaÃ§Ã£o** | 
 **Ativo** | 
 <br>
 <br>

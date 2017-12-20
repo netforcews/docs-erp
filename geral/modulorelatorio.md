@@ -1,27 +1,27 @@
-# RELATÓRIOS
+# RELATÃ“RIOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![modulorelatorio.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Agrupador** | 
 **Ordem** | 
-**Relatório** | 
+**RelatÃ³rio** | 
 **Atv** | 
 <br>
 
 ## Geral
 ![modulorelatorio.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulorelatorio.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Agrupador** | 
 **Ordem** | 
-**Relatório** | 
+**RelatÃ³rio** | 
 **Ativo** | 
 <br>
 <br>

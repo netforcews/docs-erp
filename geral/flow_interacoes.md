@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![flow_interacoes.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **&nbsp;** | 
 **Data** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Texto** | 
 **Follow-up** | 
 <br>
@@ -18,12 +18,12 @@ Campo | Descrição
 ## Geral
 ![flow_interacoes.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/flow_interacoes.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Tipo** | 
-**Interações** | 
+**InteraÃ§Ãµes** | 
 **Texto** | 
 **Data** | 
 <br>

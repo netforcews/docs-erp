@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskhoravalorefetivo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo.grid.png)
 
-Campo | Descrição
-------|----------
-**Usuário** | 
-**Esforço** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
 **Horas** | 
 **Valores** | 
 <br>
@@ -17,11 +17,11 @@ Campo | Descrição
 ## Geral
 ![dskhoravalorefetivo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorefetivo.geral.png)
 
-Campo | Descrição
-------|----------
-**Usuário** | 
-**Esforço** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
+**DescriÃ§Ã£o** | 
 **Hora(s)** | 
 <br>
 <br>

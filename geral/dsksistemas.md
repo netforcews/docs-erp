@@ -3,33 +3,33 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dsksistemas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
-**Versão** | 
-**Responsável** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
+**VersÃ£o** | 
+**ResponsÃ¡vel** | 
 **Ativo** | 
 <br>
 
 ## Geral
 ![dsksistemas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemas.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sistema** | 
-**Versão** | 
-**Responsável** | 
-**Observação** | 
+**VersÃ£o** | 
+**ResponsÃ¡vel** | 
+**ObservaÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Links
 ### [Clientes](/geral/dsksistemaclientes.md)
-### [Módulos](/geral/dsksistemamodulos.md)
-### [Usuários](/geral/dsksistemausuarios.md)
+### [MÃ³dulos](/geral/dsksistemamodulos.md)
+### [UsuÃ¡rios](/geral/dsksistemausuarios.md)
 <br>
 <br>
 <br>

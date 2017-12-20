@@ -1,15 +1,15 @@
-# HD PREVIS√O
+# HD PREVIS√ÉO
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![dskhoravalorprevisao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**Usu·rio** | 
-**EsforÁo** | 
+Campo | Descri√ß√£o
+--:|---
+**Usu√°rio** | 
+**Esfor√ßo** | 
 **Horas** | 
 **Valores** | 
 <br>
@@ -17,11 +17,11 @@ Campo | DescriÁ„o
 ## Geral
 ![dskhoravalorprevisao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorprevisao.geral.png)
 
-Campo | DescriÁ„o
-------|----------
-**Usu·rio** | 
-**EsforÁo** | 
-**DescriÁ„o** | 
+Campo | Descri√ß√£o
+--:|---
+**Usu√°rio** | 
+**Esfor√ßo** | 
+**Descri√ß√£o** | 
 **Hora(s)** | 
 <br>
 <br>

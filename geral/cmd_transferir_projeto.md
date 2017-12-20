@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![cmd_transferir_projeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![cmd_transferir_projeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/cmd_transferir_projeto.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Da Unidade** | 
 **Para Unidade** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Descritivo** | 
 <br>
 <br>

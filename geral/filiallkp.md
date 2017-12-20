@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filiallkp.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Marca** | 
 **Nome** | 
-**Código** | 
+**CÃ³digo** | 
 <br>
 
 ## Geral
 ![filiallkp.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filiallkp.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 <br>
 <br>

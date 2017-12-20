@@ -3,23 +3,23 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskstatuscliente.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatuscliente.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Cor** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Geral
 ![dskstatuscliente.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatuscliente.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
-**Observação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
+**ObservaÃ§Ã£o** | 
 **Cor** | 
 **Ativo** | 
 <br>

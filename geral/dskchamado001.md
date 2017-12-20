@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskchamado001.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **SLA** | 
 **Sistema** | 
-**Módulo** | 
+**MÃ³dulo** | 
 **Processo** | 
 **Status** | 
 <br>
@@ -18,10 +18,10 @@ Campo | Descrição
 ## Geral
 ![dskchamado001.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.geral.png)
 
-Campo | Descrição
-------|----------
-**Título** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**TÃ­tulo** | 
+**DescriÃ§Ã£o** | 
 **Prazo SLA** | 
 **Causa** | 
 <br>
@@ -29,23 +29,23 @@ Campo | Descrição
 ## Sistema
 ![dskchamado001.sistema](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.sistema.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sistema** | 
-**Módulo** | 
+**MÃ³dulo** | 
 **Processo** | 
 **Departamento** | 
 **Status** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 <br>
 
 ## Textos
 ![dskchamado001.textos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamado001.textos.png)
 
-Campo | Descrição
-------|----------
-**Solução cliente** | 
-**Solução técnica** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SoluÃ§Ã£o cliente** | 
+**SoluÃ§Ã£o tÃ©cnica** | 
 <br>
 <br>
 <br>

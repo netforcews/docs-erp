@@ -1,24 +1,24 @@
-# FILTRO DE COMISSÕES OS
+# FILTRO DE COMISSÃ•ES OS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro_os_comissao.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_os_comissao.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![filtro_os_comissao.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_os_comissao.geral.png)
 
-Campo | Descrição
-------|----------
-**Funcionário** | 
-**Situação** | 
-**Início** | 
-**Término** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**FuncionÃ¡rio** | 
+**SituaÃ§Ã£o** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 <br>
 <br>
 <br>

@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskdepartamentostatus.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskdepartamentostatus.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Status** | 
 **Ativo** | 
 <br>
@@ -15,8 +15,8 @@ Campo | Descrição
 ## Geral
 ![dskdepartamentostatus.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskdepartamentostatus.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Status** | 
 **Ativo** | 
 <br>

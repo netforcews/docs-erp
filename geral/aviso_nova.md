@@ -3,19 +3,19 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![aviso_nova.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Assunto** | 
 <br>
 
 ## Mensagem
 ![aviso_nova.mensagem](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/aviso_nova.mensagem.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Para** | 
 **Assunto** | 
 **Texto** | 

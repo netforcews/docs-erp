@@ -3,19 +3,19 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![grupoempresa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 <br>
 
 ## Geral
 ![grupoempresa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupoempresa.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 <br>
 

@@ -3,33 +3,33 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskchamados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamados.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
-**Código** | 
+**CÃ³digo** | 
 **Tipo** | 
 **Cliente** | 
-**Título** | 
+**TÃ­tulo** | 
 **Status** | 
 <br>
 
 ## Geral
 ![dskchamados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamados.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
-**Código** | 
+**CÃ³digo** | 
 **Cliente** | 
 **Tipo** | 
 **Origem** | 
 **Prioridade** | 
-**Usuário** | 
+**UsuÃ¡rio** | 
 **Data/Hora** | 
-**Usuário incluiu** | 
+**UsuÃ¡rio incluiu** | 
 **Status** | 
 **Status Interno** | 
 <br>
@@ -37,11 +37,11 @@ Campo | Descrição
 ## Textos
 ![dskchamados.textos](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskchamados.textos.png)
 
-Campo | Descrição
-------|----------
-**Título** | 
-**Descrição** | 
-**Solução** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**TÃ­tulo** | 
+**DescriÃ§Ã£o** | 
+**SoluÃ§Ã£o** | 
 <br>
 
 ## Links

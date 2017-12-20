@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskhoravalorcusto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto.grid.png)
 
-Campo | Descrição
-------|----------
-**Usuário** | 
-**Esforço** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
 **Horas previstas** | 
 **Valor previsto** | 
 **Horas efetivas** | 
@@ -19,10 +19,10 @@ Campo | Descrição
 ## Geral
 ![dskhoravalorcusto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskhoravalorcusto.geral.png)
 
-Campo | Descrição
-------|----------
-**Usuário** | 
-**Esforço** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
 **Hora(s) prevista(s)** | 
 **Valor previsto** | 
 **Hora(s) efetiva(s)** | 

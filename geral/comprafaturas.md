@@ -3,12 +3,12 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![comprafaturas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas.grid.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
 **Data** | 
 **Valor** | 
 <br>
@@ -16,9 +16,9 @@ Campo | Descrição
 ## Geral
 ![comprafaturas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/comprafaturas.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
 **Data** | 
 **Valor** | 
 <br>

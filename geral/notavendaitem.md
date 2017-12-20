@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![notavendaitem.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notavendaitem.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Un** | 
 **Valor** | 
@@ -20,34 +20,34 @@ Campo | Descrição
 ## Geral
 ![notavendaitem.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notavendaitem.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Produto** | 
 **Tamanho** | 
 **Complemento** | 
 **Unidade** | 
 **Quantidade** | 
 **Valor** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 **Class.Tributaria** | 
 **Class.Fiscal** | 
-**Cód.Serviço** | 
-**Nat.OPeração** | 
+**CÃ³d.ServiÃ§o** | 
+**Nat.OPeraÃ§Ã£o** | 
 **% ICMS** | 
 **Val. ICMS** | 
 **% IPI** | 
 **Val. IPI** | 
-**V.Comissão** | 
+**V.ComissÃ£o** | 
 **Valor Total** | 
-**Núm.FCI** | Número do protocolo da FCI (Ficha de Conteúdo Importado)
+**NÃºm.FCI** | NÃºmero do protocolo da FCI (Ficha de ConteÃºdo Importado)
 **Val.Aprox.Trib** | 
 **%FCP** | Percentual de Fundo de Combate a Pobreza
 **Valor FCP** | 
 **Valor ICMS Base** | 
-**Aliq.Inter.Dest** | Aliquota interna de ICMS do destinatárior
+**Aliq.Inter.Dest** | Aliquota interna de ICMS do destinatÃ¡rior
 **Aliq.Interestadual** | Aliquota Interestadual
 **% Partilha** | Percentual de partilha entre os estados
-**Val ICMS Destino** | Valor ICMS de partilha para UF do destinatário
+**Val ICMS Destino** | Valor ICMS de partilha para UF do destinatÃ¡rio
 **Val ICMS Remet** | Valor ICMS de partilha para UF do remetente
 <br>
 

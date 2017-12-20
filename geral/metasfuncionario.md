@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![metasfuncionario.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Valor** | 
-**% Comiss„o** | 
+**% Comiss√£o** | 
 <br>
 
 ## Geral
 ![metasfuncionario.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/metasfuncionario.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Valor** | 
-**% Comiss„o** | 
+**% Comiss√£o** | 
 <br>
 <br>
 <br>

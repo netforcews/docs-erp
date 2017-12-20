@@ -3,20 +3,20 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![lkpcontacorrente.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Saldo** | 
 <br>
 
 ## Geral
 ![lkpcontacorrente.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/lkpcontacorrente.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 <br>
 <br>

@@ -3,23 +3,23 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dsktipoprojetos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsktipoprojetos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sigla** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Geral
 ![dsktipoprojetos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsktipoprojetos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sigla** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 <br>

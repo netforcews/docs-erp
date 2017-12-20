@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskstatus_chamado.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_chamado.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Cor** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Cor** | 
 **Status cliente** | 
 **Ativo** | 
@@ -18,10 +18,10 @@ Campo | Descrição
 ## Geral
 ![dskstatus_chamado.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskstatus_chamado.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
-**Observação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
+**ObservaÃ§Ã£o** | 
 **Cor** | 
 **Ativo** | 
 **Status cliente** | 
@@ -29,7 +29,7 @@ Campo | Descrição
 <br>
 
 ## Links
-### [Usuários](/geral/dskstatususuarios.md)
+### [UsuÃ¡rios](/geral/dskstatususuarios.md)
 <br>
 <br>
 <br>

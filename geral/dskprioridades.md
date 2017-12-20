@@ -3,12 +3,12 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskprioridades.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Horas SLA** | 
 **Ativo** | 
 <br>
@@ -16,11 +16,11 @@ Campo | Descrição
 ## Geral
 ![dskprioridades.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskprioridades.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Horas SLA** | 
-**Observação** | 
+**ObservaÃ§Ã£o** | 
 **Ativo** | 
 <br>
 <br>

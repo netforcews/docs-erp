@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro_os.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_os.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![filtro_os.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_os.geral.png)
 
-Campo | Descrição
-------|----------
-**Situação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SituaÃ§Ã£o** | 
 **Cliente** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 <br>
 <br>
 <br>

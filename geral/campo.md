@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![campo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/campo.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ord** | 
 **Nome** | 
 **Legenda** | 
@@ -16,8 +16,8 @@ Campo | Descrição
 ## Geral
 ![campo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/campo.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 <br>
 <br>

@@ -3,12 +3,12 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![campanhaanexo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/campanhaanexo.grid.png)
 
-Campo | Descrição
-------|----------
-**Identificação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**IdentificaÃ§Ã£o** | 
 **Arquivo** | 
 **Anexar** | 
 <br>
@@ -16,9 +16,9 @@ Campo | Descrição
 ## Geral
 ![campanhaanexo.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/campanhaanexo.geral.png)
 
-Campo | Descrição
-------|----------
-**Identificação** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**IdentificaÃ§Ã£o** | 
 **Arquivo** | 
 **Anexar ao e-mail** | 
 <br>

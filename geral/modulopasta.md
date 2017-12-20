@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![modulopasta.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ordem** | 
 **Agrupador** | 
 **Nome** | 
@@ -18,16 +18,16 @@ Campo | Descrição
 ## Geral
 ![modulopasta.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/modulopasta.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ordem** | 
 **Agrupador** | 
 **Nome** | 
 **Interface** | 
-**Visão** | 
+**VisÃ£o** | 
 **Codigointerno** | 
 **Ativo** | 
-**Incluir barra de divisão** | 
+**Incluir barra de divisÃ£o** | 
 <br>
 
 ## Comandos

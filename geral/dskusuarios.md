@@ -1,14 +1,14 @@
-# USU¡RIOS
+# USU√ÅRIOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![dskusuarios.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios.grid.png)
 
-Campo | DescriÁ„o
-------|----------
-**Usu·rio** | 
+Campo | Descri√ß√£o
+--:|---
+**Usu√°rio** | 
 **Cliente** | 
 **Valor/hora** | 
 **Ativo** | 
@@ -17,9 +17,9 @@ Campo | DescriÁ„o
 ## Geral
 ![dskusuarios.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskusuarios.geral.png)
 
-Campo | DescriÁ„o
-------|----------
-**Usu·rio** | 
+Campo | Descri√ß√£o
+--:|---
+**Usu√°rio** | 
 **Valor/hora** | 
 **Ativo** | 
 **Cliente** | 

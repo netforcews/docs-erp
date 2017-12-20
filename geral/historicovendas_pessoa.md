@@ -1,18 +1,18 @@
-# HISTÓRICO DE VENDAS
+# HISTÃ“RICO DE VENDAS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![historicovendas_pessoa.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nota** | 
 **Pedido** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Produto** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Qtdade** | 
 **Valor** | 
 **F.L** | 
@@ -21,14 +21,14 @@ Campo | Descrição
 ## Geral
 ![historicovendas_pessoa.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/historicovendas_pessoa.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nota** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Pedido** | 
-**Código** | 
+**CÃ³digo** | 
 **Unidade** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Complemento** | 
 **Tamanho** | 
 **Quantidade** | 
@@ -36,7 +36,7 @@ Campo | Descrição
 <br>
 
 ## Comandos
-### Gerar Orçamento
+### Gerar OrÃ§amento
 <br>
 <br>
 <br>

@@ -3,19 +3,19 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![grupofilial.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Filial** | 
 <br>
 
 ## Geral
 ![grupofilial.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grupofilial.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Filial** | 
 <br>
 <br>

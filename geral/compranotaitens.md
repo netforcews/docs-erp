@@ -3,13 +3,13 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![compranotaitens.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens.grid.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**DescriÃ§Ã£o** | 
 **NCM** | 
 **CFOP** | 
 **Un** | 
@@ -21,11 +21,11 @@ Campo | Descrição
 ## Geral
 ![compranotaitens.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/compranotaitens.geral.png)
 
-Campo | Descrição
-------|----------
-**Código** | 
-**Cód.Barras** | 
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**CÃ³digo** | 
+**CÃ³d.Barras** | 
+**DescriÃ§Ã£o** | 
 **NCM** | 
 **CFOP** | 
 **Unid.Com** | 

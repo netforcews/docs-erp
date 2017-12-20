@@ -3,12 +3,12 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![contacorrente.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Titular** | 
 **CNPJ/CPF** | 
 **DDD** | 
@@ -19,15 +19,15 @@ Campo | Descrição
 ## Geral
 ![contacorrente.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.geral.png)
 
-Campo | Descrição
-------|----------
-**Agência** | 
-**DVA** | Dígito Verificado do campo Agência
-**Número** | 
-**DAC** | Dígito Verificado do campo Conta Corrente
-**Descrição** | 
-**Utilizar para pagamentos** | Marcando essa opção esta conta será exibida no contas a pagar para efetuar pagamentos por ela
-**Utilizar para recebimentos** | Marcando essa opção esta conta será exibida no contas a receber para efetuar baixas por ela
+Campo | DescriÃ§Ã£o
+--:|---
+**AgÃªncia** | 
+**DVA** | DÃ­gito Verificado do campo AgÃªncia
+**NÃºmero** | 
+**DAC** | DÃ­gito Verificado do campo Conta Corrente
+**DescriÃ§Ã£o** | 
+**Utilizar para pagamentos** | Marcando essa opÃ§Ã£o esta conta serÃ¡ exibida no contas a pagar para efetuar pagamentos por ela
+**Utilizar para recebimentos** | Marcando essa opÃ§Ã£o esta conta serÃ¡ exibida no contas a receber para efetuar baixas por ela
 **Raz.Social/Nome** | 
 **CNPJ/CPF** | 
 **Empresa** | 
@@ -38,22 +38,22 @@ Campo | Descrição
 **Exibe no resumo da saldos** | 
 <br>
 
-## Cobrança
+## CobranÃ§a
 ![contacorrente.cobranca](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contacorrente.cobranca.png)
 
-Campo | Descrição
-------|----------
-**Contrato Cobrança** | 
-**Nosso Número** | 
-**Núm.Convênio** | 
-**Cód.Cedente** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**Contrato CobranÃ§a** | 
+**Nosso NÃºmero** | 
+**NÃºm.ConvÃªnio** | 
+**CÃ³d.Cedente** | 
 **Carteira** | 
 **Prazo (dias)** | Quantidades de dias
-**Inst.Cob.1** | Instrução de Cobrança 1
-**Inst.Cob.2** | Instrução de Cobrança 2
-**Espécie** | Código da espécie da cobrança (Ex.: Duplicada de Serviço, Duplicata Mercantil....)
+**Inst.Cob.1** | InstruÃ§Ã£o de CobranÃ§a 1
+**Inst.Cob.2** | InstruÃ§Ã£o de CobranÃ§a 2
+**EspÃ©cie** | CÃ³digo da espÃ©cie da cobranÃ§a (Ex.: Duplicada de ServiÃ§o, Duplicata Mercantil....)
 **Valor Liquidado** | 
-**Instuções Boleto** | 
+**InstuÃ§Ãµes Boleto** | 
 <br>
 <br>
 <br>

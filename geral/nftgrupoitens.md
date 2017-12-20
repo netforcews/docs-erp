@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![nftgrupoitens.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/nftgrupoitens.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Grupo** | 
 **Ordem** | 
 **Nome** | 
@@ -16,8 +16,8 @@ Campo | Descrição
 ## Geral
 ![nftgrupoitens.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/nftgrupoitens.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Grupo** | 
 **Ordem** | 
 **Tipo** | 

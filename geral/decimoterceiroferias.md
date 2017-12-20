@@ -1,13 +1,13 @@
-# DÉCIMO TERCEIRO E FÉRIAS
+# DÃ‰CIMO TERCEIRO E FÃ‰RIAS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![decimoterceiroferias.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Data** | 
 **Tipo** | 
 **Geral** | 
@@ -17,15 +17,15 @@ Campo | Descrição
 ## Geral
 ![decimoterceiroferias.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/decimoterceiroferias.geral.png)
 
-Campo | Descrição
-------|----------
-**Salário** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**SalÃ¡rio** | 
 **Data** | 
 **Tipo** | 
-**Acréscimos** | 
+**AcrÃ©scimos** | 
 **Descontos** | 
 **Sub Total (2)** | 
-**Acréscimos** | 
+**AcrÃ©scimos** | 
 **Descontos** | 
 **Sub Total (3)** | 
 **Total (2+3)** | 
@@ -35,8 +35,8 @@ Campo | Descrição
 **Valor** | 
 **Conta3** | 
 **Valor** | 
-**Observação** | 
-**Lançamento** | 
+**ObservaÃ§Ã£o** | 
+**LanÃ§amento** | 
 <br>
 <br>
 <br>

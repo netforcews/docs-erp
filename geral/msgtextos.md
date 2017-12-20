@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![msgtextos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Data** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Texto** | 
 <br>
 
 ## Geral
 ![msgtextos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msgtextos.geral.png)
 
-Campo | DescriÁ„o
-------|----------
-**Usu·rio** | 
+Campo | Descri√ß√£o
+--:|---
+**Usu√°rio** | 
 **Data** | 
 **Texto** | 
 <br>

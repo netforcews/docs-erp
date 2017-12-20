@@ -1,13 +1,13 @@
-# ¡REAS
+# √ÅREAS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![moduloarea.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/moduloarea.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Coluna** | 
 **Ordem** | 
 **Objeto** | 
@@ -16,14 +16,14 @@ Campo | DescriÁ„o
 ## Geral
 ![moduloarea.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/moduloarea.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Coluna** | 
 **Ordem** | 
 **Objeto** | 
-**Par‚metros** | 
-**Altura** | Altura do box. Se ZERO ser· auto-ajustavel
-**C.SeguranÁa** | Conta de seguranÁa
+**Par√¢metros** | 
+**Altura** | Altura do box. Se ZERO ser√° auto-ajustavel
+**C.Seguran√ßa** | Conta de seguran√ßa
 <br>
 <br>
 <br>

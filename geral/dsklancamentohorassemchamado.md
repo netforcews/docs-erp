@@ -1,31 +1,31 @@
-# LANÇAMENTO DE HORAS
+# LANÃ‡AMENTO DE HORAS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dsklancamentohorassemchamado.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Chamado** | 
 **Data/hora** | 
-**Usuário** | 
-**Esforço** | 
-**Descrição** | 
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
+**DescriÃ§Ã£o** | 
 **Horas** | 
 <br>
 
 ## Geral
 ![dsklancamentohorassemchamado.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsklancamentohorassemchamado.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Chamado** | 
 **Data/hora** | 
-**Usuário** | 
-**Esforço** | 
-**Descrição** | 
+**UsuÃ¡rio** | 
+**EsforÃ§o** | 
+**DescriÃ§Ã£o** | 
 **Hora(s) efetiva(s)** | 
 <br>
 <br>

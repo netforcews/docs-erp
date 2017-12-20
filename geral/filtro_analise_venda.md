@@ -3,19 +3,19 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro_analise_venda.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_analise_venda.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![filtro_analise_venda.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_analise_venda.geral.png)
 
-Campo | Descrição
-------|----------
-**Início** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**InÃ­cio** | 
 **Fim** | 
 <br>
 <br>

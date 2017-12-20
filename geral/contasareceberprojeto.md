@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![contasareceberprojeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **&nbsp;** | 
 **Numero** | 
-**Emiss„o** | 
+**Emiss√£o** | 
 **Cliente** | 
 **Vencimento** | 
 **Parcela** | 
@@ -23,34 +23,34 @@ Campo | DescriÁ„o
 ## Geral
 ![contasareceberprojeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Comando** | 
 **Numero** | 
-**SituaÁ„o** | 
+**Situa√ß√£o** | 
 **Empresa** | 
-**Usu·rio** | 
+**Usu√°rio** | 
 **Cliente** | 
-**DescriÁ„o** | 
-**Emiss„o** | 
+**Descri√ß√£o** | 
+**Emiss√£o** | 
 **Forma de Pgto** | 
 **Vencimento** | 
 **Tipo Vencimento** | 
 **Valor Nominal** | 
 **Aviso enviado por e-mail** | 
-**Cobrar tÌtulo se vencido** | 
+**Cobrar t√≠tulo se vencido** | 
 **N. Parcelas** | 
 **Intervalo (dias)** | 
 **Parcela** | 
 **Mensalidade** | 
 **Linha Digitavel** | 
-**CÛdigo Barra** | 
-**Juros Di·rio** | 
+**C√≥digo Barra** | 
+**Juros Di√°rio** | 
 **Multa/Atraso** | Valor de multa por atraso
-**Nosso N˙mero** | 
-**Em CobranÁa** | 
+**Nosso N√∫mero** | 
+**Em Cobran√ßa** | 
 **Vendedor** | 
-**% Comiss„o** | 
+**% Comiss√£o** | 
 **Conta Corrente** | 
 **Acrescimo (+)** | 
 **Desconto (-)** | 
@@ -58,21 +58,21 @@ Campo | DescriÁ„o
 **Data Receb.** | 
 **Valor Recebido** | 
 **Saldo** | 
-**ObservaÁ„o** | 
+**Observa√ß√£o** | 
 <br>
 
-## HistÛrico
+## Hist√≥rico
 ![contasareceberprojeto.historico](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/contasareceberprojeto.historico.png)
 
-Campo | DescriÁ„o
-------|----------
-**HistÛrico** | 
+Campo | Descri√ß√£o
+--:|---
+**Hist√≥rico** | 
 <br>
 
 ## Links
-### [LanÁamentos](/geral/financeirolancamentos.md)
-### [Retornos cobranÁa](/geral/cobranca.md)
-### [Cont·bil](/geral/pconta_financeiro_receber.md)
+### [Lan√ßamentos](/geral/financeirolancamentos.md)
+### [Retornos cobran√ßa](/geral/cobranca.md)
+### [Cont√°bil](/geral/pconta_financeiro_receber.md)
 ### [Anexos](/geral/financeiroanexos.md)
 <br>
 <br>

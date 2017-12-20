@@ -3,23 +3,23 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro_compra.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![filtro_compra.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro_compra.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Empresa** | 
 **Fornecedor** | 
-**Funcionário** | 
+**FuncionÃ¡rio** | 
 **Filtrar data** | 
-**Início** | 
+**InÃ­cio** | 
 **Fim** | 
 **Modo** | 
 <br>

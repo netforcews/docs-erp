@@ -3,31 +3,31 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dsktipochamados.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsktipochamados.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sigla** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Geral
 ![dsktipochamados.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsktipochamados.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sigla** | 
 **Codigo interno** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 
 ## Links
 ### [Causas](/geral/dskcausas.md)
 ### [Departamentos](/geral/dskdepartamentos.md)
-### [Esforços](/geral/dskesforcos.md)
+### [EsforÃ§os](/geral/dskesforcos.md)
 ### [Prioridades](/geral/dskprioridades.md)
 ### [Sistemas](/geral/dsksistemas.md)
 ### [Status](/geral/dskstatus_chamado.md)

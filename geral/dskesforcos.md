@@ -1,15 +1,15 @@
-# HD ESFORÇOS
+# HD ESFORÃ‡OS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskesforcos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskesforcos.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ordem** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Valor** | 
 **24h** | 
 **Ativo** | 
@@ -18,10 +18,10 @@ Campo | Descrição
 ## Geral
 ![dskesforcos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskesforcos.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ordem** | 
-**Descrição** | 
+**DescriÃ§Ã£o** | 
 **Valor/hora** | 
 **Fator suporte 24h** | 
 **Ativo** | 

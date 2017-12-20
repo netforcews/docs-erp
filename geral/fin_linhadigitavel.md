@@ -1,20 +1,20 @@
-# LINHA DIGIT¡VEL
+# LINHA DIGIT√ÅVEL
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![fin_linhadigitavel.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 <br>
 
 ## Geral
 ![fin_linhadigitavel.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/fin_linhadigitavel.geral.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Info** | 
 **Linha** | 
 <br>

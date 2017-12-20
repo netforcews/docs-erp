@@ -3,21 +3,21 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![grid_filtro_cc.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grid_filtro_cc.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 <br>
 
 ## Geral
 ![grid_filtro_cc.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/grid_filtro_cc.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **C/C** | 
-**Início** | 
-**Término** | 
+**InÃ­cio** | 
+**TÃ©rmino** | 
 <br>
 <br>
 <br>

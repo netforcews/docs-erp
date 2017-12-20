@@ -3,14 +3,14 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![notaprojeto.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notaprojeto.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **&nbsp;** | 
 **Nota** | 
-**Emissão** | 
+**EmissÃ£o** | 
 **Cliente** | 
 **Valor Bruto** | 
 **Valor Liquido** | 
@@ -21,30 +21,30 @@ Campo | Descrição
 ## Geral
 ![notaprojeto.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notaprojeto.geral.png)
 
-Campo | Descrição
-------|----------
-**Número** | 
-**Emissão** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**NÃºmero** | 
+**EmissÃ£o** | 
 **Atributo** | 
-**Situação** | 
-**Funcionário** | 
+**SituaÃ§Ã£o** | 
+**FuncionÃ¡rio** | 
 **Empresa** | 
 **Cliente** | 
 **Contato** | 
-**Nat.Operação** | 
-**Previsão Saída** | Data de previsão de Saída
+**Nat.OperaÃ§Ã£o** | 
+**PrevisÃ£o SaÃ­da** | Data de previsÃ£o de SaÃ­da
 **Cond.Pagto** | 
 **Forma Pagto** | 
 **Ord.Compra** | 
-**Presença** | 
+**PresenÃ§a** | 
 **Pedido Aprovado** | 
 **Aviso enviado por e-mail** | 
-**Concluído** | Pedido concluído (todo cadastrado)
-**Aviso de conclusão enviado** | Aviso de conclusão do pedido (quando todos os itens foram marcados como CONCLUIDOS)
-**Núm.Nota** | 
-**Emissão** | 
+**ConcluÃ­do** | Pedido concluÃ­do (todo cadastrado)
+**Aviso de conclusÃ£o enviado** | Aviso de conclusÃ£o do pedido (quando todos os itens foram marcados como CONCLUIDOS)
+**NÃºm.Nota** | 
+**EmissÃ£o** | 
 **Tipo** | 
-**Série** | 
+**SÃ©rie** | 
 **Transportadora** | 
 **Frete** | 
 **Peso Bruto** | 
@@ -63,11 +63,11 @@ Campo | Descrição
 **Valor REIDI** | 
 **Valor Bruto** | 
 **Valor Retido** | 
-**Valor Líquido Total** | 
+**Valor LÃ­quido Total** | 
 **Val.Aprox. Trib** | 
-**Valor Comissão** | 
+**Valor ComissÃ£o** | 
 **Valor FCP** | Valor do Fundo de Combate a Pobreza
-**Valor ICMS Dest** | Valor ICMS do estado do destinatário (Partilha)
+**Valor ICMS Dest** | Valor ICMS do estado do destinatÃ¡rio (Partilha)
 **Valor ICMS Remet** | Valor ICMS do estado do remetente (Partilha)
 **Linha1** | 
 **Linha2** | 
@@ -76,29 +76,29 @@ Campo | Descrição
 ## Detalhes NotaFiscal
 ![notaprojeto.detalhesnotafiscal](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notaprojeto.detalhesnotafiscal.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nota Fiscal impressa/integrada** | 
 **NFE Autorizada** | 
 **NFE Chave** | 
 **Danfe PDF** | 
 **Danfe XML** | 
 **Finalidade** | 
-**Número RPS** | 
+**NÃºmero RPS** | 
 **Nota Referente** | 
-**Mun.Prestação** | Municipio onde foi executado a prestação do serviço
+**Mun.PrestaÃ§Ã£o** | Municipio onde foi executado a prestaÃ§Ã£o do serviÃ§o
 <br>
 
-## Histórico
+## HistÃ³rico
 ![notaprojeto.historico](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/notaprojeto.historico.png)
 
-Campo | Descrição
-------|----------
-**Histórico** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**HistÃ³rico** | 
 <br>
 
 ## Comandos
-### Lançar NF
+### LanÃ§ar NF
 <br>
 
 ## Links

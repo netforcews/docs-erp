@@ -3,11 +3,11 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dskclientesistemas.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskclientesistemas.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sistema** | 
 **Ativo** | 
 <br>
@@ -15,8 +15,8 @@ Campo | Descrição
 ## Geral
 ![dskclientesistemas.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dskclientesistemas.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Sistema** | 
 **Ativo** | 
 <br>

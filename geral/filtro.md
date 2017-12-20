@@ -3,26 +3,26 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![filtro.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.grid.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Ord** | 
 **Nome** | 
 **Interface** | 
-**Prão** | 
+**PrÃ£o** | 
 <br>
 
 ## Geral
 ![filtro.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.geral.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Nome** | 
 **Interface** | 
 **Ordem** | 
-**Assumir como padrão** | 
+**Assumir como padrÃ£o** | 
 **Campo** | 
 **Operador** | 
 **Valor** | 
@@ -38,14 +38,14 @@ Campo | Descrição
 **Campo** | 
 **Operador** | 
 **Valor** | 
-**Ordenação** | 
+**OrdenaÃ§Ã£o** | 
 <br>
 
 ## Comando
 ![filtro.comando](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/filtro.comando.png)
 
-Campo | Descrição
-------|----------
+Campo | DescriÃ§Ã£o
+--:|---
 **Comando** | 
 **SQL Especial** | 
 <br>

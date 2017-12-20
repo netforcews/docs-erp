@@ -1,22 +1,22 @@
-# HD MÓDULOS
+# HD MÃ“DULOS
 <br>
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+Pela grade, podemos visualizar suas principais informaÃ§Ãµes e fazer a manutenÃ§Ã£o de seus dados.
 ![dsksistemamodulos.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemamodulos.grid.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 <br>
 
 ## Geral
 ![dsksistemamodulos.geral](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/dsksistemamodulos.geral.png)
 
-Campo | Descrição
-------|----------
-**Descrição** | 
+Campo | DescriÃ§Ã£o
+--:|---
+**DescriÃ§Ã£o** | 
 **Ativo** | 
 <br>
 

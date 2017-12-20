@@ -3,22 +3,22 @@
 <br>
 
 ## Grade
-Pela grade, podemos visualizar suas principais informaÁıes e fazer a manutenÁ„o de seus dados.
+Pela grade, podemos visualizar suas principais informa√ß√µes e fazer a manuten√ß√£o de seus dados.
 ![msg_dlg_responder.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msg_dlg_responder.grid.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 <br>
 
 ## Mensagem
 ![msg_dlg_responder.mensagem](https://raw.githubusercontent.com/netforcews/docs-erp/master/geral/imagens/msg_dlg_responder.mensagem.png)
 
-Campo | DescriÁ„o
-------|----------
+Campo | Descri√ß√£o
+--:|---
 **Dialogo** | 
 **Mensagem** | 
-**Encaminhar** | Caso queira encaminhar para outro usu·rio que n„o faz parte desse dialogo.
-Digite o nome dos usu·rios
+**Encaminhar** | Caso queira encaminhar para outro usu√°rio que n√£o faz parte desse dialogo.
+Digite o nome dos usu√°rios
 <br>
 <br>
 <br>
