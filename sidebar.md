@@ -2,7 +2,7 @@
 
 **ATENDIMENTO**
 - [Chamados](/atendimento/sdktickets.md)
-- [Configurações](/atendimento/config_sdk.md)
+- [Configurações](/atendimento/config-sdk.md)
 - [Status](/atendimento/sdkstatus.md)
 
 **CADASTROS**
@@ -14,13 +14,13 @@
 - [Classificações Fiscais](/cadastros/classificacaofiscal.md)
 - [Classificações Tributárias](/cadastros/classtributaria.md)
 - [Condições Pagto](/cadastros/condicaopagamento.md)
-- [Configurações](/cadastros/config_cadastro.md)
+- [Configurações](/cadastros/config-cadastro.md)
 - [Configurações](/cadastros/configcadastro.md)
 - [Departamentos](/cadastros/departamentos.md)
 - [Empresa usuária](/cadastros/empresa.md)
 - [Equipamentos](/cadastros/osassunto.md)
 - [Estados](/cadastros/estado.md)
-- [Exportar e-mails](/cadastros/exp_emails.md)
+- [Exportar e-mails](/cadastros/exp-emails.md)
 - [Feriados](/cadastros/feriados.md)
 - [Grupos de produto](/cadastros/produtogrupo.md)
 - [ICMSs](/cadastros/icms.md)
@@ -44,13 +44,13 @@
 - [Vendedores](/cadastros/vendedor.md)
 
 **COMPRAS**
-- [Configurações](/compras/config_compras.md)
+- [Configurações](/compras/config-compras.md)
 - [Importar Notas](/compras/compranotas.md)
 - [Notas Fiscais](/compras/notacompra.md)
 - [Pedidos](/compras/pedidocompra.md)
 
 **CRM**
-- [Configurações](/crm/config_crm.md)
+- [Configurações](/crm/config-crm.md)
 - [Interações](/crm/interacoespessoa.md)
 
 **E-MAILS**
@@ -67,7 +67,7 @@
 - Spam
 
 **ESTOQUES**
-- [Configurações](/estoques/config_estoque.md)
+- [Configurações](/estoques/config-estoque.md)
 - [Estoques](/estoques/estoque.md)
 - [Movimento de estoque](/estoques/estoquemovimento.md)
 - [Transferências](/estoques/Transferencias.md)
