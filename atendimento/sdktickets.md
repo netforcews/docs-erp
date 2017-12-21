@@ -50,7 +50,7 @@ Campo | Descrição
 <br>
 
 ## Triagem / Atendimento
-![sdktickets.triagem_atendimento](https://raw.githubusercontent.com/netforcews/docs-erp/master/atendimento/imagens/sdktickets.triagem_atendimento.png)
+![sdktickets.triagem-atendimento](https://raw.githubusercontent.com/netforcews/docs-erp/master/atendimento/imagens/sdktickets.triagem-atendimento.png)
 
 Campo | Descrição
 --:|---
