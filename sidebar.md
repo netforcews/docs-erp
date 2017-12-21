@@ -14,4 +14,5 @@
 - [Classificações Fiscais](/cadastros/classificacaofiscal.md)
 - [Classificações Tributárias](/cadastros/classtributaria.md)
 - [Condições Pagto](/cadastros/condicaopagamento.md)
-- [Configurações](/cadastros/configcadastro.md)
+- [Configurações](/cadastros/config-cadastro.md)
+- [Departamentos](/cadastros/departamentos.md)
