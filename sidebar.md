@@ -1,10 +1,8 @@
 - [**F.A.Q.**](/faq/faq.md)
-
 **ATENDIMENTO**
 - [Chamados](/atendimento/sdktickets.md)
 - [Configurações](/atendimento/config-sdk.md)
 - [Status](/atendimento/sdkstatus.md)
-
 **CADASTROS**
 - [Bancos](/cadastros/banco.md)
 - [Carteiras de Cobrança](/cadastros/cobrancacarteira.md)
@@ -41,17 +39,14 @@
 - [Unidades de Medida](/cadastros/unidademedida.md)
 - [Usuários](/cadastros/usuario.md)
 - [Vendedores](/cadastros/vendedor.md)
-
 **COMPRAS**
 - [Configurações](/compras/config-compras.md)
 - [Importar Notas](/compras/compranotas.md)
 - [Notas Fiscais](/compras/notacompra.md)
 - [Pedidos](/compras/pedidocompra.md)
-
 **CRM**
 - [Configurações](/crm/config-crm.md)
 - [Interações](/crm/interacoespessoa.md)
-
 **E-MAILS**
 - Campanhas
 - Configurações
@@ -64,13 +59,11 @@
 - SMS Saída
 - SMS Modelos
 - Spam
-
 **ESTOQUES**
 - [Configurações](/estoques/config-estoque.md)
 - [Estoques](/estoques/estoque.md)
 - [Movimento de estoque](/estoques/estoquemovimento.md)
 - [Transferências](/estoques/Transferencias.md)
-
 **FINANCEIRO**
 - Acertos entre unidades
 - Atualizar linha digitável
@@ -85,21 +78,17 @@
 - Remessa de Cobrança
 - Retorno de Cobrança
 - Transferência entre contas
-
 **OS**
 - Configurações
 - Ordem de Serviço
-
 **PCP**
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
 - [Configurações](/PCP/Configuracoes.md)
 - [Itens a produzir](/PCP/ItensAProduzir.md)
 - [Ordens de produção](/PCP/OrdensDeProducao.md)
-
 **PORTAL**
 - Configurações
 - Páginas
-
 **PROJETOS**
 - Configurações
 - Definição de cargas
@@ -108,7 +97,6 @@
 - Ordem de produção
 - Projetos
 - Transferência de produtos
-
 **RH**
 - [Configurações](/RH/configuracoes.md)
 - [Contas](/RH/contas.md)
@@ -117,7 +105,6 @@
 - [Ponto](/RH/ponto.md)
 - Recrutamento
 - [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
-
 **VENDAS**
 - Configurações
 - Consulta Valor
@@ -128,7 +115,5 @@
 - Pedidos
 - Pré-pedido
 - Processar Contratos
-
 **WHS**
 - [Coleta](/WHS/Coleta.md)
-
