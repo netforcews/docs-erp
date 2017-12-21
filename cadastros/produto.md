@@ -81,7 +81,7 @@ Campo | Descrição
 <br>
 
 ## Compra/Venda
-![produto.compra_venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.compra_venda.png)
+![produto.compra-venda](https://raw.githubusercontent.com/netforcews/docs-erp/master/cadastros/imagens/produto.compra-venda.png)
 
 Campo | Descrição
 --:|---
