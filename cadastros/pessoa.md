@@ -29,11 +29,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome.
-**Marca** | Informe a marca.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Marca** | Informe a marca. Por padrão, este campo é obrigatório.
 **Inscrição** | Apresenta o código.
 **CNPJ/CPF** | Informe o CNPJ/CPF.
-**Tipo** | Selecione o tipo.
+**Tipo** | Selecione o tipo. Por padrão, este campo é obrigatório.
 **Inscr.Estadual** | Inscrição Estadual (Pessoas isentas informar ISENTO)
 **Inscr.Municipal** | Inscrição municipal (Pessoas isentas informar ISENTO)
 **Ramo Atividade** | Selecione o ramo de atividade.
@@ -44,8 +44,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Selecione o estado.
-**Município** | Selecione o município.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
+**Município** | Selecione o município. Por padrão, este campo é obrigatório.
 **Transportadora** | Selecione a transportadora.
 **Retira na empresa** | Informe se se retira na empresa.
 **Banco** | Selecione o banco.
@@ -59,13 +59,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**DDD** | Informe o DDD.
-**Telefone** | Informe o telefone.
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
 **Fax** | Informe o fax.
 **Celular** | Informe o celular.
 **Contato** | Informe o contato.
 **Contato2** | Informe o contato.
-**E-mail** | Informe o e-mail.
+**E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
 **E-mail Financeiro** | Informe o e-mail.
 **E-mail Compras** | Informe o e-mail.
 **E-mail Vendas** | Informe o e-mail.
@@ -79,7 +79,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | Informe a situação.
+**Situação** | Informe a situação. Por padrão, este campo é obrigatório.
 **Data Situação** | Apresenta a data de situção.
 **Região Venda** | Selecione a região de venda.
 **Responsável** | Selecione o responsável.
