@@ -31,7 +31,7 @@ Campo | Descrição
 --:|---
 **Nome** | Informe o nome.
 **Marca** | Informe a marca.
-**Inscrição** | Apresenta o código. Este campo é obrigatório.
+**Inscrição** | Apresenta o código.
 **CNPJ/CPF** | Informe o CNPJ/CPF.
 **Tipo** | Selecione o tipo.
 **Inscr.Estadual** | Inscrição Estadual (Pessoas isentas informar ISENTO)
@@ -49,7 +49,7 @@ Campo | Descrição
 **Transportadora** | Selecione a transportadora.
 **Retira na empresa** | Informe se se retira na empresa.
 **Banco** | Selecione o banco.
-**Data Cadastro** | Apresenta a data de cadastro. Este campo é obrigatório.
+**Data Cadastro** | Apresenta a data de cadastro.
 **País** | Informe o país.
 **Empresa** | Informe a empresa.
 <br>
@@ -80,12 +80,12 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Situação** | Informe a situação.
-**Data Situação** | Apresenta a data de situção. Este campo é obrigatório.
+**Data Situação** | Apresenta a data de situção.
 **Região Venda** | Selecione a região de venda.
 **Responsável** | Selecione o responsável.
 **Classificação** | Selecione a classificação.
 **Crédito** | Informe o crédito.
-**Ultima Compra** | Apresenta a última compra. Este campo é obrigatório.
+**Ultima Compra** | Apresenta a última compra.
 **Freq. de Compra** | Frequência de compra
 **Margem Venda** | Margem de Venda utilizada para o cálculo de venda de um produto ou serviço para este cliente
 **Condição Pagto** | Selecione a condição de pagamento.
