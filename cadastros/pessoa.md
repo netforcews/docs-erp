@@ -29,29 +29,29 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe a região de venda
-**Marca** | Informe a região de venda
-**Inscrição** | Informe a região de venda
-**CNPJ/CPF** | Informe a região de venda
-**Tipo** | Informe a região de venda
+**Nome** | Informe o nome
+**Marca** | Informe a marca
+**Inscrição** | Informe o código
+**CNPJ/CPF** | Informe o CNPJ/CPF
+**Tipo** | Informe o tipo
 **Inscr.Estadual** | Inscrição Estadual (Pessoas isentas informar ISENTO)
 **Inscr.Municipal** | Inscrição municipal (Pessoas isentas informar ISENTO)
-**Ramo Atividade** | Informe a região de venda
-**Data Nasc.** | Informe a região de venda
-**RG** | Informe a região de venda
-**Logradouro** | Informe a região de venda
-**Número** | Informe a região de venda
-**Complemento** | Informe a região de venda
-**Bairro** | Informe a região de venda
-**CEP** | Informe a região de venda
-**Estado** | Informe a região de venda
-**Município** | Informe a região de venda
-**Transportadora** | Informe a região de venda
-**Retira na empresa** | Informe a região de venda
-**Banco** | Informe a região de venda
-**Data Cadastro** | Informe a região de venda
-**País** | Informe a região de venda
-**Empresa** | Informe a região de venda
+**Ramo Atividade** | Informe o ramo de atividade
+**Data Nasc.** | Informe a data de nascimento
+**RG** | Informe o RG
+**Logradouro** | Informe o logradouro
+**Número** | Informe o número
+**Complemento** | Informe o complemento
+**Bairro** | Informe o bairro
+**CEP** | Informe o CEP
+**Estado** | Informe o estado
+**Município** | Informe o município
+**Transportadora** | Informe a transportadora
+**Retira na empresa** | Informe se retira na empresa
+**Banco** | Informe o banco
+**Data Cadastro** | Informe a data de cadastro
+**País** | Informe o país
+**Empresa** | Informe a empresa
 <br>
 
 ## Contatos
@@ -59,19 +59,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**DDD** | Informe a região de venda
-**Telefone** | Informe a região de venda
-**Fax** | Informe a região de venda
-**Celular** | Informe a região de venda
-**Contato** | Informe a região de venda
-**Contato2** | Informe a região de venda
-**E-mail** | Informe a região de venda
-**E-mail Financeiro** | Informe a região de venda
-**E-mail Compras** | Informe a região de venda
-**E-mail Vendas** | Informe a região de venda
-**E-mail Inform.** | Informe a região de venda
-**E-mail NFE** | Informe a região de venda
-**WebSite** | Informe a região de venda
+**DDD** | Informe o DDD
+**Telefone** | Informe o telefone
+**Fax** | Informe o fax
+**Celular** | Informe o celular
+**Contato** | Informe o contato
+**Contato2** | Informe o contato
+**E-mail** | Informe o e-mail
+**E-mail Financeiro** | Informe o e-mail
+**E-mail Compras** | Informe o e-mail
+**E-mail Vendas** | Informe o e-mail
+**E-mail Inform.** | Informe o e-mail
+**E-mail NFE** | Informe o e-mail
+**WebSite** | Informe o website
 <br>
 
 ## Configurações
@@ -79,29 +79,29 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | Informe a região de venda
-**Data Situação** | Informe a região de venda
+**Situação** | Informe a situação
+**Data Situação** | Informe a data de situção
 **Região Venda** | Informe a região de venda
-**Responsável** | Informe a região de venda
-**Classificação** | Informe a região de venda
-**Crédito** | Informe a região de venda
-**Ultima Compra** | Informe a região de venda
+**Responsável** | Informe o responsável
+**Classificação** | Informe a classificação
+**Crédito** | Informe o crédito
+**Ultima Compra** | Informe a última compra
 **Freq. de Compra** | Frequência de compra
 **Margem Venda** | Margem de Venda utilizada para o cálculo de venda de um produto ou serviço para este cliente
-**Condição Pagto** | Informe a região de venda
-**Forma Pagto** | Informe a região de venda
-**Frete** | Informe a região de venda
+**Condição Pagto** | Informe a condição de pagamento
+**Forma Pagto** | Informe a forma de pagamento
+**Frete** | Informe o frete
 **Prazo de Entrega** | Prazo de entrega do fornecedor para as compras (em dias)
 **Receita** | Conta Contábil para receita
 **Despesa** | Conta Contábil de despesa
 **Cliente tem o benefício do REIDI** | REIDI - REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRAESTRUTURA
-**Cliente** | Informe a região de venda
-**Fornecedor** | Informe a região de venda
-**Transportadora** | Informe a região de venda
-**Banco** | Informe a região de venda
-**Funcionário** | Informe a região de venda
-**Acesso ao portal habilitado** | Informe a região de venda
-**Senha** | Informe a região de venda
+**Cliente** | Informe se é cliente
+**Fornecedor** | Informe o fornecedor
+**Transportadora** | Informe a transportadora
+**Banco** | Informe se é banco
+**Funcionário** | Informe o funcionário
+**Acesso ao portal habilitado** | Informe se o acesso ao portal está habilitado
+**Senha** | Informe a senha
 **Enviar aviso de senha para a pessoa** | Se esta opção foi marcada será enviado para a pessoa um e-mail informando a sua senha
 <br>
 
@@ -110,20 +110,20 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logradouro** | Informe a região de venda
-**Número** | Informe a região de venda
-**Complemento** | Informe a região de venda
-**Bairro** | Informe a região de venda
-**CEP** | Informe a região de venda
-**Estado** | Informe a região de venda
-**Município** | Informe a região de venda
-**Logradouro** | Informe a região de venda
-**Número** | Informe a região de venda
-**Complemento** | Informe a região de venda
-**Bairro** | Informe a região de venda
-**CEP** | Informe a região de venda
-**Estado** | Informe a região de venda
-**Município** | Informe a região de venda
+**Logradouro** | Informe o logradouro
+**Número** | Informe o número
+**Complemento** | Informe o complemento
+**Bairro** | Informe o bairro
+**CEP** | Informe o CEP
+**Estado** | Informe o estado
+**Município** | Informe o município
+**Logradouro** | Informe o logradouro
+**Número** | Informe o número
+**Complemento** | Informe o complemento
+**Bairro** | Informe o bairro
+**CEP** | Informe o CEP
+**Estado** | Informe o estado
+**Município** | Informe o município
 <br>
 
 ## Observação
@@ -131,7 +131,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Observação** | Informe a região de venda
+**Observação** | Informe a observação
 **Info.Internas** | Informações internas. Essas informações não aparecem nos relatórios
 <br>
 
@@ -140,7 +140,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Localização** | Informe a região de venda
+**Localização** | Informe a localização
 <br>
 
 ## Links
