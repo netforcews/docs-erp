@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Símbolo** | 
-**Descrição** | 
-**P.Fra** | 
+**Símbolo** | Apresenta .
+**Descrição** | Apresenta .
+**P.Fra** | Apresenta .
 <br>
 
 ## Geral
@@ -22,9 +22,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Símbolo** | 
-**Permite Fracionar** | 
-**Descrição** | 
+**Símbolo** | Informe . Por padrão, este campo é obrigatório.
+**Permite Fracionar** | Informe se .
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

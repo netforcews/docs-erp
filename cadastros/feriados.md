@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | 
-**Descrição** | 
-**Tipo** | 
-**Exp** | 
+**Data** | Apresenta .
+**Descrição** | Apresenta .
+**Tipo** | Apresenta .
+**Exp** | Apresenta .
 <br>
 
 ## Geral
@@ -23,12 +23,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | 
-**Descrição** | 
-**Tipo** | 
-**Tem Expediênte** | 
-**Info** | 
-**Empresas** | 
+**Data** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Tipo** | Selecione . Por padrão, este campo é obrigatório.
+**Tem Expediênte** | Informe se .
+**Info** | Informe .
+**Empresas** | Informe .
 <br>
 
 ## Comandos

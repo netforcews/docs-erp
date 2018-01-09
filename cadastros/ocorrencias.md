@@ -12,11 +12,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Prod** | 
-**Exp** | 
-**Ate** | 
-**Atv** | 
+**Descrição** | Apresenta .
+**Prod** | Apresenta .
+**Exp** | Apresenta .
+**Ate** | Apresenta .
+**Atv** | Apresenta .
 <br>
 
 ## Geral
@@ -24,12 +24,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Ativo** | 
-**Produção** | 
-**Expedição** | 
-**Atendimento** | 
-**Departamento** | 
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Ativo** | Informe se .
+**Produção** | Informe se .
+**Expedição** | Informe se .
+**Atendimento** | Informe se .
+**Departamento** | Selecione . Por padrão, este campo é obrigatório.
 <br>
 
 ## Solução
@@ -37,7 +37,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Possível Solução** | 
+**Possível Solução** | Informe .
 <br>
 <br>
 <br>

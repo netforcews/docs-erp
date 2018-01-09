@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Estrutura** | 
-**Descrição** | 
+**Estrutura** | Apresenta .
+**Descrição** | Apresenta .
 <br>
 
 ## Geral
@@ -21,10 +21,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Estrutura** | 
-**Descrição** | 
-**Classificação** | 
-**Tipo** | 
+**Estrutura** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Classificação** | Selecione . Por padrão, este campo é obrigatório.
+**Tipo** | Selecione . Por padrão, este campo é obrigatório.
 <br>
 
 ## Unidades
@@ -32,8 +32,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | 
-**Contra Parte** | 
+**Info** | Informe .
+**Contra Parte** | Selecione .
 <br>
 <br>
 <br>

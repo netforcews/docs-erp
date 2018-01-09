@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Banco** | 
-**Cód** | 
-**Motivo** | 
+**Banco** | Apresenta .
+**Cód** | Apresenta .
+**Motivo** | Apresenta .
 <br>
 
 ## Geral
@@ -22,9 +22,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Banco** | 
-**Código** | 
-**Motivo** | 
+**Banco** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Motivo** | Informe . Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

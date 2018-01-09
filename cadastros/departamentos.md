@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | 
-**Responsável** | 
-**Cód** | 
+**Nome** | Apresenta .
+**Responsável** | Apresenta .
+**Cód** | Apresenta .
 <br>
 
 ## Geral
@@ -22,14 +22,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | 
-**Código** | 
-**Responsável** | 
+**Nome** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Responsável** | Selecione . Por padrão, este campo é obrigatório.
 **E-mail** | E-mail do departamento, quando esse campo estiver em branco será utilizado o e-mail do responsável
-**Notificar1** | 
-**Notificar2** | 
-**Notificar3** | 
-**Notificar4** | 
+**Notificar1** | Selecione .
+**Notificar2** | Selecione .
+**Notificar3** | Selecione .
+**Notificar4** | Selecione .
 <br>
 <br>
 <br>

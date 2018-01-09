@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**NCM** | 
-**Descrição** | 
+**NCM** | Apresenta .
+**Descrição** | Apresenta .
 <br>
 
 ## Geral
@@ -21,13 +21,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**NCM** | 
-**Descrição** | 
-**Aliq.Nac** | 
-**Aliq. Imp** | 
-**Aliq.Est** | 
-**Aliq.Municipal** | 
-**Aliq.Total** | 
+**NCM** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Aliq.Nac** | Informe .
+**Aliq. Imp** | Informe .
+**Aliq.Est** | Informe .
+**Aliq.Municipal** | Informe .
+**Aliq.Total** | Apresenta .
 <br>
 <br>
 <br>

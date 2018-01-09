@@ -10,16 +10,16 @@ Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas*
 
 Campo | Descrição
 --:|---
-**Estado** | 
-**Município** | 
-**Situação** | 
-**Regição de Venda** | 
-**Classificação** | 
-**Cliente** | 
-**Fornecedor** | 
-**Transportadora** | 
-**Banco** | 
-**Funcionário** | 
+**Estado** | Selecione .
+**Município** | Selecione .
+**Situação** | Informe .
+**Regição de Venda** | Selecione .
+**Classificação** | Selecione .
+**Cliente** | Informe se .
+**Fornecedor** | Informe se .
+**Transportadora** | Informe se .
+**Banco** | Informe se .
+**Funcionário** | Informe se .
 <br>
 <br>
 <br>

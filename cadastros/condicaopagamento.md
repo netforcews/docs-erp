@@ -12,12 +12,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Informativo** | 
-**Prazo Médio** | 
-**Atv** | 
-**P.V.** | 
-**P.C.** | 
+**Descrição** | Apresenta .
+**Informativo** | Apresenta .
+**Prazo Médio** | Apresenta .
+**Atv** | Apresenta .
+**P.V.** | Apresenta .
+**P.C.** | Apresenta .
 <br>
 
 ## Geral
@@ -25,39 +25,39 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Informativo** | 
-**Complemento** | 
+**Descrição** | Apresenta .
+**Informativo** | Apresenta .
+**Complemento** | Informe .
 **Juros (a.m)** | Juros a ser acrescido em cada parcela (a base do juros informada deve ser ao mês)
-**Ativo** | 
-**Para Venda** | 
-**Para Compra** | 
-**Parc. 01** | 
-**%Dia01** | 
-**Parc. 02** | 
-**%Dia02** | 
-**Parc. 03** | 
-**%Dia03** | 
-**Parc. 04** | 
-**%Dia04** | 
-**Parc. 05** | 
-**%Dia05** | 
-**Parc. 06** | 
-**%Dia06** | 
-**Parc. 07** | 
-**%Dia07** | 
-**Parc. 08** | 
-**%Dia08** | 
-**Parc. 09** | 
-**%Dia09** | 
-**Parc. 10** | 
-**%Dia10** | 
-**Parc. 11** | 
-**%Dia11** | 
-**Parc. 12** | 
-**%Dia12** | 
-**Num.Parcelas** | 
-**Média** | 
+**Ativo** | Informe se .
+**Para Venda** | Informe se .
+**Para Compra** | Informe se .
+**Parc. 01** | Informe . Por padrão, este campo é obrigatório.
+**%Dia01** | Informe . Por padrão, este campo é obrigatório.
+**Parc. 02** | Informe .
+**%Dia02** | Informe .
+**Parc. 03** | Informe .
+**%Dia03** | Informe .
+**Parc. 04** | Informe .
+**%Dia04** | Informe .
+**Parc. 05** | Informe .
+**%Dia05** | Informe .
+**Parc. 06** | Informe .
+**%Dia06** | Informe .
+**Parc. 07** | Informe .
+**%Dia07** | Informe .
+**Parc. 08** | Informe .
+**%Dia08** | Informe .
+**Parc. 09** | Informe .
+**%Dia09** | Informe .
+**Parc. 10** | Informe .
+**%Dia10** | Informe .
+**Parc. 11** | Informe .
+**%Dia11** | Informe .
+**Parc. 12** | Informe .
+**%Dia12** | Informe .
+**Num.Parcelas** | Apresenta .
+**Média** | Apresenta .
 <br>
 <br>
 <br>

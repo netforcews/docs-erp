@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Descrição** | 
-**Situação** | 
-**Cor** | 
+**Número** | Apresenta .
+**Descrição** | Apresenta .
+**Situação** | Apresenta .
+**Cor** | Apresenta .
 <br>
 
 ## Geral
@@ -23,10 +23,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Situação** | 
-**Descrição** | 
-**Cor** | 
+**Número** | Informe . Por padrão, este campo é obrigatório.
+**Situação** | Selecione . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Cor** | Informe .
 <br>
 <br>
 <br>

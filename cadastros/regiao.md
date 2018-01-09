@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | 
-**Nome** | 
+**Código** | Apresenta .
+**Nome** | Apresenta .
 <br>
 
 ## Geral
@@ -21,8 +21,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | 
-**Nome** | 
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Nome** | Informe . Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

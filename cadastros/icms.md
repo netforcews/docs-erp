@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Origem** | 
-**Destino** | 
-**Percentual** | 
+**Origem** | Apresenta .
+**Destino** | Apresenta .
+**Percentual** | Apresenta .
 <br>
 
 ## Geral
@@ -22,9 +22,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Origem** | 
-**Destino** | 
-**Percentual** | 
+**Origem** | Informe . Por padrão, este campo é obrigatório.
+**Destino** | Informe . Por padrão, este campo é obrigatório.
+**Percentual** | Informe . Por padrão, este campo é obrigatório.
 <br>
 
 ## Informações Complementares
@@ -32,16 +32,16 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**infAdFisco** | 
-**Ativo** | 
-**infCpl - Parcial** | 
-**Ativo** | 
-**Agrupar Itens** | 
-**Utilizar tag ICMS90** | 
-**infCpl - Total** | 
-**Ativo** | 
-**Agrupar Itens** | 
-**X** | 
+**infAdFisco** | Informe .
+**Ativo** | Informe se .
+**infCpl - Parcial** | Informe .
+**Ativo** | Informe se .
+**Agrupar Itens** | Informe se .
+**Utilizar tag ICMS90** | Informe se .
+**infCpl - Total** | Informe .
+**Ativo** | Informe se .
+**Agrupar Itens** | Informe se .
+**X** | Informe .
 <br>
 <br>
 <br>

@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Sigla** | 
-**Nome** | 
-**Região** | 
-**Código** | 
+**Sigla** | Apresenta .
+**Nome** | Apresenta .
+**Região** | Apresenta .
+**Código** | Apresenta .
 <br>
 
 ## Geral
@@ -23,13 +23,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sigla** | 
-**Código** | 
-**Nome** | 
-**Região** | 
-**DDD** | 
-**Inicio** | 
-**Término** | 
+**Sigla** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Nome** | Informe . Por padrão, este campo é obrigatório.
+**Região** | Informe . Por padrão, este campo é obrigatório.
+**DDD** | Informe . Por padrão, este campo é obrigatório.
+**Inicio** | Informe . Por padrão, este campo é obrigatório.
+**Término** | Informe . Por padrão, este campo é obrigatório.
 **% FCP** | Fundo de Combate a Pobreza
 <br>
 

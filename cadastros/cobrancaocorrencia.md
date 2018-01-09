@@ -12,11 +12,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Banco** | 
-**Cód** | 
-**Descrição** | 
-**EC** | 
-**Situação** | 
+**Banco** | Apresenta .
+**Cód** | Apresenta .
+**Descrição** | Apresenta .
+**EC** | Apresenta .
+**Situação** | Apresenta .
 <br>
 
 ## Geral
@@ -24,15 +24,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Banco** | 
-**Código** | 
-**Descrição** | 
-**Situação** | 
+**Banco** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Situação** | Selecione . Por padrão, este campo é obrigatório.
 **Forma de Pagto** | Forma de pagamento que o título deve possuir quando receber esta ocorrência.
-**Em Cobrança** | 
-**Limpar dados do Boleto** | 
+**Em Cobrança** | Informe se .
+**Limpar dados do Boleto** | Informe se .
 **Reenviar E-mail** | Reenviar e-mail do boleto
-**Atualizar vencimento** | 
+**Atualizar vencimento** | Informe se .
 <br>
 <br>
 <br>

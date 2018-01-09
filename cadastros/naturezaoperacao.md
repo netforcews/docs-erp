@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**CFOP** | 
-**Descrição** | 
-**Aut** | 
+**CFOP** | Apresenta .
+**Descrição** | Apresenta .
+**Aut** | Apresenta .
 <br>
 
 ## Geral
@@ -22,18 +22,18 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**CFOP** | 
-**Tipo** | 
-**Descrição** | 
-**Gerar movimentação financeira** | 
-**Gerar tributação** | 
-**Gerar movimentação de estoque** | 
-**Devolução** | 
-**Demonstração** | 
-**Autorizado** | 
-**Destaca aproveitamento de ICMS do SIMPLES** | 
-**Teste de sistema** | 
-**Requer detalhamento de combustível / lubrificantes** | 
+**CFOP** | Apresenta . Por padrão, este campo é obrigatório.
+**Tipo** | Selecione . Por padrão, este campo é obrigatório.
+**Descrição** | Apresenta . Por padrão, este campo é obrigatório.
+**Gerar movimentação financeira** | Informe se .
+**Gerar tributação** | Informe se .
+**Gerar movimentação de estoque** | Informe se .
+**Devolução** | Informe se .
+**Demonstração** | Informe se .
+**Autorizado** | Informe se .
+**Destaca aproveitamento de ICMS do SIMPLES** | Informe se .
+**Teste de sistema** | Informe se .
+**Requer detalhamento de combustível / lubrificantes** | Informe se .
 **Cód Nat.Oper** | Código da natureza de operação quando para serviço
 <br>
 <br>

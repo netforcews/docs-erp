@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | 
+**Nome** | Apresenta .
 <br>
 
 ## Geral
@@ -20,7 +20,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | 
+**Nome** | Informe . Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

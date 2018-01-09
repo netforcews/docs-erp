@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Cód** | 
-**Descrição** | 
-**ME** | 
+**Cód** | Apresenta .
+**Descrição** | Apresenta .
+**ME** | Apresenta .
 <br>
 
 ## Geral
@@ -22,12 +22,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | 
-**Descrição** | 
-**Mov. Estoque** | 
-**Movimenta estoque pela OP** | 
-**Exige ficha do produto** | 
-**Exige código de barra nos produtos** | 
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Mov. Estoque** | Informe se .
+**Movimenta estoque pela OP** | Informe se .
+**Exige ficha do produto** | Informe se .
+**Exige código de barra nos produtos** | Informe se .
 <br>
 <br>
 <br>

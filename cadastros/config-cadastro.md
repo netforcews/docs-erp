@@ -10,11 +10,11 @@ Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastro
 
 Campo | Descrição
 --:|---
-**Condição Pagto** | 
-**Forma Pagto** | 
-**Assumir como responsável o usuário logado** | 
-**Exibir localização no cadastro** | 
-**Verificar possível duplicidade no cadastro de pessoas ao salvar** | 
+**Condição Pagto** | Selecione .
+**Forma Pagto** | Informe .
+**Assumir como responsável o usuário logado** | Informe se .
+**Exibir localização no cadastro** | Informe se .
+**Verificar possível duplicidade no cadastro de pessoas ao salvar** | Informe se .
 <br>
 <br>
 <br>

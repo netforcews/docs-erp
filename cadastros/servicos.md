@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | 
-**Descrição** | 
-**Aliquota** | 
+**Código** | Apresenta .
+**Descrição** | Apresenta .
+**Aliquota** | Apresenta .
 <br>
 
 ## Geral
@@ -22,9 +22,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | 
-**Aliquota** | 
-**Descrição** | 
+**Código** | Informe . Por padrão, este campo é obrigatório.
+**Aliquota** | Informe . Por padrão, este campo é obrigatório.
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

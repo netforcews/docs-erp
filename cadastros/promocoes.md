@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | 
-**Até** | 
-**Situação** | 
-**Nome** | 
+**De** | Apresenta .
+**Até** | Apresenta .
+**Situação** | Apresenta .
+**Nome** | Apresenta .
 <br>
 
 ## Geral

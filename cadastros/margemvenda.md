@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Margem (%)** | 
-**Asumir** | 
+**Descrição** | Apresenta .
+**Margem (%)** | Apresenta .
+**Asumir** | Apresenta .
 <br>
 
 ## Geral
@@ -22,10 +22,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Margem (%)** | 
-**Assumir** | 
-**Campo** | 
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Margem (%)** | Informe . Por padrão, este campo é obrigatório.
+**Assumir** | Informe se .
+**Campo** | Apresenta . Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

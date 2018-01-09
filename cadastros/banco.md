@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | 
-**Nome** | 
-**Telefone** | 
-**Número** | 
+**Marca** | Apresenta .
+**Nome** | Apresenta .
+**Telefone** | Apresenta .
+**Número** | Apresenta .
 <br>
 
 ## Geral
@@ -24,9 +24,9 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome do banco.
-**Marca** | 
-**Número** | 
-**Telefone** | 
+**Marca** | Informe . Por padrão, este campo é obrigatório.
+**Número** | Informe .
+**Telefone** | Informe .
 <br>
 
 ## Links
