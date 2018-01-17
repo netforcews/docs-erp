@@ -1,4 +1,4 @@
-# Importando CT-e
+# Importar CT-e
 
 Conhecimento de Transporte Eletrônico (CT-e) é um documento fiscal brasileiro emitido pelas transportadoras de carga para 
 cobrir as mercadorias entre a localidade de origem e o destinatário da carga. Para a própria empresa transportadora, esse documento 
