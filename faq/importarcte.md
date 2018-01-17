@@ -11,18 +11,18 @@ Para fazer a importação de uma CT-e no *Sistema NetForce* siga os seguintes pa
 
 1. Entre no módulo ```Compras``` e em seguida clique na opção do menu lateral esquerdo ```Importar CT-e```:
 
-![importar](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/importar.png)
+![importar](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imagens/importarcte01.png)
 
 2. Em seguida clique no comando **Importar CT-e** e na tela que se abre procure e selecione o XML da CT-e em **Escolher Arquivo**. Por fim, clique em **Anexar**:
 
-![selecionar-xml](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/selecionar-xml.png)
-![selecionar-xml2](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/selecionar-xml2.png)
+![selecionar-xml](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imagens/importarcte02.png)
+![selecionar-xml2](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imagens/importarcte03.png)
 
 3. Depois de realizar esses passos e caso tudo der certo, você retornará para o grid e a mensagem 
 em verde ```XML do CT-e importado com sucesso!``` irá aparecer.
 Caso der algum erro, procure por ele na sessão de **Erros** nesse mesmo manual que você está lendo.
 
-![sucesso](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/sucesso.png)
+![sucesso](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imagens/importarcte04.png)
 
 ## Erros
 
@@ -73,7 +73,7 @@ Ocorreu algum conflito no sistema, apenas repita os procedimentos e tente anexar
 
 ## Visualizando a CT-e
 
-![interface](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imgs/interface.png)
+![interface](https://raw.githubusercontent.com/netforcews/docs-erp/master/compras/imagens/importarcte05.png)
 
 ### Geral
 
