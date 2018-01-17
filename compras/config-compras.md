@@ -10,17 +10,17 @@ Para acessar esta opção, selecione o módulo **Compras**, opção **Geral**, o
 
 Campo | Descrição
 --:|---
-**Info Limites** | 
+**Info Limites** | Informe .
 **Limite Geral** | O limite de compra é um percentual sob os valores do vendas (pedidos para o mês + notas emtidas no mês)
 **Limite Geral Atual** | Limite geral mensal de compra
 **Por Fornecedor** | % do limite geral de compra por fornecedor
-**Data emissão do PEDIDO somente do dia** | 
+**Data emissão do PEDIDO somente do dia** | Informe se .
 **Permitir Datas Retroativa** | Marcando esse flag você permitirá a emissão de pedidos de compra com datas retroativas.
-**Permitir alterar número do pedido** | 
-**Permitir adicionar produto de qualquer fornecedor no pedido** | 
-**Permite várias vezes o mesmo produto no pedido** | 
-**Info Faturamento** | 
-**Conta Contábil** | 
+**Permitir alterar número do pedido** | Informe se .
+**Permitir adicionar produto de qualquer fornecedor no pedido** | Informe se .
+**Permite várias vezes o mesmo produto no pedido** | Informe se .
+**Info Faturamento** | Informe .
+**Conta Contábil** | Selecione .
 <br>
 
 ## Avisos por E-mail
@@ -28,12 +28,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info do envio do PC por e-mail** | 
-**Enviar PC por e-mail** | 
-**Tempo (minutos)** | 
-**Info Solicitação Posicionamento** | 
-**Enviar Solicitação por e-mail** | 
-**Tempo (dias)** | 
+**Info do envio do PC por e-mail** | Informe .
+**Enviar PC por e-mail** | Informe se .
+**Tempo (minutos)** | Informe .
+**Info Solicitação Posicionamento** | Informe .
+**Enviar Solicitação por e-mail** | Informe se .
+**Tempo (dias)** | Informe .
 <br>
 <br>
 <br>

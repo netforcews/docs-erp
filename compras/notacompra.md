@@ -12,13 +12,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | 
-**Fornecedor** | 
-**Emissão** | 
-**Número** | 
-**Valor Total** | 
-**Pedido** | 
-**Emp** | 
+**&nbsp;** | Apresenta .
+**Fornecedor** | Apresenta .
+**Emissão** | Apresenta .
+**Número** | Apresenta .
+**Valor Total** | Apresenta .
+**Pedido** | Apresenta .
+**Emp** | Apresenta .
 <br>
 
 ## Geral
@@ -26,47 +26,47 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Emissão** | 
-**Funcionário** | 
-**Empresa** | 
-**Fornecedor** | 
-**Nat.Operação** | 
-**Cond.Pagto** | 
-**Peso Líquido** | 
-**Danfe PDF** | 
-**Danfe XML** | 
-**Número** | 
-**Emissão** | 
-**Previsão de Saída** | 
-**Enviar OC após** | 
-**Aviso enviado por e-mail** | 
-**Transportadora** | 
-**Frete** | 
-**CT. Número** | 
-**Tipo Transporte** | 
-**Peso Bruto** | 
-**Volumes** | 
-**Frete Peso/Vol** | 
-**Frete Valor GRIS** | 
-**Pedágio** | 
-**Despacho** | 
-**ESP** | 
-**Outras** | 
-**Total Frete** | 
-**Base de Cálculo** | 
-**Aliquota** | 
-**Valor ICMS** | 
-**Valor Itens** | 
-**IPI** | 
-**ICMS Base** | 
-**ICMS Valor** | 
-**ICMS Base Sub.** | 
-**ICMS Valor Sub.** | 
-**Valor Frete** | 
-**Valor Desconto** | 
-**Valor Total** | 
-**Observação** | 
+**Número** | Apresenta . Por padrão, este campo é obrigatório.
+**Emissão** | Apresenta .
+**Funcionário** | Apresenta .
+**Empresa** | Apresenta .
+**Fornecedor** | Apresenta .
+**Nat.Operação** | Apresenta .
+**Cond.Pagto** | Apresenta .
+**Peso Líquido** | Apresenta .
+**Danfe PDF** | Informe .
+**Danfe XML** | Informe .
+**Número** | Apresenta .
+**Emissão** | Apresenta .
+**Previsão de Saída** | Apresenta .
+**Enviar OC após** | Apresenta .
+**Aviso enviado por e-mail** | Informe se .
+**Transportadora** | Apresenta .
+**Frete** | Apresenta .
+**CT. Número** | Apresenta .
+**Tipo Transporte** | Apresenta .
+**Peso Bruto** | Apresenta .
+**Volumes** | Apresenta .
+**Frete Peso/Vol** | Apresenta .
+**Frete Valor GRIS** | Apresenta .
+**Pedágio** | Apresenta .
+**Despacho** | Apresenta .
+**ESP** | Apresenta .
+**Outras** | Apresenta .
+**Total Frete** | Apresenta .
+**Base de Cálculo** | Apresenta .
+**Aliquota** | Apresenta .
+**Valor ICMS** | Apresenta .
+**Valor Itens** | Apresenta .
+**IPI** | Apresenta .
+**ICMS Base** | Apresenta .
+**ICMS Valor** | Apresenta .
+**ICMS Base Sub.** | Apresenta .
+**ICMS Valor Sub.** | Apresenta .
+**Valor Frete** | Apresenta .
+**Valor Desconto** | Apresenta .
+**Valor Total** | Apresenta .
+**Observação** | Apresenta .
 <br>
 
 ## Histórico
@@ -74,7 +74,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Histórico** | 
+**Histórico** | Apresenta .
 <br>
 
 ## Comandos

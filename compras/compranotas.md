@@ -12,14 +12,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Série** | 
-**Emissão** | 
-**Fornecedor** | 
-**CNPJ Forn** | 
-**CNPJ Emp** | 
-**Total Nota** | 
-**Pedido** | 
+**Número** | Apresenta .
+**Série** | Apresenta .
+**Emissão** | Apresenta .
+**Fornecedor** | Apresenta .
+**CNPJ Forn** | Apresenta .
+**CNPJ Emp** | Apresenta .
+**Total Nota** | Apresenta .
+**Pedido** | Apresenta .
 <br>
 
 ## Geral
@@ -27,51 +27,51 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Série** | 
-**Chave** | 
-**Emissão** | 
+**Número** | Apresenta . Por padrão, este campo é obrigatório.
+**Série** | Apresenta .
+**Chave** | Apresenta .
+**Emissão** | Apresenta .
 **Estado/Aut** | Estado onde a nota foi autorizada
-**Nat.Operação** | 
-**Núm.Pedido** | 
-**CNPJ** | 
-**IE** | 
-**Razão Social** | 
-**Marca** | 
-**Logradouro** | 
-**Número** | 
-**Complemento** | 
-**Bairro** | 
-**CEP** | 
-**Estado** | 
-**Município** | 
-**CNPJ** | 
-**IE** | 
-**Razão Social** | 
-**Logradouro** | 
-**Número** | 
-**Complemento** | 
-**Bairro** | 
-**CEP** | 
-**Estado** | 
-**Município** | 
-**Telefone** | 
-**E-mail** | 
-**Base de Cálculo** | 
-**ICMS** | 
-**B.C. Subst.** | 
-**Subst.Trib** | 
-**Valor Produtos** | 
-**Frete** | 
-**Seguro** | 
-**Desconto** | 
-**II** | 
-**IPI** | 
-**PIS** | 
-**COFINS** | 
-**Outros** | 
-**Total Nota** | 
-**Total Tributado** | 
+**Nat.Operação** | Apresenta .
+**Núm.Pedido** | Selecione .
+**CNPJ** | Apresenta .
+**IE** | Apresenta .
+**Razão Social** | Apresenta .
+**Marca** | Apresenta .
+**Logradouro** | Apresenta .
+**Número** | Apresenta .
+**Complemento** | Apresenta .
+**Bairro** | Apresenta .
+**CEP** | Apresenta .
+**Estado** | Apresenta .
+**Município** | Apresenta .
+**CNPJ** | Apresenta .
+**IE** | Apresenta .
+**Razão Social** | Apresenta .
+**Logradouro** | Apresenta .
+**Número** | Apresenta .
+**Complemento** | Apresenta .
+**Bairro** | Apresenta .
+**CEP** | Apresenta .
+**Estado** | Apresenta .
+**Município** | Apresenta .
+**Telefone** | Apresenta .
+**E-mail** | Apresenta .
+**Base de Cálculo** | Apresenta .
+**ICMS** | Apresenta .
+**B.C. Subst.** | Apresenta .
+**Subst.Trib** | Apresenta .
+**Valor Produtos** | Apresenta .
+**Frete** | Apresenta .
+**Seguro** | Apresenta .
+**Desconto** | Apresenta .
+**II** | Apresenta .
+**IPI** | Apresenta .
+**PIS** | Apresenta .
+**COFINS** | Apresenta .
+**Outros** | Apresenta .
+**Total Nota** | Apresenta .
+**Total Tributado** | Apresenta .
 <br>
 
 ## Transporte
@@ -79,17 +79,17 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**CNPJ/CPF** | 
-**IE** | 
-**Nome/Razão Social** | 
-**Endereço** | 
-**Estado** | 
-**Municipio** | 
-**Frete** | 
-**Volumes** | 
-**Espécie** | 
-**Peso Líquido** | 
-**Peso Bruto** | 
+**CNPJ/CPF** | Apresenta .
+**IE** | Apresenta .
+**Nome/Razão Social** | Apresenta .
+**Endereço** | Apresenta .
+**Estado** | Apresenta .
+**Municipio** | Apresenta .
+**Frete** | Apresenta .
+**Volumes** | Apresenta .
+**Espécie** | Apresenta .
+**Peso Líquido** | Apresenta .
+**Peso Bruto** | Apresenta .
 <br>
 
 ## Informações
@@ -97,7 +97,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info.Adicional** | 
+**Info.Adicional** | Apresenta .
 <br>
 
 ## Comandos

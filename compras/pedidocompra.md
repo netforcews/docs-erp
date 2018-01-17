@@ -12,13 +12,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | 
-**Número** | 
-**Emissão** | 
-**Prev.Saída** | 
-**Fornecedor** | 
-**Valor Total** | 
-**Emp** | 
+**&nbsp;** | Apresenta .
+**Número** | Apresenta .
+**Emissão** | Apresenta .
+**Prev.Saída** | Apresenta .
+**Fornecedor** | Apresenta .
+**Valor Total** | Apresenta .
+**Emp** | Apresenta .
 <br>
 
 ## Geral
@@ -26,49 +26,49 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | 
-**Emissão** | 
-**Funcionário** | 
-**Empresa** | 
-**Fornecedor** | 
-**Nat.Operação** | 
-**Cond.Pagto** | 
-**Previsão de Saída** | 
+**Número** | Informe . Por padrão, este campo é obrigatório.
+**Emissão** | Apresenta . Por padrão, este campo é obrigatório.
+**Funcionário** | Apresenta . Por padrão, este campo é obrigatório.
+**Empresa** | Selecione . Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione . Por padrão, este campo é obrigatório.
+**Nat.Operação** | Selecione . Por padrão, este campo é obrigatório.
+**Cond.Pagto** | Selecione . Por padrão, este campo é obrigatório.
+**Previsão de Saída** | Informe . Por padrão, este campo é obrigatório.
 **Enviar OC após** | Se preenchido, o e-mail com o pedido de compra somente será enviado na data ou após esta data, na primeira oportunidade.
-**Concluído** | 
-**Aviso enviado por e-mail** | 
-**Pedido Aprovado** | 
-**Número** | 
-**Emissão** | 
-**Peso Líquido** | 
-**Danfe PDF** | 
-**Danfe XML** | 
-**Transportadora** | 
-**Frete** | 
-**CT.Número** | 
-**Tipo Transporte** | 
-**Peso Bruto** | 
-**Volumes** | 
-**Frete Peso/Vol** | 
-**Frete Valor GRIS** | 
-**Pedágio** | 
-**Despacho** | 
-**ESP** | 
-**Outras** | 
-**Total Frete** | 
-**Base de Cálculo** | 
-**Aliquota** | 
-**Valor ICMS** | 
-**Valor Itens** | 
-**IPI** | 
-**ICMS Base** | 
-**ICMS Valor** | 
-**ICMS Base Sub.** | 
-**ICMS Valor Sub.** | 
-**Valor Frete** | 
-**Valor Desconto** | 
-**Valor Total** | 
-**Observação** | 
+**Concluído** | Informe se .
+**Aviso enviado por e-mail** | Informe se .
+**Pedido Aprovado** | Informe se .
+**Número** | Informe .
+**Emissão** | Informe .
+**Peso Líquido** | Apresenta .
+**Danfe PDF** | Informe .
+**Danfe XML** | Informe .
+**Transportadora** | Selecione .
+**Frete** | Selecione . Por padrão, este campo é obrigatório.
+**CT.Número** | Informe .
+**Tipo Transporte** | Informe .
+**Peso Bruto** | Informe .
+**Volumes** | Informe .
+**Frete Peso/Vol** | Informe .
+**Frete Valor GRIS** | Informe .
+**Pedágio** | Informe .
+**Despacho** | Informe .
+**ESP** | Informe .
+**Outras** | Informe .
+**Total Frete** | Apresenta .
+**Base de Cálculo** | Apresenta .
+**Aliquota** | Apresenta .
+**Valor ICMS** | Apresenta .
+**Valor Itens** | Apresenta .
+**IPI** | Apresenta .
+**ICMS Base** | Apresenta .
+**ICMS Valor** | Apresenta .
+**ICMS Base Sub.** | Informe .
+**ICMS Valor Sub.** | Informe .
+**Valor Frete** | Informe .
+**Valor Desconto** | Informe .
+**Valor Total** | Apresenta .
+**Observação** | Informe .
 <br>
 
 ## Histórico
@@ -76,7 +76,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Histórico** | 
+**Histórico** | Apresenta .
 <br>
 
 ## Comandos
