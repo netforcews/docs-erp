@@ -53,17 +53,17 @@
 - [Interações](/crm/interacoespessoa.md)
 
 **E-MAILS**
-- Campanhas
-- Configurações
-- Contas
-- Entrada
-- Estilos
-- Filtros
-- Lixeira
-- Saída
-- SMS Saída
-- SMS Modelos
-- Spam
+- [Campanhas](/e-mails/emmcampanhas.md)
+- [Configurações](/e-mails/config-emails.md)
+- [Contas](/e-mails/emailcontas.md)
+- [Entrada](/e-mails/emailentrada.md)
+- [Estilos](/e-mails/emmestilos.md)
+- [Filtros](/e-mails/emailsfiltros.md)
+- [Lixeira](/e-mails/emaillixo.md)
+- [Saída](/e-mails/.md)
+- [SMS Saída](/e-mails/smssaida.md)
+- [SMS Modelos](/e-mails/smstemplate.md)
+- [Spam](/e-mails/emailspam.md)
 
 **ESTOQUES**
 - [Configurações](/estoques/config-estoque.md)
