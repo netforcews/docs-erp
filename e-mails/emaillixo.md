@@ -1,0 +1,47 @@
+# LIXEIRA
+<br>
+
+## Acesso
+Para acessar esta opção, selecione o módulo **E-mails**, opção **Geral**, opção **Lixeira**.
+<br>
+<br>
+
+## Grade
+Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
+![emaillixo.grid](https://raw.githubusercontent.com/netforcews/docs-erp/master/e-mails/imagens/emaillixo.grid.png)
+
+Campo | Descrição
+--:|---
+**De** | Apresenta .
+**Para** | Apresenta .
+**Assunto** | Apresenta .
+**Data** | Apresenta .
+<br>
+
+## E-mail
+![emaillixo.e-mail](https://raw.githubusercontent.com/netforcews/docs-erp/master/e-mails/imagens/emaillixo.e-mail.png)
+
+Campo | Descrição
+--:|---
+**Assunto** | Informe . Por padrão, este campo é obrigatório.
+**De** | Informe .
+**Data** | Apresenta .
+**Para** | Informe .
+**Para CC** | Informe .
+**Resp.Para** | Informe .
+**Texto** | Informe .
+<br>
+
+## Comandos
+### Excluir lote
+### Limpar lixeira
+<br>
+
+## Links
+### [Anexos](/geral/emailanexos.md)
+<br>
+<br>
+<br>
+<br>
+
+```SIS_EMAILS:EMAILLIXO```
