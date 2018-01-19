@@ -69,7 +69,7 @@
 - [Configurações](/estoques/config-estoque.md)
 - [Estoques](/estoques/estoque.md)
 - [Movimento de estoque](/estoques/estoquemovimento.md)
-- [Transferências](/estoques/Transferencias.md)
+- [Transferências](/estoques/estoquetransferencias.md)
 
 **FINANCEIRO**
 - Acertos entre unidades
