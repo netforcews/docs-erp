@@ -1,5 +1,5 @@
 # CONFIGURAÇÕES
-<br> 
+<br>
 
 ## Acesso
 Para acessar esta opção, selecione o módulo **Estoques**, opção **Geral**, opção **Configurações**.
