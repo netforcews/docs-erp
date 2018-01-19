@@ -60,7 +60,7 @@
 - [Estilos](/e-mails/emmestilos.md)
 - [Filtros](/e-mails/emailsfiltros.md)
 - [Lixeira](/e-mails/emaillixo.md)
-- [Saída](/e-mails/.md)
+- [Saída](/e-mails/emailsaida.md)
 - [SMS Saída](/e-mails/smssaida.md)
 - [SMS Modelos](/e-mails/smstemplate.md)
 - [Spam](/e-mails/emailspam.md)
