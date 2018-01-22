@@ -72,19 +72,19 @@
 - [Transferências](/estoques/estoquetransferencia.md)
 
 **FINANCEIRO**
-- [Acertos entre unidades](/financeirio/fin-acerto-unidades.md)
-- [Atualizar linha digitável](/financeirio/fin-gerar-lindigitavel.md)
-- [Configurações](/financeirio/config-financeiro.md)
-- [Contas correntes](/financeirio/ccmovimentos.md)
-- [Contas a Pagar](/financeirio/contasapagar.md)
-- [Contas a Receber](/financeirio/contasareceber.md)
-- [Emitir Duplicatas](/financeirio/contasareceberduplicata.md)
-- [Emitir Guia de Pagamento](/financeirio/contasapagarguia.md)
-- [Faturar comissões OS](/financeirio/os-faturarcomissoes.md)
-- [Gerar faturas de OSs](/financeirio/os-gerarfaturas.md)
-- [Remessa de Cobrança](/financeirio/contacobranca.md)
-- [Retorno de Cobrança](/financeirio/cobranca.md)
-- [Transferência entre contas](/financeirio/cctransferencias.md)
+- [Acertos entre unidades](/financeiro/fin-acerto-unidades.md)
+- [Atualizar linha digitável](/financeiro/fin-gerar-lindigitavel.md)
+- [Configurações](/financeiro/config-financeiro.md)
+- [Contas correntes](/financeiro/ccmovimentos.md)
+- [Contas a Pagar](/financeiro/contasapagar.md)
+- [Contas a Receber](/financeiro/contasareceber.md)
+- [Emitir Duplicatas](/financeiro/contasareceberduplicata.md)
+- [Emitir Guia de Pagamento](/financeiro/contasapagarguia.md)
+- [Faturar comissões OS](/financeiro/os-faturarcomissoes.md)
+- [Gerar faturas de OSs](/financeiro/os-gerarfaturas.md)
+- [Remessa de Cobrança](/financeiro/contacobranca.md)
+- [Retorno de Cobrança](/financeiro/cobranca.md)
+- [Transferência entre contas](/financeiro/cctransferencias.md)
 
 **OS**
 - Configurações
