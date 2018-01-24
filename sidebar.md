@@ -91,10 +91,10 @@
 - [Ordem de Serviço](/os/ordemservico.md)
 
 **PCP**
-- [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
-- [Configurações](/PCP/Configuracoes.md)
-- [Itens a produzir](/PCP/ItensAProduzir.md)
-- [Ordens de produção](/PCP/OrdensDeProducao.md)
+- [Apontamento de produção](/pcp/pcp-procurar.md)
+- [Configurações](/pcp/config-pcp.md)
+- [Itens a produzir](/pcp/pcp-itens.md)
+- [Ordens de produção](/pcp/ordemproducao.md)
 
 **PORTAL**
 - Configurações
