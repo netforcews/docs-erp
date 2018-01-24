@@ -97,8 +97,8 @@
 - [Ordens de produção](/pcp/ordemproducao.md)
 
 **PORTAL**
-- Configurações
-- Páginas
+- [Configurações](/portal/config-portal.md)
+- [Páginas](/portal/cmspaginas.md)
 
 **PROJETOS**
 - Configurações
