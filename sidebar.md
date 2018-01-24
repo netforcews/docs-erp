@@ -87,8 +87,8 @@
 - [Transferência entre contas](/financeiro/cctransferencias.md)
 
 **OS**
-- Configurações
-- Ordem de Serviço
+- [Configurações](/os/config-os.md)
+- [Ordem de Serviço](/os/ordemservico.md)
 
 **PCP**
 - [Apontamento de produção](/PCP/ApontamentoDeProducao.md)
