@@ -101,13 +101,13 @@
 - [Páginas](/portal/cmspaginas.md)
 
 **PROJETOS**
-- Configurações
-- Definição de cargas
-- Entrada de produtos
-- Logística
-- Ordem de produção
-- Projetos
-- Transferência de produtos
+- [Configurações](/projetos/config-projeto.md)
+- [Definição de cargas](/projetos/projetocargas.md)
+- [Entrada de produtos](/projetos/vdtmovimentodiretoentrada.md)
+- [Logística](/projetos/projetoslogistica.md)
+- [Ordem de produção](/projetos/vdtordemproducao.md)
+- [Projetos](/projetos/projeto.md)
+- [Transferência de produtos](/projetos/vdtmovimentotransferencia.md)
 
 **RH**
 - [Configurações](/RH/configuracoes.md)
