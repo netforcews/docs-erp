@@ -12,9 +12,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Descrição Usuário** | 
-**Cor** | 
+**Descrição** | Apresenta .
+**Descrição Usuário** | Apresenta .
+**Cor** | Apresenta .
 <br>
 
 ## Geral
@@ -22,15 +22,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | 
-**Descrição Usuário** | 
-**Estado** | 
-**Cor** | 
-**Solicitar Aprovação** | 
-**Requer Constatado** | 
-**Requer Solução** | 
-**Faturar** | 
-**Encerrado** | 
+**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Descrição Usuário** | Informe . Por padrão, este campo é obrigatório.
+**Estado** | Selecione . Por padrão, este campo é obrigatório.
+**Cor** | Informe . Por padrão, este campo é obrigatório.
+**Solicitar Aprovação** | Informe se .
+**Requer Constatado** | Informe se .
+**Requer Solução** | Informe se .
+**Faturar** | Informe se .
+**Encerrado** | Informe se .
 <br>
 
 ## Links
