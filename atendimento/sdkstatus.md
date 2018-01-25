@@ -32,10 +32,6 @@ Campo | Descrição
 **Faturar** | Informe se .
 **Encerrado** | Informe se .
 <br>
-
-## Links
-### [Fluxo](/geral/sdkfluxopara.md)
-<br>
 <br>
 <br>
 <br>
