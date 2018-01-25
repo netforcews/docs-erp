@@ -111,10 +111,10 @@
 
 **RH**
 - [Configurações](/rh/config-rh.md)
-- Equipamentos(/rh/logequipamento.md)
-- Funcionários(/rh/logfuncionario.md)
+- [Equipamentos](/rh/logequipamento.md)
+- [Funcionários](/rh/logfuncionario.md)
 - [Ponto](/rh/pontocompetencias.md)
-- Recrutamento(/rh/recrutamento.md)
+- [Recrutamento](/rh/recrutamento.md)
 
 **VENDAS**
 - Configurações
