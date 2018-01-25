@@ -110,13 +110,11 @@
 - [Transferência de produtos](/projetos/vdtmovimentotransferencia.md)
 
 **RH**
-- [Configurações](/RH/configuracoes.md)
-- [Contas](/RH/contas.md)
-- Equipamentos
-- Funcionários
-- [Ponto](/RH/ponto.md)
-- Recrutamento
-- [Relação de Déc.Terceiro e Férias](/RH/relacaodedecterceiroferias.md)
+- [Configurações](/rh/config-rh.md)
+- Equipamentos(/rh/logequipamento.md)
+- Funcionários(/rh/logfuncionario.md)
+- [Ponto](/rh/pontocompetencias.md)
+- Recrutamento(/rh/recrutamento.md)
 
 **VENDAS**
 - Configurações
