@@ -117,15 +117,15 @@
 - [Recrutamento](/rh/recrutamento.md)
 
 **VENDAS**
-- [Configurações]
-- [Consulta Valor]
-- [Gerar pacote de notas]
-- [Histórico de Vendas]
-- [Notas Fiscais](/vendas/notas-fiscais.md)
-- [Orçamentos]
-- [Pedidos]
-- [Pré-pedido]
-- [Processar Contratos]
+- [Configurações](/vendas/config-vendas.md)
+- [Consulta Valor](/vendas/venda-consulta.md)
+- [Gerar pacote de notas](/vendas/venda-baixar-notas.md)
+- [Histórico de Vendas](/vendas/historicovendas.md)
+- [Notas Fiscais](/vendas/notavenda.md)
+- [Orçamentos](/vendas/orcamentovenda.md)
+- [Pedidos](/vendas/pedidovenda.md)
+- [Pré-pedido](/vendas/prepedido.md)
+- [Processar Contratos](/vendas/venda-contratos.md)
 
 **WHS**
 - [Coleta](/whs/nf-expedicao.md)
