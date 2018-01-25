@@ -11,7 +11,7 @@
 - [Categorias Equipamentos](/cadastros/assuntocategorias.md)
 - [Centros de Custo](/cadastros/centrocusto.md)
 - [Classificações](/cadastros/classificacoes.md)
-- [Classificações Fiscais](/cadastros/classificacaofiscal.md)
+- [Classificações Fiscais](/cadastros/classificaofiscal.md)
 - [Classificações Tributárias](/cadastros/classtributaria.md)
 - [Condições Pagto](/cadastros/condicaopagamento.md)
 - [Configurações](/cadastros/config-cadastro.md)
