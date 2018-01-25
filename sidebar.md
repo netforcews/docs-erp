@@ -117,15 +117,15 @@
 - [Recrutamento](/rh/recrutamento.md)
 
 **VENDAS**
-- Configurações
-- Consulta Valor
-- Gerar pacote de notas
-- Histórico de Vendas
+- [Configurações]
+- [Consulta Valor]
+- [Gerar pacote de notas]
+- [Histórico de Vendas]
 - [Notas Fiscais](/vendas/notas-fiscais.md)
-- Orçamentos
-- Pedidos
-- Pré-pedido
-- Processar Contratos
+- [Orçamentos]
+- [Pedidos]
+- [Pré-pedido]
+- [Processar Contratos]
 
 **WHS**
 - [Coleta](/whs/nf-expedicao.md)
