@@ -1,6 +1,8 @@
 # F.A.Q.
 
  - [Atualizar certificado da empresa](/faq/empresausuariacertificado.md)
+ - [Devolução de nota fiscal](/faq/evolucaonotafiscal.md)
+ - Emitir nota fiscal pró-emprego
  - [Importar CTe](/faq/importarcte.md)
  - [Mudar Coluna Código para Pedidos/Orçamentos](/faq/mudarcolunacodigo.md)
  - [Reenviar títulos para cobrança](/faq/reenviartitulosparacobranca.md)
