@@ -8,9 +8,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta o código do produto da promoção..
-**Produto** | Apresenta o produto da promoção..
-**Valor** | Apresenta o valor do produto na promoção..
+**Código** | Apresenta o código do produto da promoção.
+**Produto** | Apresenta o produto da promoção.
+**Valor** | Apresenta o valor do produto na promoção.
 <br>
 
 ## Geral
