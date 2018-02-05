@@ -12,10 +12,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | Apresenta a data de início da promoção..
-**Até** | Apresenta a data de fim da promoção..
+**De** | Apresenta a data de início da promoção.
+**Até** | Apresenta a data de fim da promoção.
 **Situação** | .
-**Nome** | Apresenta o nome da promoção..
+**Nome** | Apresenta o nome da promoção.
 <br>
 
 ## Geral
