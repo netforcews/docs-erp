@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Produto** | Apresenta .
-**m2** | Apresenta .
+**Produto** | .
+**m2** | .
 <br>
 
 ## Geral

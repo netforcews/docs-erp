@@ -12,14 +12,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Apresenta .
-**Fornec.** | Apresenta .
-**Produto** | Apresenta .
-**Complemento** | Apresenta .
-**Lote** | Apresenta .
-**Validade** | Apresenta .
-**Qtde.Estoque** | Apresenta .
-**Emp.** | Apresenta .
+**Data** | .
+**Fornec.** | .
+**Produto** | .
+**Complemento** | .
+**Lote** | .
+**Validade** | .
+**Qtde.Estoque** | .
+**Emp.** | .
 <br>
 
 ## Geral

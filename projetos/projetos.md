@@ -12,14 +12,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Numero** | Apresenta .
-**Cliente** | Apresenta .
-**Descrição** | Apresenta .
-**Situação** | Apresenta .
-**Valor Total** | Apresenta .
-**Aval** | Apresenta .
-**Prog** | Apresenta .
-**Emp** | Apresenta .
+**Numero** | .
+**Cliente** | .
+**Descrição** | .
+**Situação** | .
+**Valor Total** | .
+**Aval** | .
+**Prog** | .
+**Emp** | .
 <br>
 
 ## Geral
@@ -28,16 +28,16 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Comando** | Informe .
-**Numero** | Apresenta . Por padrão, este campo é obrigatório.
-**Emissão** | Apresenta .
+**Numero** | . Por padrão, este campo é obrigatório.
+**Emissão** | .
 **Empresa** | Selecione . Por padrão, este campo é obrigatório.
-**Situação** | Apresenta .
+**Situação** | .
 **Cliente** | Selecione . Por padrão, este campo é obrigatório.
 **Contato** | Informe . Por padrão, este campo é obrigatório.
 **Descrição** | Informe . Por padrão, este campo é obrigatório.
 **Descritivo** | Informe .
 **Cond.Pagto** | Informe . Por padrão, este campo é obrigatório.
-**Funcionário** | Apresenta . Por padrão, este campo é obrigatório.
+**Funcionário** | . Por padrão, este campo é obrigatório.
 **Prev.Execução** | Informe .
 <br>
 
@@ -47,15 +47,15 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Itens** | Informe .
-**Valor Orçado** | Apresenta .
-**Valor Estimado** | Apresenta .
+**Valor Orçado** | .
+**Valor Estimado** | .
 **Avaliação** | Informe .
-**Valor Realizado** | Apresenta .
+**Valor Realizado** | .
 **Situação** | Informe .
-**Valor Notas Fiscais** | Apresenta .
-**Valor Cobrança** | Apresenta .
-**Valor Recebido** | Apresenta .
-**Valor a Receber** | Apresenta .
+**Valor Notas Fiscais** | .
+**Valor Cobrança** | .
+**Valor Recebido** | .
+**Valor a Receber** | .
 <br>
 
 ## Aprovações
@@ -66,28 +66,28 @@ Campo | Descrição
 **Vendedor** | Selecione .
 **Data** | Informe .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 **Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Apresenta .
-**Usuário** | Apresenta .
+**Data** | .
+**Usuário** | .
 **Ocorrência** | Selecione .
 <br>
 

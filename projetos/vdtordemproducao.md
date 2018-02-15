@@ -1,8 +1,8 @@
-# PRODUTOS VERDETEC
+# PRODUTOS
 <br>
 
 ## Acesso
-Para acessar esta opção, selecione o módulo **Projetos**, opção **Geral**, opção **Produtos VERDETEC**.
+Para acessar esta opção, selecione o módulo **Projetos**, opção **Geral**, opção **Produtos**.
 <br>
 <br>
 
@@ -12,12 +12,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Apresenta .
-**Produto** | Apresenta .
-**Complemento** | Apresenta .
-**Lote** | Apresenta .
-**Validade** | Apresenta .
-**Quantidade** | Apresenta .
+**Data** | .
+**Produto** | .
+**Complemento** | .
+**Lote** | .
+**Validade** | .
+**Quantidade** | .
 <br>
 
 ## Geral
@@ -25,7 +25,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | Apresenta . Por padrão, este campo é obrigatório.
+**Situação** | . Por padrão, este campo é obrigatório.
 **Data** | Informe . Por padrão, este campo é obrigatório.
 **Empresa** | Selecione . Por padrão, este campo é obrigatório.
 **Produto** | Selecione . Por padrão, este campo é obrigatório.

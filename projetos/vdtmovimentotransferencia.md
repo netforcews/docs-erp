@@ -12,14 +12,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Apresenta .
-**Produto** | Apresenta .
-**Complemento** | Apresenta .
-**Lote** | Apresenta .
-**Validade** | Apresenta .
-**Qtde.** | Apresenta .
-**Orig.** | Apresenta .
-**Dest.** | Apresenta .
+**Data** | .
+**Produto** | .
+**Complemento** | .
+**Lote** | .
+**Validade** | .
+**Qtde.** | .
+**Orig.** | .
+**Dest.** | .
 <br>
 
 ## Geral
@@ -27,13 +27,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Apresenta . Por padrão, este campo é obrigatório.
+**Data** | . Por padrão, este campo é obrigatório.
 **Produto** | Selecione . Por padrão, este campo é obrigatório.
-**Complemento** | Apresenta . Por padrão, este campo é obrigatório.
-**Lote** | Apresenta .
-**Data de validade** | Apresenta .
+**Complemento** | . Por padrão, este campo é obrigatório.
+**Lote** | .
+**Data de validade** | .
 **Quantidade** | Informe . Por padrão, este campo é obrigatório.
-**Empresa** | Apresenta . Por padrão, este campo é obrigatório.
+**Empresa** | . Por padrão, este campo é obrigatório.
 **Destino** | Selecione . Por padrão, este campo é obrigatório.
 <br>
 <br>
