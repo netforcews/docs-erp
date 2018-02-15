@@ -105,8 +105,8 @@
 - [Definição de cargas](/projetos/projetocargas.md)
 - [Entrada de produtos](/projetos/vdtmovimentodiretoentrada.md)
 - [Logística](/projetos/projetoslogistica.md)
-- [Produtos ...](/projetos/vdtordemproducao.md)
-- [Projetos](/projetos/projeto.md)
+- [Produtos](/projetos/vdtordemproducao.md)
+- [Projetos](/projetos/projetos.md)
 - [Transferência de produtos](/projetos/vdtmovimentotransferencia.md)
 
 **RH**
