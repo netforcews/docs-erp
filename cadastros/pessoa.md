@@ -33,7 +33,7 @@ Campo | Descrição
 **Inscrição** | Informa código
 **CNPJ/CPF** | Informe o CNPJ/CPF.
 **Tipo** | Informe o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
-**Inscr.Estadual** | Informe a Inscrição Estadual. Pessoa isenta informar: ISENTO. Pessoa não contribuinte informar: NÃO CONTRIBUINTE. Veja: [DIFAL](/faq/difal.md)   
+**Inscr.Estadual** | Informe a Inscrição Estadual. Pessoa isenta informar: ISENTO. Pessoa não contribuinte informar: NÃO CONTRIBUINTE. Veja: [DIFAL](/faq/difal.md).
 **Inscr.Municipal** | Informe a Inscrição Municipal. Pessoas isentas informar: ISENTO.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Data Nasc.** | a data de nascimento
