@@ -11,14 +11,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Informa a marca.
+**Marca** | Informa um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC.
 **Nome** | Informa o nome.
-**Telefone** | Informa telefone
+**Telefone** | Informa o número do telefone.
 **E-mail** | Informa o e-mail.
 **CNPJ/CPF** | Informa o CNPJ/CPF.
 **Município** | Informa o município.
 **UF** | Informa o estado.
-**Sit** | Informa situação
+**Sit** | Informa a situação.
 **Resp** | Informa o responsável.
 **R.V** | Informa a região de venda.
 <br>
@@ -29,16 +29,16 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Marca** | Informe a marca. Por padrão, este campo é obrigatório.
-**Inscrição** | Informa código
+**Marca** | Informe um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC. Por padrão, este campo é obrigatório.
+**Inscrição** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ/CPF.
 **Tipo** | Informe o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **Inscr.Estadual** | Informe a Inscrição Estadual. Pessoa isenta informar: ISENTO. Pessoa não contribuinte informar: NÃO CONTRIBUINTE. Veja [aqui](/faq/icms-93-2015.md).
 **Inscr.Municipal** | Informe a Inscrição Municipal. Pessoas isentas informar: ISENTO.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Data Nasc.** | a data de nascimento
-**RG** | o RG
-**Logradouro** | o logradouro
+**RG** | Informe o RG.
+**Logradouro** | Informe o logradouro.
 **Número** | Informe o número.
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
@@ -50,7 +50,7 @@ Campo | Descrição
 **Banco** | o banco
 **Data Cadastro** | Informa datInforma de cadastro
 **País** | Selecione o país.
-**Empresa** | a empresa
+**Empresa** | Selecione a empresa.
 <br>
 
 ## Contatos
@@ -58,19 +58,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**DDD** | o DDD Por padrão, este campo é obrigatório.
-**Telefone** | o telefone Por padrão, este campo é obrigatório.
-**Fax** | o fax
-**Celular** | o celular
-**Contato** | o contato
-**Contato2** | o contato
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o número do telefone. Por padrão, este campo é obrigatório.
+**Fax** | Informe o número do fax.
+**Celular** | Informe o número do celular.
+**Contato** | Informe o contato.
+**Contato2** | Informe o contato.
 **E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
 **E-mail Financeiro** | Informe o e-mail do setor financeiro.
 **E-mail Compras** | Informe o e-mail do setor de compras.
 **E-mail Vendas** | Informe o e-mail do setor de vendas.
 **E-mail Inform.** | Informe o e-mail do setor de informática.
 **E-mail NFE** | Informe o e-mail do setor de NFE.
-**WebSite** | o website
+**WebSite** | Informe o website.
 <br>
 
 ## Configurações
@@ -78,7 +78,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | a situação Opções: 1-Ativo, 2-Inativo, 3-Bloqueado, 4-Prospect. Por padrão, este campo é obrigatório.
+**Situação** | Informe a situação. Opções: 1-Ativo, 2-Inativo, 3-Bloqueado, 4-Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data de situção.
 **Região Venda** | Selecione a região de venda.
 **Responsável** | Seleckone o responsável.
@@ -94,13 +94,13 @@ Campo | Descrição
 **Receita** | a receita
 **Despesa** | a despesa
 **Cliente tem o benefício do REIDI** | Informe se o cliente tem bebefício do REIDI.
-**Cliente** | é cliente
-**Fornecedor** | o fornecedor
-**Transportadora** | a transportadora
-**Banco** | é banco
-**Funcionário** | o funcionário
+**Cliente** | Selecione se a pessoa é um cliente.
+**Fornecedor** | Selecione se a pessoa é um fornecedor.
+**Transportadora** | Selecione se a pessoa é uma transportadora.
+**Banco** | Selecione se a pessoa é um banco.
+**Funcionário** | Selecione se a pessoa é um funcionário.
 **Acesso ao portal habilitado** | Informe se o acesso ao portal está habilitado.
-**Senha** | a senha
+**Senha** | Informe a senha.
 **Enviar aviso de senha para a pessoa** | Informe se deve ser  enviado um aviso informando a senha.
 <br>
 
@@ -109,14 +109,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logradouro** | o logradouro
+**Logradouro** | Informe o logradouro.
 **Número** | Informe o número.
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
 **Estado** | Selecione o estado.
 **Município** | Selecione o município.
-**Logradouro** | o logradouro
+**Logradouro** | Informe o logradouro.
 **Número** | Informe o número.
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
@@ -131,7 +131,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Observação** | Informe uma observação.
-**Info.Internas** | as informações internas
+**Info.Internas** | Informe as informações internas.
 <br>
 
 ## Localização
