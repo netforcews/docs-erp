@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Empresa usuária**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome Fantasia** | Apresenta .
-**Nome** | Apresenta .
-**Código** | Apresenta .
-**ID.Interno** | Apresenta .
+**Nome Fantasia** | Informa a nome fantasia.
+**Nome** | Informa o nome.
+**Código** | Informa o código.
+**ID.Interno** | Informa o id interno.
 <br>
 
 ## Geral
@@ -23,33 +22,33 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**ID.Interno** | Identificação interna
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Nome Fantasia** | Informe . Por padrão, este campo é obrigatório.
-**Logradouro** | Informe . Por padrão, este campo é obrigatório.
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**Complemento** | Informe .
-**Bairro** | Informe . Por padrão, este campo é obrigatório.
-**CEP** | Informe . Por padrão, este campo é obrigatório.
-**Estado** | Selecione . Por padrão, este campo é obrigatório.
-**Município** | Selecione . Por padrão, este campo é obrigatório.
-**DDD** | Informe . Por padrão, este campo é obrigatório.
-**Telefone** | Informe . Por padrão, este campo é obrigatório.
-**Fax** | Informe .
-**E-mail** | Informe . Por padrão, este campo é obrigatório.
-**E-mail Vendas** | Informe . Por padrão, este campo é obrigatório.
-**E-mail Compras** | Informe . Por padrão, este campo é obrigatório.
-**E-mail Financeiro** | Informe . Por padrão, este campo é obrigatório.
-**E-mail Informática** | Informe . Por padrão, este campo é obrigatório.
-**WebSite** | Informe .
-**CNPJ** | Informe . Por padrão, este campo é obrigatório.
-**Insc.Estadual** | Informe . Por padrão, este campo é obrigatório.
-**Insc.Municipal** | Informe . Por padrão, este campo é obrigatório.
-**Ramo de Atv.** | Ramo de Atividade
-**Série Produto** | Série padrão para venda de mercadorias
-**Série Serviço** | Série padrão para prestação de serviço
-**Série Consumidor** | Série padrão para vendas ao consumidor final
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**ID.Interno** | Informa o id interno. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Nome Fantasia** | Informa a nome fantasia. Por padrão, este campo é obrigatório.
+**Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Complemento** | Informe o complemento.
+**Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
+**CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
+**Município** | Selecione o município. Por padrão, este campo é obrigatório.
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o número do telefone. Por padrão, este campo é obrigatório.
+**Fax** | Informe o número do fax.
+**E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
+**E-mail Vendas** | Informe o e-mail setor de vendas. Por padrão, este campo é obrigatório.
+**E-mail Compras** | Informe o e-mail para o setor de compras. Por padrão, este campo é obrigatório.
+**E-mail Financeiro** | Informe o e-mail para o setor financeiro. Por padrão, este campo é obrigatório.
+**E-mail Informática** | Informe a e-mail para o setor de informática. Por padrão, este campo é obrigatório.
+**WebSite** | Informe o website.
+**CNPJ** | Informe o CNPJ. Por padrão, este campo é obrigatório.
+**Insc.Estadual** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
+**Insc.Municipal** | Informe a Inscrição Municipal. Por padrão, este campo é obrigatório.
+**Ramo de Atv.** | Selecione o ramo de atividade. Por padrão, este campo é obrigatório.
+**Série Produto** | Informe a série de  produto. Por padrão, este campo é obrigatório.
+**Série Serviço** | Informe a série de serviço. Por padrão, este campo é obrigatório.
+**Série Consumidor** | Informe a série de consumidor. Por padrão, este campo é obrigatório.
 <br>
 
 ## Impostos
@@ -57,23 +56,23 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sujeito a trib. do ICMS** | Marcar se a empresa usuário esta sujeita a tributação do ICMS
-**Sujeito a trib. do IPI Venda** | Marcar se a empresa usuário esta sujeita a tributação do IPI de Venda
-**Sujeito a trib. do ISQN** | Marcar se a empresa usuário esta sujeita a tributação do ISQN
-**ISQN (%)** | Informe .
-**Sujeito a trib. do PIS** | Marcar se a empresa usuário esta sujeita a tributação do PIS
-**PIS (%)** | Informe .
-**Sujeito a trib. do CONFINS** | Marcar se a empresa usuário esta sujeita a tributação do CONFINS
-**CONFINS (%)** | Informe .
-**Sujeito a trib. da Contr.Social** | Marcar se a empresa usuário esta sujeita a tributação da Contribuição Social
-**Contr.Social (%)** | Informe .
-**Sujeito a trib. do IR** | Marcar se a empresa usuário esta sujeita a tributação do IR
-**IR (%)** | Informe .
-**Sujeito a trib. do SIMPLES Nascional** | Marcar se a empresa usuário é optante do SIMPLES NASCIONAL
-**SIMPLES (%)** | Informe .
-**SIMPLES(%) Aprov.** | Alíquota de aproveitamento do crédito de ICMS, referente ao Art. 23 da LC 123
-**Primeiro na cadeia ST** | Primeiro na cadeia de recolhimento da Substituição Tributária
-**Observação NF** | Observação para ser exibido na nota fiscal, na parte dos dados adicionais
+**Sujeito a trib. do ICMS** | Selecione se a empresa está sujeita a tributação do ICMS.
+**Sujeito a trib. do IPI Venda** | Selecione se a empresa está sujeita a tributação do IPI na venda.
+**Sujeito a trib. do ISQN** | Selecione se a empresa está sujeita a tributação do ISQN.
+**ISQN (%)** | Informe o percentual de ISQN.
+**Sujeito a trib. do PIS** | Selecione se a empresa está sujeita a tributação do PIS.
+**PIS (%)** | Informe o percentual do PIS.
+**Sujeito a trib. do CONFINS** | Selecione se a empresa está sujeita a tributação do COFINS.
+**CONFINS (%)** | Informe o percentual de COFINS.
+**Sujeito a trib. da Contr.Social** | Selecione se a empresa está sujeita a tributação da contribuição social.
+**Contr.Social (%)** | Informe o percentual da contribuição social.
+**Sujeito a trib. do IR** | Selecione se a empresa está sujeita a tributação do IR.
+**IR (%)** | Informe o percentual de IR.
+**Sujeito a trib. do SIMPLES Nascional** | Selecione se a empresa está sujeita a tributação do SIMPLES NACIONAL.
+**SIMPLES (%)** | Informe o percentual do SIMPLES.
+**SIMPLES(%) Aprov.** | Informe o percentual da alíquota de aproveitamento do crédito de ICMS referente ao Artigo 23 da LC 123.
+**Primeiro na cadeia ST** | Selecione se é primeiro na cadeia st.
+**Observação NF** | Informe a observação da NF.
 <br>
 
 ## Financeiro
@@ -81,10 +80,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**C/C Principal** | Conta Conrrente principal da empresa. Utilizado para faturamento e cobrança
-**Prazo Médio Máx** | Prazo médio máximo autorizado para faturamentos para a empresa usuária
-**% Juros Mora** | % da taxa de juros (a.m.) utilizado na emissão dos boletos
-**% Multa** | % da taxa de muta para boeltos vencido
+**C/C Principal** | Selecione a conta corrente principal.
+**Prazo Médio Máx** | Selecione o prazo médio máximo. Por padrão, este campo é obrigatório.
+**% Juros Mora** | Informe o percentual de juros mora.
+**% Multa** | Informe o percentual de multa.
 <br>
 
 ## Configurações
@@ -92,31 +91,31 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Domingo** | Informe se .
-**Segunda** | Informe se .
-**Terça** | Informe se .
-**Quarta** | Informe se .
-**Quita** | Informe se .
-**Sexta** | Informe se .
-**Sábado** | Informe se .
-**Tipo Nota** | Selecione . Por padrão, este campo é obrigatório.
-**Enviar orçamento por e-mail** | Informe se .
-**Enviar pedido por e-mail** | Informe se .
-**Enviar NF por e-mail** | Informe se .
-**Avisar Transp. p/ Coleta** | Se marcado, no faturamento será enviado uma solicitaçao de coleta para a transportadora da Nota
-**Enviar aviso de conclusão do pedido** | Informe se .
-**Permite alterar número da NF** | Informe se .
-**Permite emitir NF de produtos** | Informe se .
-**Permite emitir NF de serviços** | Informe se .
-**Controlar sequência dos números da NFSe** | Informe se .
-**Estoque Controlado** | Informe se .
-**Certificado (*pfx)** | Informe .
-**Senha** | Informe .
-**Validate** | Apresenta .
-**Enviar dados do boleto** | Informe se .
-**Solicitar dados para pagto ao fornecedor** | Informe se .
-**Aviso de faturas em atraso** | Informe se .
-**Aviso de faturas em atraso via SMS** | Informe se .
+**Domingo** | Selecione se há expediente no domingo.
+**Segunda** | Selecione se há expediente na segunda-feira.
+**Terça** | Selecione se há expediente na terça-feira.
+**Quarta** | Selecione se há expediente na quarta-feira.
+**Quita** | Selecione se há expediente na quinta-feira.
+**Sexta** | Selecione se há expediente na sexta-feira.
+**Sábado** | Selecione se há expediente no sábado.
+**Tipo Nota** | Selecione o tipo de nota. Opções: Eletrônica, Manual, Pré-Impressão. Por padrão, este campo é obrigatório.
+**Enviar orçamento por e-mail** | Selecione se o sistema deve enviar orçamentos por e-mail.
+**Enviar pedido por e-mail** | Selecione se o sistema deve enviar pedidos por e-mail.
+**Enviar NF por e-mail** | Selecione se o sistema deve enviar NF por e-mail.
+**Avisar Transp. p/ Coleta** | Selecione se o sistema deve avisar a transportadora para fazer a coleta.
+**Enviar aviso de conclusão do pedido** | Selecione se o sistema deve enviar um aviso de conclusão do pedido.
+**Permite alterar número da NF** | Selecione se o sistema permitirá alterar o número da NF.
+**Permite emitir NF de produtos** | Selecione se o sistema permitirá emitir NF de produtos.
+**Permite emitir NF de serviços** | Selecione se o sistema permitirá emitir NF de serviços.
+**Controlar sequência dos números da NFSe** | Selecione se o sistema deve controlar a sequência dos números das NFSe.
+**Estoque Controlado** | Selecione se a empresa controla estoque.
+**Certificado (*pfx)** | Informe o certificado (*pfx).
+**Senha** | Informe a senha.
+**Validate** | Informa a data do validate.
+**Enviar dados do boleto** | Selecione se o sistema deve enviar os dados do boleto.
+**Solicitar dados para pagto ao fornecedor** | Selecione se o sistema deve solicitar dados para pagamento ao fornecedor.
+**Aviso de faturas em atraso** | Selecione se o sistema deve emitir um aviso de faturas em atraso.
+**Aviso de faturas em atraso via SMS** | Selecione se o sistema deve emitir um aviso de faturas em atraso via sms.
 <br>
 
 ## Termos
@@ -124,7 +123,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Termos** | Informe .
+**Termos** | Informe os termos.
 <br>
 
 ## Logomarca
@@ -132,8 +131,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logo** | Informe . Por padrão, este campo é obrigatório.
-**Logo Nota** | Informe .
+**Logo** | Selecione a logo. Por padrão, este campo é obrigatório.
+**Logo Nota** | Selecione a logo da NF.
 <br>
 
 ## Informações
@@ -141,7 +140,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Informações Diversas** | Informe .
+**Informações Diversas** | Informe outras informações diversas.
 <br>
 
 ## Links

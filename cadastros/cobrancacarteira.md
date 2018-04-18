@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Carteiras de Cobrança**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Núm** | Apresenta .
-**Descrição** | Apresenta .
-**Cód** | Apresenta .
-**Tip** | Apresenta .
+**Núm** | Informa o núm.
+**Descrição** | Informa o descrição.
+**Cód** | Informa o cód.
+**Tip** | Informa o tip.
 <br>
 
 ## Geral
@@ -23,12 +22,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Tipo** | Informe . Por padrão, este campo é obrigatório.
-**Boleto** | Informe .
-**Convênio** | Informe .
+**Número** | Informa o núm. Por padrão, este campo é obrigatório.
+**Código** | Informa o cód. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Tipo** | Informa o tip. Por padrão, este campo é obrigatório.
+**Boleto** | Informe o boleto.
+**Convênio** | Informe o convênio.
 <br>
 <br>
 <br>

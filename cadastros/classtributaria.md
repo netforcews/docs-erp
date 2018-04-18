@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Classificações Tributárias**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta .
-**Descrição** | Apresenta .
-**Aut** | Apresenta .
+**Código** | Informa o código.
+**Descrição** | Informa a descrição.
+**Aut** | Informa se autorizado.
 <br>
 
 ## Geral
@@ -22,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Autorizado** | Informe se .
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Autorizado** | Selecione se autorizado.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Classificações Fiscais**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**NCM** | Apresenta .
-**Descrição** | Apresenta .
+**NCM** | Informa o NCM.
+**Descrição** | Informa a descrição.
 <br>
 
 ## Geral
@@ -21,13 +20,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**NCM** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Aliq.Nac** | Informe .
-**Aliq. Imp** | Informe .
-**Aliq.Est** | Informe .
-**Aliq.Municipal** | Informe .
-**Aliq.Total** | Apresenta .
+**NCM** | Informe o NCM. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Aliq.Nac** | Informe a aliquota nacional.
+**Aliq. Imp** | Informe a aliquota de  importação.
+**Aliq.Est** | Informe a aliqupota est.adual.
+**Aliq.Municipal** | Informe a aliquta municipal.
+**Aliq.Total** | Informa a aliquoa total.
 <br>
 <br>
 <br>

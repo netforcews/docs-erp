@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Feriados**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Apresenta .
-**Descrição** | Apresenta .
-**Tipo** | Apresenta .
-**Exp** | Apresenta .
+**Data** | Informa a data.
+**Descrição** | Informa a descrição.
+**Tipo** | Informa o tipo.
+**Exp** | Informa se haverá expediente.
 <br>
 
 ## Geral
@@ -23,12 +22,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**Tem Expediênte** | Informe se .
-**Info** | Informe .
-**Empresas** | Informe .
+**Data** | Informe a data. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: Estadual, Municipal, Nascional, Outros. Por padrão, este campo é obrigatório.
+**Tem Expediênte** | Informe se haverá expediente.
+**Empresas** | Informe os códigos das empresas separados por virgula ou deixe em branco para todas as empresas.
 <br>
 
 ## Comandos

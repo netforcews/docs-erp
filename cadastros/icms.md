@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **ICMSs**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Origem** | Apresenta .
-**Destino** | Apresenta .
-**Percentual** | Apresenta .
+**Origem** | Informa a origem.
+**Destino** | Informa o destino.
+**Percentual** | Informa o percentual.
 <br>
 
 ## Geral
@@ -22,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Origem** | Informe . Por padrão, este campo é obrigatório.
-**Destino** | Informe . Por padrão, este campo é obrigatório.
-**Percentual** | Informe . Por padrão, este campo é obrigatório.
+**Origem** | Informa a origem. Por padrão, este campo é obrigatório.
+**Destino** | Informe o destino. Por padrão, este campo é obrigatório.
+**Percentual** | Informa o percentual. Por padrão, este campo é obrigatório.
 <br>
 
 ## Informações Complementares
@@ -32,16 +31,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**infAdFisco** | Informe .
-**Ativo** | Informe se .
-**infCpl - Parcial** | Informe .
-**Ativo** | Informe se .
-**Agrupar Itens** | Informe se .
-**Utilizar tag ICMS90** | Informe se .
-**infCpl - Total** | Informe .
-**Ativo** | Informe se .
-**Agrupar Itens** | Informe se .
-**X** | Informe .
+**infAdFisco** | Informe o infadfisco.
+**Ativo** | Selecione se ativo.
+**infCpl - Parcial** | Informe o infcpl - parcial.
+**Ativo** | Selecione se ativo.
+**Agrupar Itens** | Selecione se o sistema deve agrupar itens.
+**Utilizar tag ICMS90** | Selecione se utiliza a  tag icms90.
+**infCpl - Total** | Informe o infcpl - total.
+**Ativo** | Selecione se ativo.
+**Agrupar Itens** | Selecione se o sistema deve agrupar itens.
 <br>
 <br>
 <br>

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Condições Pagto**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Apresenta .
-**Informativo** | Apresenta .
-**Prazo Médio** | Apresenta .
-**Atv** | Apresenta .
-**P.V.** | Apresenta .
-**P.C.** | Apresenta .
+**Descrição** | Informa a descrição.
+**Informativo** | Informa o informativo.
+**Prazo Médio** | Informa o prazo médio.
+**Atv** | Informa se ativo.
+**P.V.** | Informa se esta condição de pagamento esta disponível para vendas.
+**P.C.** | Informa se esta condição de pagamento esta disponível para compras.
 <br>
 
 ## Geral
@@ -25,39 +24,39 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Apresenta .
-**Informativo** | Apresenta .
-**Complemento** | Informe .
-**Juros (a.m)** | Juros a ser acrescido em cada parcela (a base do juros informada deve ser ao mês)
-**Ativo** | Informe se .
-**Para Venda** | Informe se .
-**Para Compra** | Informe se .
-**Parc. 01** | Informe . Por padrão, este campo é obrigatório.
-**%Dia01** | Informe . Por padrão, este campo é obrigatório.
-**Parc. 02** | Informe .
-**%Dia02** | Informe .
-**Parc. 03** | Informe .
-**%Dia03** | Informe .
-**Parc. 04** | Informe .
-**%Dia04** | Informe .
-**Parc. 05** | Informe .
-**%Dia05** | Informe .
-**Parc. 06** | Informe .
-**%Dia06** | Informe .
-**Parc. 07** | Informe .
-**%Dia07** | Informe .
-**Parc. 08** | Informe .
-**%Dia08** | Informe .
-**Parc. 09** | Informe .
-**%Dia09** | Informe .
-**Parc. 10** | Informe .
-**%Dia10** | Informe .
-**Parc. 11** | Informe .
-**%Dia11** | Informe .
-**Parc. 12** | Informe .
-**%Dia12** | Informe .
-**Num.Parcelas** | Apresenta .
-**Média** | Apresenta .
+**Descrição** | Informa a descrição.
+**Informativo** | Informa o informativo.
+**Complemento** | Informe o complemento.
+**Juros (a.m)** | Informe o juros (a.m).
+**Ativo** | Selecione se ativo.
+**Para Venda** | Selecione se esta condição de pagamento esta disponível para vendas.
+**Para Compra** | Selecione se esta condição de pagamento esta disponível para compras.
+**Parc. 01** | Informe o número de dias da parcela #01. Por padrão, este campo é obrigatório.
+**%Dia01** | Informe o percentual da parcela #01. Por padrão, este campo é obrigatório.
+**Parc. 02** | Informe o número de dias da parcela #02.
+**%Dia02** | Informe o percentual da parcela #02.
+**Parc. 03** | Informe o número de dias da parcela #03.
+**%Dia03** | Informe o percentual da parcela #03.
+**Parc. 04** | Informe o número de dias da parcela #04.
+**%Dia04** | Informe o percentual da parcela #04.
+**Parc. 05** | Informe o número de dias da parcela #05.
+**%Dia05** | Informe o percentual da parcela #05.
+**Parc. 06** | Informe o número de dias da parcela #06.
+**%Dia06** | Informe o percentual da parcela #06.
+**Parc. 07** | Informe o número de dias da parcela #07.
+**%Dia07** | Informe o percentual da parcela #07.
+**Parc. 08** | Informe o número de dias da parcela #08.
+**%Dia08** | Informe o percentual da parcela #08.
+**Parc. 09** | Informe o número de dias da parcela #09.
+**%Dia09** | Informe o percentual da parcela #09.
+**Parc. 10** | Informe o número de dias da parcela #10.
+**%Dia10** | Informe o percentual da parcela #10.
+**Parc. 11** | Informe o número de dias da parcela #11.
+**%Dia11** | Informe o percentual da parcela #11.
+**Parc. 12** | Informe o número de dias da parcela #12.
+**%Dia12** | Informe o percentual da parcela #12.
+**Num.Parcelas** | Informa o número de parcelas.
+**Média** | Informa o prazo médio.
 <br>
 <br>
 <br>

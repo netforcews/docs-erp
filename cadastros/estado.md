@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Estados**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Sigla** | Apresenta .
-**Nome** | Apresenta .
-**Região** | Apresenta .
-**Código** | Apresenta .
+**Sigla** | Informa a sigla.
+**Nome** | Informa o nome.
+**Região** | Informa a região.
+**Código** | Informa o código.
 <br>
 
 ## Geral
@@ -23,14 +22,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sigla** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Região** | Informe . Por padrão, este campo é obrigatório.
-**DDD** | Informe . Por padrão, este campo é obrigatório.
-**Inicio** | Informe . Por padrão, este campo é obrigatório.
-**Término** | Informe . Por padrão, este campo é obrigatório.
-**% FCP** | Fundo de Combate a Pobreza
+**Sigla** | Informe a sigla. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Região** | Informe a região. Por padrão, este campo é obrigatório.
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**Inicio** | Informe o inicio do CEP. Por padrão, este campo é obrigatório.
+**Término** | Informe o término do CEP. Por padrão, este campo é obrigatório.
+**% FCP** | Informe o percentual do FCP - Fundo de Combate a Pobreza..
 <br>
 
 ## Links

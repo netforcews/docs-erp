@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Grupos de Produto**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta .
-**C.Fiscal (NCM)** | Apresenta .
-**Descrição** | Apresenta .
-**Tipo Ativo** | Apresenta .
+**Código** | Informa o código.
+**C.Fiscal (NCM)** | Informa a classificação fiscal (NCM).
+**Descrição** | Informa a descrição.
+**Tipo Ativo** | Informa o tipo.
 <br>
 
 ## Geral
@@ -23,36 +22,36 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Unidade** | Selecione . Por padrão, este campo é obrigatório.
-**% Lucro Adic.** | Percentual que lucro a ser adicionado no cálculo do preço de venda
-**C.Fiscal (NCM)** | Classificação Fiscal (NCM). Deve ser informando quando o produto não for um Serviço
-**Tipo Cálc.V.Venda** | Selecione .
-**C.Tributaria** | Selecione . Por padrão, este campo é obrigatório.
-**Origem** | Selecione . Por padrão, este campo é obrigatório.
-**Cód.Serviço** | Código de classificação do serviço. Deve sempre ser informando quando o produto for marcado como serviço
-**Centro de Custo** | Selecione .
-**ICMS** | Informe se .
-**ISQN** | Informe se .
-**% ISQN** | Informe .
-**IPI Compra** | Informe se .
-**% IPI Compra** | Informe .
-**IPI Venda** | Informe se .
-**% IPI Venda** | Informe .
-**Tratar limites de Faturamento** | Informe se .
-**Estoque controlado** | Determina se o sistema deve controlar o estoque dos produtos deste grupo
-**Controla lote** | Determina se o sistema deve controlar o estoque dos produtos deste grupo por lote
-**Controla número de série** | Determina se o sistema deve controlar o estoque dos produtos deste grupo por número de série
-**Controla data de validade** | Informe se .
-**Disponível para o Atendimento** | Disponibiliza os produtos deste grupo para o atendimento em chamados
-**Controlado pelo PCP** | Informe se .
-**Dias Produção** | Quantidade de dias que este produto deve entrar na programação de produção antes do dia da entrega do pedido
-**CFOP Dentro** | CFOP Dentro do estado
-**CFOP Fora** | CFOP Fora do estado
-**% Comissão** | Informe .
-**Prazo de Garantia** | Informe .
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Tipo** | Informa o tipo. Por padrão, este campo é obrigatório.
+**Descrição** | Informa a descrição. Por padrão, este campo é obrigatório.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
+**% Lucro Adic.** | Informe o percentual de  lucro adicional.
+**C.Fiscal (NCM)** | Informe a classificação fiscal (NCM).
+**Tipo Cálc.V.Venda** | Selecione o tipo de cálculo de valor de venda.
+**C.Tributaria** | Selecione a classificação tributária. Por padrão, este campo é obrigatório.
+**Origem** | Selecione a origem. Opções: Estrangeira - Adq.Mercado Interno, Estrangeira - Importação direta, Nacional. Por padrão, este campo é obrigatório.
+**Cód.Serviço** | Selecione o código de serviço.
+**Centro de Custo** | Selecione o centro de custos.
+**ICMS** | Selecione se possui ICMS.
+**ISQN** | Selecione se possui ISQN.
+**% ISQN** | Informe o percentual de ISQN.
+**IPI Compra** | Selecione se possui IPI na compra.
+**% IPI Compra** | Informe o percentual de IPI na compra.
+**IPI Venda** | Selecione se possui IPI na venda.
+**% IPI Venda** | Informe o percentual de IPI na venda.
+**Tratar limites de Faturamento** | Selecione se o sistema deve tratar limites de faturamento.
+**Estoque controlado** | Selecione se controla o estoque.
+**Controla lote** | Selecione se controla lote.
+**Controla número de série** | Selecione se controla número de série.
+**Controla data de validade** | Selecione se controla data de validade.
+**Disponível para o Atendimento** | Selecione se disponível para o atendimento.
+**Controlado pelo PCP** | Selecione se controlado pelo PCP.
+**Dias Produção** | Informe os dias de produção.
+**CFOP Dentro** | Selecione a CFOP dentro. Por padrão, este campo é obrigatório.
+**CFOP Fora** | Selecione a CFOP fora. Por padrão, este campo é obrigatório.
+**% Comissão** | Informe o percentual de comissão.
+**Prazo de Garantia** | Informe o prazo de garantia.
 <br>
 
 ## Comandos

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Equipamentos**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta .
-**Identif.** | Apresenta .
-**Cliente** | Apresenta .
-**Marca** | Apresenta .
-**Modelo** | Apresenta .
-**Emp** | Apresenta .
+**Código** | Informa o código.
+**Identif.** | Informa a identificação.
+**Cliente** | Informa o cliente.
+**Marca** | Informa a marca.
+**Modelo** | Informa o modelo.
+**Emp** | Informa a empresa.
 <br>
 
 ## Geral
@@ -25,19 +24,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta . Por padrão, este campo é obrigatório.
-**Categoria** | Selecione . Por padrão, este campo é obrigatório.
-**Empresa** | Selecione . Por padrão, este campo é obrigatório.
-**Cliente** | Selecione . Por padrão, este campo é obrigatório.
-**Identificação** | Informe . Por padrão, este campo é obrigatório.
-**Marca** | Informe .
-**Modelo** | Informe .
-**Cor** | Informe .
-**Ano** | Informe .
-**Chassis** | Informe .
-**Motorização** | Informe .
-**Combustível** | Informe .
-**Observação** | Informe .
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
+**Categoria** | Selecione a categoria. Por padrão, este campo é obrigatório.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
+**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório.
+**Identificação** | Informe a identificação. Por padrão, este campo é obrigatório.
+**Marca** | Informe a marca.
+**Modelo** | Informe o modelo.
+**Cor** | Informe a cor.
+**Ano** | Informe o ano.
+**Chassis** | Informe o chassis.
+**Motorização** | Informe a motorização.
+**Combustível** | Selecione o combustível.
+**Observação** | Informe uma observação.
 <br>
 
 ## Links
