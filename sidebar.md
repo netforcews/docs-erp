@@ -38,7 +38,7 @@
 - [Regiões](/cadastros/regiao.md)
 - [Tipos de Produtos](/cadastros/tiposproduto.md)
 - [Tipos de Serviços](/cadastros/servicos.md)
-- [Unidades de Medida](/cadastros/unidademedida.md)
+- [Unidades de Medida](/cadastros/unidadesmedida.md)
 - [Usuários](/cadastros/usuario.md)
 - [Vendedores](/cadastros/vendedor.md)
 
