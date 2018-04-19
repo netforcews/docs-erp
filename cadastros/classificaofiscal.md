@@ -23,8 +23,8 @@ Campo | Descrição
 **NCM** | Informe o NCM. Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Aliq.Nac** | Informe a aliquota nacional.
-**Aliq. Imp** | Informe a aliquota de  importação.
-**Aliq.Est** | Informe a aliqupota est.adual.
+**Aliq. Imp** | Informe a aliquota de importação.
+**Aliq.Est** | Informe a aliquota estadual.
 **Aliq.Municipal** | Informe a aliquta municipal.
 **Aliq.Total** | Informa a aliquoa total.
 <br>
