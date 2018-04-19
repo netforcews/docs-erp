@@ -41,6 +41,10 @@ Campo | Descrição
 **Ativo** | Selecione se ativo.
 **Agrupar Itens** | Selecione se o sistema deve agrupar itens.
 <br>
+
+## Detalhes
+Veja [aqui](https://github.com/netforcews/docs-erp/blob/master/faq/icms-2018.md).
+<br>
 <br>
 <br>
 <br>
