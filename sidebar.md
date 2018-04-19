@@ -24,7 +24,7 @@
 - [Grupos de produto](/cadastros/produtogrupo.md)
 - [ICMSs](/cadastros/icms.md)
 - [Margens de Venda](/cadastros/margemvenda.md)
-- [Máquinas](/cadastros/pcppaquinas.md)
+- [Máquinas](/cadastros/pcpmaquinas.md)
 - [Naturezas de Operação](/cadastros/naturezaoperacao.md)
 - [OC Cobrança Motivos](/cadastros/ocorrenciamotivos.md)
 - [Ocorrências](/cadastros/ocorrencias.md)
