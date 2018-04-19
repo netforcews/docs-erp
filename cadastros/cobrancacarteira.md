@@ -11,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Núm** | Informa o núm.
-**Descrição** | Informa o descrição.
-**Cód** | Informa o cód.
-**Tip** | Informa o tip.
+**Núm** | Informa o número.
+**Descrição** | Informa a descrição.
+**Cód** | Informa o código.
+**Tip** | Informa o tipo.
 <br>
 
 ## Geral
@@ -22,10 +22,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informa o núm. Por padrão, este campo é obrigatório.
-**Código** | Informa o cód. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Tipo** | Informa o tip. Por padrão, este campo é obrigatório.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Tipo** | Informe o tipo. Por padrão, este campo é obrigatório.
 **Boleto** | Informe o boleto.
 **Convênio** | Informe o convênio.
 <br>
