@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Tipos de Produtos**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Cód** | Apresenta .
-**Descrição** | Apresenta .
-**ME** | Apresenta .
+**Cód** | Informa o código.
+**Descrição** | Informa a descrição.
+**ME** | Informa o movimento do estoque.
 <br>
 
 ## Geral
@@ -22,12 +21,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Mov. Estoque** | Informe se .
-**Movimenta estoque pela OP** | Informe se .
-**Exige ficha do produto** | Informe se .
-**Exige código de barra nos produtos** | Informe se .
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Mov. Estoque** | Informe o movimento do estoque.
+**Movimenta estoque pela OP** | Selecione seo sistema deve movimentar o estoque pela OP.
+**Exige ficha do produto** | Selecione se exige a ficha do produto.
+**Exige código de barra nos produtos** | Selecione se exige o código de barra nos produtos.
 <br>
 <br>
 <br>

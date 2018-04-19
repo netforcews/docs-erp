@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Opções**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Agrupador** | Apresenta .
-**Código** | Apresenta .
-**Descrição** | Apresenta .
+**Agrupador** | Informa o agrupador.
+**Código** | Informa o código.
+**Descrição** | Informa a descrição.
 <br>
 
 ## Geral
@@ -22,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Agrupador** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

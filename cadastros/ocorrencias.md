@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Ocorrências**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Apresenta .
-**Prod** | Apresenta .
-**Exp** | Apresenta .
-**Ate** | Apresenta .
-**Atv** | Apresenta .
+**Descrição** | Informa a descrição.
+**Prod** | Informa se é aplicável à produção.
+**Exp** | Informa se é aplicável à expedição.
+**Ate** | Informa se é aplicável ao atendimento.
+**Atv** | Informa se esta ativo.
 <br>
 
 ## Geral
@@ -24,12 +23,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se .
-**Produção** | Informe se .
-**Expedição** | Informe se .
-**Atendimento** | Informe se .
-**Departamento** | Selecione . Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se esta ativo.
+**Produção** | Selecione se é aplicável à produção.
+**Expedição** | Selecione se é aplicável à expedição.
+**Atendimento** | Selecione se é aplicável ao atendimento.
+**Departamento** | Selecione o departamento. Por padrão, este campo é obrigatório.
 <br>
 
 ## Solução
@@ -37,7 +36,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Possível Solução** | Informe .
+**Possível Solução** | Informe a possível solução.
 <br>
 <br>
 <br>

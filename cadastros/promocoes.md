@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Promoções**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | Apresenta a data de início da promoção.
-**Até** | Apresenta a data de fim da promoção.
-**Situação** | .
-**Nome** | Apresenta o nome da promoção.
+**De** | Informa a data de início.
+**Até** | Informa a data de fim.
+**Situação** | Informa o situação.
+**Nome** | Informa o nome.
 <br>
 
 ## Geral
@@ -23,11 +22,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome da promoção.
-**Descrição** | Informe uma descrição para a promoção.
-**De** | Informe o início da validade da promoção.
-**Até** | Informe o fim da validade da promoção.
-**Situação** | Informa se a promoção está ou não dentro da validade.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Descrição** | Informer a descrição.
+**De** | Informe a data de início. Por padrão, este campo é obrigatório.
+**Até** | Informe a data de fim. Por padrão, este campo é obrigatório.
+**Situação** | Informe o situação.
 <br>
 
 ## Links

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Máquinas**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Número** | Apresenta .
-**Descrição** | Apresenta .
-**Situação** | Apresenta .
-**Cor** | Apresenta .
+**Número** | Informa o número.
+**Descrição** | Informa a descrição.
+**Situação** | Informa a situação.
+**Cor** | Informa a cor.
 <br>
 
 ## Geral
@@ -23,10 +22,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Cor** | Informe .
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Situação** | Selecione a situação. Opções: Em Manutenção, Em Operação, Inativa. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Cor** | Selecione a cor.
 <br>
 <br>
 <br>

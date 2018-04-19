@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastros**, opção **Vendedores**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | Apresenta .
-**Nome** | Apresenta .
-**Telefone** | Apresenta .
-**Celular** | Apresenta .
-**Atv** | Apresenta .
+**Código** | Informa o código.
+**Nome** | Informa o nome.
+**Telefone** | Informa o número do telefone.
+**Celular** | Informa o número do celular.
+**Atv** | Informa se está ativo.
 <br>
 
 ## Geral
@@ -24,22 +23,22 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**CPF** | Informe . Por padrão, este campo é obrigatório.
-**RG** | Informe . Por padrão, este campo é obrigatório.
-**Logradouro** | Informe . Por padrão, este campo é obrigatório.
-**Número** | Informe .
-**Complemento** | Informe .
-**Bairro** | Informe .
-**CEP** | Informe .
-**Estado** | Selecione .
-**Município** | Selecione .
-**Telefone** | Informe . Por padrão, este campo é obrigatório.
-**Celular** | Informe .
-**E-mail** | Informe .
-**Comissão** | Informe .
-**Ativo** | Informe se .
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**CPF** | Informe o CPF. Por padrão, este campo é obrigatório.
+**RG** | Informe o RG. Por padrão, este campo é obrigatório.
+**Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
+**Número** | Informe o número.
+**Complemento** | Informe o complemento.
+**Bairro** | Informe o bairro.
+**CEP** | Informe o CEP.
+**Estado** | Selecione o estado.
+**Município** | Selecione o município.
+**Telefone** | Informe o número do telefone. Por padrão, este campo é obrigatório.
+**Celular** | Informe o número do celular.
+**E-mail** | Informe o e-mail.
+**Comissão** | Informe o percentual de comissão.
+**Ativo** | Selecione se está ativo.
 <br>
 <br>
 <br>

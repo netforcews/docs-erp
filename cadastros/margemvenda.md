@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Margens de Venda**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Apresenta .
-**Margem (%)** | Apresenta .
-**Asumir** | Apresenta .
+**Descrição** | Informa a descrição.
+**Margem (%)** | Informa o percentual de margem.
+**Asumir** | Informa se deve asumir.
 <br>
 
 ## Geral
@@ -22,10 +21,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Margem (%)** | Informe . Por padrão, este campo é obrigatório.
-**Assumir** | Informe se .
-**Campo** | Apresenta . Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Margem (%)** | Informe o percentual de margem. Por padrão, este campo é obrigatório.
+**Assumir** | Informa se deve asumir.
+**Campo** | Selecione o campo. Opções: Valor1, Valor2, Valor3, Valor4, Valor5, Valor6. Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

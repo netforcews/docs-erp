@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Naturezas de Operação**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**CFOP** | Apresenta .
-**Descrição** | Apresenta .
-**Aut** | Apresenta .
+**CFOP** | Informa o CFOP.
+**Descrição** | Informa o descrição.
+**Aut** | Informa se é autorizado.
 <br>
 
 ## Geral
@@ -22,19 +21,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**CFOP** | Apresenta . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**Descrição** | Apresenta . Por padrão, este campo é obrigatório.
-**Gerar movimentação financeira** | Informe se .
-**Gerar tributação** | Informe se .
-**Gerar movimentação de estoque** | Informe se .
-**Devolução** | Informe se .
-**Demonstração** | Informe se .
-**Autorizado** | Informe se .
-**Destaca aproveitamento de ICMS do SIMPLES** | Informe se .
-**Teste de sistema** | Informe se .
-**Requer detalhamento de combustível / lubrificantes** | Informe se .
-**Cód Nat.Oper** | Código da natureza de operação quando para serviço
+**CFOP** | Informe o CFOP. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: Entrada, Saída. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Gerar movimentação financeira** | Selecione se deve gerar movimentação financeira.
+**Gerar tributação** | Selecione se deve gerar tributação.
+**Gerar movimentação de estoque** | Selecione se deve gerar movimentação de estoque.
+**Devolução** | Selecione se é devolução.
+**Demonstração** | Selecione se é demonstração.
+**Autorizado** | Selecione se é autorizado.
+**Destaca aproveitamento de ICMS do SIMPLES** | Selecione se destaca aproveitamento de icms do SIMPLES.
+**Teste de sistema** | Selecione se é tteste de sistema.
+**Requer detalhamento de combustível / lubrificantes** | Selecione se requer detalhamento de combustível / lubrificantes.
+**Cód Nat.Oper** | Informe o código da natureza da operação.
 <br>
 <br>
 <br>

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **OC Cobrança Motivos**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Banco** | Apresenta .
-**Cód** | Apresenta .
-**Motivo** | Apresenta .
+**Banco** | Informa o banco.
+**Cód** | Informa o código.
+**Motivo** | Informa o motivo.
 <br>
 
 ## Geral
@@ -22,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Banco** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Motivo** | Informe . Por padrão, este campo é obrigatório.
+**Banco** | Informe o banco. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Motivo** | Informe o motivo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

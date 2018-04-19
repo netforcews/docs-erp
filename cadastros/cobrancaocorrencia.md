@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Ocorrências de Cobrança**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Banco** | Apresenta .
-**Cód** | Apresenta .
-**Descrição** | Apresenta .
-**EC** | Apresenta .
-**Situação** | Apresenta .
+**Banco** | Informa o banco.
+**Cód** | Informa o código.
+**Descrição** | Informa a descrição.
+**EC** | Informa se está em cobrança.
+**Situação** | Informa a situação.
 <br>
 
 ## Geral
@@ -24,15 +23,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Banco** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Forma de Pagto** | Forma de pagamento que o título deve possuir quando receber esta ocorrência.
-**Em Cobrança** | Informe se .
-**Limpar dados do Boleto** | Informe se .
-**Reenviar E-mail** | Reenviar e-mail do boleto
-**Atualizar vencimento** | Informe se .
+**Banco** | Informe o banco. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Situação** | Selecione a situação. Opções: Liquidação, Normal, Rejeição. Por padrão, este campo é obrigatório.
+**Forma de Pagto** | Selecione a  forma de pagamento.
+**Em Cobrança** | Selecione se está em cobrança.
+**Limpar dados do Boleto** | Selecione se deve limpar dados do boleto.
+**Reenviar E-mail** | Selecione se deve reenviar e-mail.
+**Atualizar vencimento** | Selecione se  dee atualizar o vencimento.
 <br>
 <br>
 <br>
