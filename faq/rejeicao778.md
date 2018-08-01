@@ -1,7 +1,4 @@
-# Rejeição 778: Informado NCM inexistente
-
-## Rejeição
-778 - Informado NCM inexistente
+# 778: Informado NCM inexistente
 
 ## Causa
 Quando for emitida uma NF-e e o NCM (Nomenclatura Comum do Mercosul) não existir na tabela de NCM publicada pelo 
