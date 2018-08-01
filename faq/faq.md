@@ -9,7 +9,6 @@
  - [Importar CTe](/faq/importarcte.md)
  - [Mudar Coluna Código para Pedidos/Orçamentos](/faq/mudarcolunacodigo.md)
  - [Reenviar títulos para cobrança](/faq/reenviartitulosparacobranca.md)
- - [Rejeição 778: Informado NCM inexistente](/faq/rejeicao778.md)
  - [Rejeições NFe](/faq/rejeicoes.md)
  - [Título liquidado duas vezes](/faq/tituloliquidadoduasvezes.md)
  - [Transferir responsável](/faq/transferirresponsavel.md)
