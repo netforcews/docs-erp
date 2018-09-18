@@ -12,6 +12,7 @@
  - [Rejeições NFe](/faq/rejeicoes.md)
  - [Título liquidado duas vezes](/faq/tituloliquidadoduasvezes.md)
  - [Transferir responsável](/faq/transferirresponsavel.md)
+ - [Valor de venda do produto](/faq/valorvendaproduto.md)
  
  
  
