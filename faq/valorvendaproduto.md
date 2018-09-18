@@ -14,13 +14,13 @@ Campo | Descrição
 No cadastro de **Pessoas**, aba **Configurações**, podemos selecionar a margem de venda, ou seja, qual o valor que será utilizado pelo sistema ao vender para esta pessoa.   
 ![valorvendaproduto02](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/valorvendaproduto02.png)
 
-Margem de venda 
----|
-Especialmente competitiva |
-Competitiva |
-Normal |
-Lucrativa |
-Extremamente lucrativa |
+Margem de venda |   
+---|   
+Especialmente competitiva |   
+Competitiva |   
+Normal |   
+Lucrativa |   
+Extremamente lucrativa |   
 
 ## Veja também
 - [Margens de Venda](/cadastros/margemvenda.md).
