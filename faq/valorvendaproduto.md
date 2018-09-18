@@ -22,4 +22,6 @@ Normal |
 Lucrativa |
 Extremamente lucrativa |
 
-Levar em consideração o que foi definido em [Margens de Venda](/cadastros/margemvenda.md).
+## Veja também
+- [Margens de Venda](/cadastros/margemvenda.md).
+- [Promoções](/cadastros/promocoes.md).
