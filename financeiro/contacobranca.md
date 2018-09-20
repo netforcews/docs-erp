@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**, opção **Remessa de Cobrança**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | Apresenta .
-**Conta Corrente** | Apresenta .
-**Comando/Status** | Apresenta .
-**Último Arquivo** | Apresenta .
-**Último Resumo** | Apresenta .
+**Conta Corrente** | Informa a descrição.
+**Comando/Status** | Informa o comando/status.
+**Último Arquivo** | Informa o último arquivo.
+**Último Resumo** | Informa o último resumo.
+<br>
+
+## Detalhes
+Selecione a conta corrente da qual o sistema deverá gerar o arquivo de remessa para o banco.
 <br>
 <br>
 <br>
