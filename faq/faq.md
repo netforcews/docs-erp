@@ -1,6 +1,7 @@
 # F.A.Q.
 
  - [Atualizar certificado da empresa](/faq/empresausuariacertificado.md)
+ - [Boletos, como funciona?](/faq/boletoscomofunciona.md)
  - [Convênio 93/2015](/faq/icms-93-2015.md)
  - [Devolução de nota fiscal](/faq/evolucaonotafiscal.md)
  - [DIFAL](/faq/icms-93-2015.md)
