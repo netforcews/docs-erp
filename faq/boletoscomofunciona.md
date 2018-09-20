@@ -10,9 +10,9 @@ Primeiramente vamos preciar entender alguns conceitos e processos.
 
 ## Processo
 1. A cada pedido fechado, que gerar uma Nota Fiscal, o sistema faz uma marcação de controle;
-2. Após um período qualquwer - pode ser a cada 2 horas, no fim do expediente, conforme critério da empresa - deve-se fazer a **Remessa de cobrança**.
-Neste caso, o sistema fará a remessa apenas dos títulos marcados até o momento;
-3. Feito isto, quando houver o retorno por parte do Banco, geralmente 24 horas depois, deve-se fazer o **Retorno de cobrança** 
+2. Após um período qualquer - pode ser a cada 2 horas, no fim do expediente, conforme critério da sua empresa - deve-se fazer a **Remessa de cobrança**.
+Neste caso, o sistema irá gerar um arquivo de remessa apenas dos títulos marcados até o momento. Este arquivo deve ser enviado através do portal do banco;
+3. Feito isto, geralmente 24 horas depois, deve-se acessar o portal do banco e baixar o arquivo de retorno, o **Retorno de cobrança**, para importar no sistema, que buscará consciliar as informações recebidas com as informações enviadas.
 
 ## Veja:
 - [Remessa de Cobrança](/financeiro/contacobranca.md)
