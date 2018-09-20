@@ -31,7 +31,7 @@ Campo | Descrição
 --:|---
 **Empresa CNPJ** | Informa o CNPJ da empresa.
 **Num.Documento** | Informa o número do documento.
-**Banco/Conta** | Informe a banco/conta.
+**Banco/Conta** | Informe o banco/conta.
 **Nosso Número** | Informe o nosso número.
 **Vencimento** | Informa a data do vencimento.
 **Processado** | Informa o processado.
@@ -44,7 +44,7 @@ Campo | Descrição
 **Outr.Créditos (+)** | Informa outros.créditos.
 **Valor Crédito(=)** | Informa o valor crédito.
 **Valor Pago(=)** | Informa o valor pago.
-**Banco/Ag.Cobradora** | Informe a banco/ag.cobradora.
+**Banco/Ag.Cobradora** | Informe o banco/ag.cobradora.
 **Data Crédito** | Informa a data do crédito.
 **Nome Sacado** | Informa o sacado.
 **Cód.Liquidação** | Informa o cód.liquidação.
