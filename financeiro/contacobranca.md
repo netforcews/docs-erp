@@ -18,7 +18,8 @@ Campo | Descrição
 <br>
 
 ## Detalhes
-Selecione a conta corrente da qual o sistema deverá gerar o arquivo de remessa e clique em **Gerar arquivo de remessa**.
+Selecione a conta corrente da qual o sistema deverá gerar o arquivo de remessa e clique em **Gerar arquivo de remessa**.   
+Feito isto, o sistema irá gerar um arquivo que deverá ser enviado manualmente através do portal do banco.
 <br>
 <br>
 <br>
