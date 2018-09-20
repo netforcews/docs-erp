@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**, opção **Retorno de Cobrança**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,17 +11,17 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Banco** | Apresenta .
-**Data Oc.** | Apresenta .
-**Oc.** | Apresenta .
-**Núm.Documento** | Apresenta .
-**Sacado** | Apresenta .
-**Emp** | Apresenta .
-**Vencto** | Apresenta .
-**Valor Título** | Apresenta .
-**Valor Pago** | Apresenta .
-**T.C** | Apresenta .
-**Proc** | Apresenta .
+**Banco** | Informa o banco.
+**Data Oc.** | Informa a data da ocorrência.
+**Oc.** | Informa a ocorrência..
+**Núm.Documento** | Informa o número do documento.
+**Sacado** | Informa o sacado.
+**Emp** | Informa a empresa.
+**Vencto** | Informa a data do vencimento.
+**Valor Título** | Informa o valor do título.
+**Valor Pago** | Informa o valor pago.
+**T.C** | Informa a tarifa de cobrança.
+**Proc** | Informa o processado.
 <br>
 
 ## Registro
@@ -30,41 +29,43 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa CNPJ** | Número da inscrição da empresa usuária (CNPJ)
-**Num.Documento** | Número do documento de cobrança
-**Banco/Conta** | Agência, Conta Corrente da empresa usuária
-**Nosso Número** | Informe .
-**Vencimento** | Data de vencimento do título
-**Processado** | Informe se .
-**Valor Título (=)** | Informe .
-**Val.Abatimento (-)** | Valor do abatimento concedido
-**Val.Descontos (-)** | Valor do desconto concedido
-**Tarifa Cobrança** | Valor da despesa de cobrança
-**Juros de Mora (+)** | Valor de mora e multa pagos pelo sacado
-**Valor IOF** | Valor da IOF a ser recolhido
-**Outr.Créditos (+)** | Valor de outros créditos
-**Valor Crédito(=)** | Valor lançado em conta corrente
-**Valor Pago(=)** | Apresenta .
-**Banco/Ag.Cobradora** | Número do banco e da agência cobradora
-**Data Crédito** | Data de crédito desta liquidação
-**Nome Sacado** | Apresenta .
-**Cód.Liquidação** | Meio pelo qual o título foi liquidado
-**Carteira** | Número da carteira
-**Cód.Carteira** | Código da Carteira
-**Ocorrência** | Apresenta .
-**Data Ocorrência** | Data da ocorrência no Banco
-**Espécie** | Espécie do título
-**Inst.Cancelada** | Código da instrução cancelada
-**Erros** | Registros rejeitados ou alegação do sacado
-**Motivo Ocorrência** | Apresenta .
-**Mensagem** | Apresenta .
-**Usuário incluíu** | Nome do usuário que incluído o arquivo para processamento
-**Data Inclusão** | Apresenta .
+**Empresa CNPJ** | Informa o CNPJ da empresa.
+**Num.Documento** | Informa o número do documento.
+**Banco/Conta** | Informe a banco/conta.
+**Nosso Número** | Informe o nosso número.
+**Vencimento** | Informa a data do vencimento.
+**Processado** | Informa o processado.
+**Valor Título (=)** | Informa o valor do título.
+**Val.Abatimento (-)** | Informa o valor do abatimento.
+**Val.Descontos (-)** | Informa o valor dos descontos.
+**Tarifa Cobrança** | Informa a tarifa de cobrança.
+**Juros de Mora (+)** | Informa o juros de mora.
+**Valor IOF** | Informa o valor do IOF.
+**Outr.Créditos (+)** | Informa outros.créditos.
+**Valor Crédito(=)** | Informa o valor crédito.
+**Valor Pago(=)** | Informa o valor pago.
+**Banco/Ag.Cobradora** | Informe a banco/ag.cobradora.
+**Data Crédito** | Informa a data do crédito.
+**Nome Sacado** | Informa o sacado.
+**Cód.Liquidação** | Informa o cód.liquidação.
+**Carteira** | Informa a carteira.
+**Cód.Carteira** | Informa o cód.carteira.
+**Ocorrência** | Informa a ocorrência..
+**Data Ocorrência** | Informa a data da ocorrência.
+**Espécie** | Informa a espécie.
+**Inst.Cancelada** | Informa a inst.cancelada.
+**Erros** | Informa os erros.
+**Motivo Ocorrência** | Informa o motivo ocorrência.
+**Mensagem** | Informa a mensagem.
+**Usuário incluíu** | Informa o usuário que incluíu.
+**Data Inclusão** | Informa a data de inclusão.
 <br>
 
 ## Comandos
 ### Carregar arquivo de retorno
+Ao clicar nesta opção, o sistema irá pedir que se informe o arquivo de retorno do banco.
 ### Processar retorno
+Ao clicar nesta opção, o sistema irá processar os dados do arquivo de retorno selecionado, conciliando as informações.
 <br>
 <br>
 <br>
