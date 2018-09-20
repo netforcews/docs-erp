@@ -63,7 +63,7 @@ Campo | Descrição
 
 ## Comandos
 ### Carregar arquivo de retorno
-Ao clicar nesta opção, o sistema apresentará uma tela com o botão **Escolher arquivio**.   
+Ao clicar nesta opção, o sistema apresentará uma tela com o botão **Escolher arquivo**.   
 Clicando neste botão, o sistema pedirá que se informe o arquivo de retorno para importar os dados.   
 Também nesta tela, há o botão **Anexar** que permite que se anexe o arquivo de remessa no sistema.
 
