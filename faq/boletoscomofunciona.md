@@ -1,4 +1,4 @@
-# Boletos, como funciona?
+# BOLETOS, COMO FUNCIONA?
 
 Primeiramente vamos preciar entender alguns conceitos e processos.
 
