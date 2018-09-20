@@ -63,9 +63,12 @@ Campo | Descrição
 
 ## Comandos
 ### Carregar arquivo de retorno
-Ao clicar nesta opção, o sistema irá pedir que se informe o arquivo de retorno do banco.
+Ao clicar nesta opção, o sistema apresentará uma tela com o botão **Escolher arquivio**.   
+Clicando neste botão, o sistema pedirá que se informe o arquivo de retorno para importar os dados.   
+Também nesta tela, há o botão **Anexar** que permite que se anexe o arquivo de remessa no sistema.
+
 ### Processar retorno
-Ao clicar nesta opção, o sistema irá processar os dados do arquivo de retorno selecionado, conciliando as informações.
+A opção **Processar retorno** do menu de **Comandos** fará com que  o sistema processe os dados do arquivo de retorno selecionado, conciliando as suas informações.
 <br>
 <br>
 <br>
