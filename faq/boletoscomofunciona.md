@@ -16,11 +16,11 @@ Neste caso, o sistema irá gerar um arquivo de remessa apenas dos títulos marca
 
 ## Lembre-se
 A forma de pagamento do título deve ser **Boleto**.   
-![boletoformapagamento](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoformapagamento.png)
+![boletoformapagamento](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoformapagamento.png)   
 Dados do boleto   
-![boletodados](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletodados.png)
+![boletodados](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletodados.png)   
 Para emitir o boleto, deve-se estar no título desejhado,e na parte inferior dos dados há uma opção **Boleto**   
-![boletoimprimir](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoimprimir.png)
+![boletoimprimir](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoimprimir.png)   
 <br>
 
 ## Veja:
