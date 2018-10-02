@@ -15,11 +15,11 @@ Neste caso, o sistema irá gerar um arquivo de remessa apenas dos títulos marca
 3. Feito isto, geralmente 24 horas depois, deve-se acessar o portal do banco e baixar o arquivo de retorno, o **Retorno de cobrança**, para importar no sistema, que buscará consciliar as informações recebidas com as informações enviadas.
 
 ## Lembre-se
-A forma de pagamento do título deve ser **Boleto**.
+A forma de pagamento do título deve ser **Boleto**.   
 ![boletoformapagamento](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoformapagamento.png)
-Dados do boleto
+Dados do boleto   
 ![boletodados](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletodados.png)
-Para emitir o boleto, deve-se estar no título desejhado,e na parte inferior dos dados há uma opção **Boleto**
+Para emitir o boleto, deve-se estar no título desejhado,e na parte inferior dos dados há uma opção **Boleto**   
 ![boletoimprimir](https://raw.githubusercontent.com/netforcews/docs-erp/master/faq/imagens/boletoimprimir.png)
 <br>
 
