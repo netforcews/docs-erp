@@ -127,5 +127,9 @@
 - [Pré-pedido](/vendas/prepedido.md)
 - [Processar Contratos](/vendas/venda-contratos.md)
 
+***Relatórios/Consultas***
+- [Resumo de vendas por produtos #2](/relatorios/40137.md)
+- [Resumo de vendas por cliente](/relatorios/40138.md)
+
 **WHS**
 - [Coleta](/whs/nf-expedicao.md)
